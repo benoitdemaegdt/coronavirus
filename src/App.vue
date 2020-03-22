@@ -5,6 +5,11 @@
       <h1>Le coronavirus en france</h1>
       <p>Quelques visualisations sur l'évolution de l'épidémie du coronavirus en France.</p>
       <img src='@/assets/coronavirus.png'>
+      <h2>Chronologie de l'épidémie du coronavirus en france</h2>
+    </div>
+      <!-- timeline -->
+      <timeline class='timeline'></timeline>
+    <div class='content'>
       <h2>Source des données</h2>
       <p>
         Les données à l'origine des graphes ci-dessous proviennent de <a href='https://www.data.gouv.fr/fr/datasets/cas-confirmes-dinfection-au-covid-19-par-region/'>data.gouv.fr</a>,
@@ -50,14 +55,16 @@
 import covid19 from './data/covid19.json';
 
 // components
-import LineChart from './components/LineChart.vue';
-import MixedChart from './components/MixedChart.vue';
+import LineChart from '@/components/LineChart.vue';
+import MixedChart from '@/components/MixedChart.vue';
+import Timeline from '@/components/Timeline.vue';
 
 export default {
   name: 'App',
   components: {
     LineChart,
     MixedChart,
+    Timeline,
   },
   mounted() {
     this.covid19 = covid19;
@@ -173,6 +180,10 @@ export default {
   canvas {
     max-width: 1200px;
     margin: auto;
+  }
+  .timeline {
+    max-width: 1300px;
+    margin: auto; 
   }
   p {
     font-size: 21px;

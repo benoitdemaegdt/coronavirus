@@ -12,7 +12,8 @@
     "chartjs-plugin-annotation": "^0.5.7",
     "core-js": "^3.6.4",
     "vue": "^2.6.11",
-    "vue-chartjs": "^3.5.0"
+    "vue-chartjs": "^3.5.0",
+    "vue-horizontal-timeline": "^0.6.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.2.0",
