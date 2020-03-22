@@ -81,7 +81,7 @@ export default {
 }
 
 /* avoid overflow as much as possible */
-.vue-horizontal-timeline .timeline ol li[data-v-c0e978a0]:last-child {
-    width: 3px !important;
+.vue-horizontal-timeline .timeline ol li:last-child {
+  width: 0px !important;
 }
 </style>
