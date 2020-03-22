@@ -4,6 +4,7 @@
     <div class='content'>
       <h1>Le coronavirus en france</h1>
       <p>Quelques visualisations sur l'évolution de l'épidémie du coronavirus en France.</p>
+      <img src='@/assets/coronavirus.png'>
       <h2>Source des données</h2>
       <p>
         Les données à l'origine des graphes ci-dessous proviennent de <a href='https://www.data.gouv.fr/fr/datasets/cas-confirmes-dinfection-au-covid-19-par-region/'>data.gouv.fr</a>,
@@ -19,8 +20,8 @@
       </p>
       <p><i>Je me fais tester uniquement si je suis une personne fragile ou à risque, si je présente des signes de gravité [...]</i></p>
       <p>
-        Une personne infectée mais initialement en bonne santé ne sera donc probablement pas répertoriée dans ces données.
-        De même, les personnes asymptomatiques (infectées mais sans aucun symptôme clinique) ne seront pas non plus répertoriées.
+        Les personne infectée mais initialement en bonne santé ainsi que les personnes asymptomatiques (infectées mais sans aucun symptôme clinique)
+        ne seront donc probablement pas répertoriées dans ces données.
       </p>
       <p>
         La valeur absolue de ces données n'a donc pas un grand intérêt. C'est plutôt la tendance qui est ici intéressante.
@@ -196,5 +197,12 @@ export default {
 
 p {
   text-align: left;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
 }
 </style>
