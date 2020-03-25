@@ -340,5 +340,23 @@
     "Pays de la Loire": 343,
     "Provence-Alpes-Côte d’Azur": 1595,
     "DROM": 277
+  },
+  {
+    "Date": "25/03/2020",
+    "France": 25233,
+    "Auvergne-Rhône-Alpes": 2093,
+    "Bourgogne-Franche-Comté": 1569,
+    "Bretagne": 603,
+    "Centre-Val de Loire": 561,
+    "Corse": 225,
+    "Grand Est": 5479,
+    "Hauts-de-France": 1753,
+    "Ile-de-France": 7660,
+    "Normandie": 688,
+    "Nouvelle-Aquitaine": 912,
+    "Occitanie": 1082,
+    "Pays de la Loire": 368,
+    "Provence-Alpes-Côte d’Azur": 1927,
+    "DROM": 313
   }
 ]
