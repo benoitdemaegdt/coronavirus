@@ -12,7 +12,7 @@
         style="width: 300px"
         class="ml-0 pl-4"
       >
-        <router-link to='/' class='toolbar-title'>Coronavirus en France</router-link
+        <router-link to='/coronavirus' class='toolbar-title'>Coronavirus en France</router-link
         >
       </v-toolbar-title>
       <v-spacer />
@@ -33,7 +33,7 @@
       <v-list nav>
 
         <!-- france -->
-        <v-list-item to='/france' color='primary'>
+        <v-list-item to='/coronavirus/france' color='primary'>
           <v-list-item-icon><v-icon>mdi-home</v-icon></v-list-item-icon>
           <v-list-item-title>France</v-list-item-title>
         </v-list-item>
@@ -85,12 +85,12 @@ export default {
   data: () => ({
     drawer: null,
     regions: [
-      { name: 'île de france', path: '/regions/ile-de-france' },
-      { name: 'occitanie', path: '/regions/occitanie' },
+      { name: 'île de france', path: '/coronavirus/regions/ile-de-france' },
+      { name: 'occitanie', path: '/coronavirus/regions/occitanie' },
     ],
     departements: [
-      { name: 'deux sèvres', path: '/departements/deux-sevres' },
-      { name: 'rhônes', path: '/departements/rhones' },
+      { name: 'deux sèvres', path: '/coronavirus/departements/deux-sevres' },
+      { name: 'rhônes', path: '/coronavirus/departements/rhones' },
     ]
     // items: [
     //   { icon: 'mdi-view-dashboard', text: 'France', path: '/france' },

@@ -14,19 +14,19 @@ const router = new VueRouter({
   mode: 'history',
   routes: [
     {
-      path: '/',
+      path: '/coronavirus',
       component: Home,
     },
     {
-      path: '/france',
+      path: '/coronavirus/france',
       component: France,
     },
     {
-      path: '/regions/:name',
+      path: '/coronavirus/regions/:name',
       component: Regions,
     },
     {
-      path: '/departements/:name',
+      path: '/coronavirus/departements/:name',
       component: Departements,
     },
     {

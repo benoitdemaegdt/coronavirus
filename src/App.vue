@@ -30,8 +30,4 @@
     color: #2c3e50;
     /* margin: auto; */
   }
-
-  .v-content {
-    padding-top: 120px !important;
-  }
 </style>
