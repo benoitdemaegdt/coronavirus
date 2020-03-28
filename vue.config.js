@@ -1,4 +1,7 @@
 module.exports = {
-  publicPath: "/coronavirus",
-  outputDir: "docs"
+  "publicPath": "/coronavirus",
+  "outputDir": "docs",
+  "transpileDependencies": [
+    "vuetify"
+  ]
 }
