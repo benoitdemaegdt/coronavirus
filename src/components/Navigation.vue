@@ -81,46 +81,20 @@
 </template>
 
 <script>
+// data
+import geo from '@/data/geo.json';
+
 export default {
   data: () => ({
     drawer: null,
-    regions: [
-      { name: 'île de france', path: '/coronavirus/regions/ile-de-france' },
-      { name: 'occitanie', path: '/coronavirus/regions/occitanie' },
-    ],
-    departements: [
-      { name: 'deux sèvres', path: '/coronavirus/departements/deux-sevres' },
-      { name: 'rhônes', path: '/coronavirus/departements/rhones' },
-    ]
-    // items: [
-    //   { icon: 'mdi-view-dashboard', text: 'France', path: '/france' },
-    //   {
-    //     icon: 'mdi-chevron-up',
-    //     'icon-alt': 'mdi-chevron-down',
-    //     text: 'Régions',
-    //     model: false,
-    //     children: [
-    //       { text: 'hey' },
-    //       { text: 'Export' },
-    //       { text: 'Print' },
-    //       { text: 'Undo changes' },
-    //       { text: 'Other contacts' },
-    //     ],
-    //   },
-    //   {
-    //     icon: 'mdi-chevron-up',
-    //     'icon-alt': 'mdi-chevron-down',
-    //     text: 'Départements',
-    //     model: false,
-    //     children: [
-    //       { text: 'Import' },
-    //       { text: 'Export' },
-    //       { text: 'Print' },
-    //       { text: 'Undo changes' },
-    //       { text: 'Other contacts' },
-    //     ],
-    //   },
-    // ],
+    regions: geo.regions.map(region => ({
+      name: region.region_name,
+      path: `/coronavirus/regions/${region.searchable_region_name}`,
+    })),
+    departements: geo.departements.map(dep => ({
+      name: dep.dep_name,
+      path: `/coronavirus/departements/${dep.searchable_dep_name}`,
+    })),
   }),
 }
 </script>
