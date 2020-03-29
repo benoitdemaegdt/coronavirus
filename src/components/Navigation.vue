@@ -34,12 +34,12 @@
 
         <!-- france -->
         <v-list-item to='/coronavirus/france' color='primary'>
-          <v-list-item-icon><v-icon>mdi-home</v-icon></v-list-item-icon>
+          <v-list-item-icon><v-icon>mdi-glass-wine</v-icon></v-list-item-icon>
           <v-list-item-title>France</v-list-item-title>
         </v-list-item>
         
         <!-- regions -->
-        <v-list-group prepend-icon='mdi-home' no-action>
+        <v-list-group prepend-icon='mdi-food-croissant' no-action>
           <template v-slot:activator>
             <v-list-item-content>
               <v-list-item-title>Regions</v-list-item-title>
@@ -58,7 +58,7 @@
         </v-list-group>
 
         <!-- departements -->
-        <v-list-group prepend-icon='mdi-home' no-action>
+        <v-list-group prepend-icon='mdi-baguette' no-action>
           <template v-slot:activator>
             <v-list-item-content>
               <v-list-item-title>Départements</v-list-item-title>
