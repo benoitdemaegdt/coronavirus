@@ -1,49 +1,120 @@
 const fs = require('fs');
-const util = require('util');
+const path = require("path");
 
-const readFile = util.promisify(fs.readFile);
+const outputFrance = [];
+const outputRegions = [];
+const outputDepartements = [];
 
-(async() => {
-  try {
-    const csv = await readFile('./covid19.csv', 'utf8');
-    const lines = csv.split('\n');
+// 1 - read files
+const rawGeo = fs.readFileSync(path.resolve(__dirname, './geo.json'))
+const geo = JSON.parse(rawGeo);
 
-    let result = [];
-    const headers = lines[0].split(',');
+let rawSpf = fs.readFileSync(path.resolve(__dirname, './spf.csv'), 'utf8');
+rawSpf = rawSpf.replace(/"/g, '');
+rawSpf = rawSpf.replace(/;/g, ',');
+rawSpf = rawSpf.replace(/\r/g, '');
 
-    for (let i = 1; i < lines.length; i++) {
+// 2 - loop through lines and build dataset
+const lines = rawSpf.split('\n');
 
-      const obj = {};
-      const currentline = lines[i].split(',');
+for (let i = 1; i < lines.length; i++) {
+  if (!lines[i]) continue; // last line is empty :(
+  const currentline = lines[i].split(',');
+  if (currentline[1] === '1' || currentline[1] === '2') continue; // so far we do not care of male vs female
+  if (!currentline[0]) continue; // bug in source data
+  
+  const date = formatDate(currentline[2]);
 
-      for (let j=0; j < headers.length; j++) {
-        if (headers[j] === 'Date') {
-          obj[headers[j]] = formatDate(currentline[j]);
-        } else if (['Guadeloupe', 'Saint-Barthélémy', 'Saint-Martin', 'Guyane', 'Martinique', 'Mayotte', 'La Réunion'].includes(headers[j])) {
-          obj['DROM'] = (obj['DROM'] || 0) + Number(currentline[j]);
-        } else {
-          obj[headers[j]] = Number(currentline[j]);
-        }
-        obj['France'] = (obj['France'] || 0) + Number(currentline[j]);
-      }
-
-      result.push(obj);
-
+  if (i === 1 || outputFrance[outputFrance.length -1].date !== date) {
+    outputFrance.push({
+      date,
+      hospitalisations: Number(currentline[3]),
+      reanimations: Number(currentline[4]),
+      retours:  Number(currentline[5]),
+      deces: Number(currentline[6]),
+    });
+    outputRegions.push({
+      date,
+      regions: [{
+        name: getRegionName(currentline[0]),
+        hospitalisations: Number(currentline[3]),
+        reanimations: Number(currentline[4]),
+        retours:  Number(currentline[5]),
+        deces: Number(currentline[6]),
+      }],
+    });
+    outputDepartements.push({
+      date,
+      departements: [{
+        num: currentline[0],
+        name: getDepartmentName(currentline[0]),
+        hospitalisations: Number(currentline[3]),
+        reanimations: Number(currentline[4]),
+        retours:  Number(currentline[5]),
+        deces: Number(currentline[6]),
+      }],
+    });
+  } else {
+    // france
+    outputFrance[outputFrance.length -1].hospitalisations += Number(currentline[3]);
+    outputFrance[outputFrance.length -1].reanimations += Number(currentline[4]);
+    outputFrance[outputFrance.length -1].retours += Number(currentline[5]);
+    outputFrance[outputFrance.length -1].deces += Number(currentline[6]);
+    // regions
+    const regIdx = outputRegions[outputRegions.length -1].regions.findIndex(region => region.name === getRegionName(currentline[0]));
+    if (regIdx !== -1 ) {
+      outputRegions[outputRegions.length -1].regions[regIdx].hospitalisations += Number(currentline[3]);
+      outputRegions[outputRegions.length -1].regions[regIdx].reanimations += Number(currentline[4]);
+      outputRegions[outputRegions.length -1].regions[regIdx].retours += Number(currentline[5]);
+      outputRegions[outputRegions.length -1].regions[regIdx].deces += Number(currentline[6]);
+    } else {
+      outputRegions[outputRegions.length -1].regions.push({
+        name: getRegionName(currentline[0]),
+        hospitalisations: Number(currentline[3]),
+        reanimations: Number(currentline[4]),
+        retours:  Number(currentline[5]),
+        deces: Number(currentline[6]),
+      });
     }
-
-    result = result.filter(item => item.Date);
-    let json = JSON.stringify(result, null, 2);
-
-    fs.writeFileSync('covid19.json', json);
-
-  } catch (err) {
-    console.log('Error', err);
+    // departements
+    outputDepartements[outputDepartements.length -1].departements.push({
+      num: currentline[0],
+      name: getDepartmentName(currentline[0]),
+      hospitalisations: Number(currentline[3]),
+      reanimations: Number(currentline[4]),
+      retours:  Number(currentline[5]),
+      deces: Number(currentline[6]),
+    });
   }
-})();
+}
+
+// write files
+let jsonFrance = JSON.stringify(outputFrance, null, 2);
+let jsonRegions = JSON.stringify(outputRegions, null, 2);
+let jsonDepartements = JSON.stringify(outputDepartements, null, 2);
+fs.writeFileSync(path.resolve(__dirname, './spf/france.json'), jsonFrance);
+fs.writeFileSync(path.resolve(__dirname,'./spf/regions.json'), jsonRegions);
+fs.writeFileSync(path.resolve(__dirname,'./spf/departements.json'), jsonDepartements);
 
 /**
- * 'YYYY/MM/DD' -> 'DD/MM/YYYY'
+ * 'YYYY-MM-DD' -> 'DD/MM/YYYY'
  */
 function formatDate(date) {
-  return date.split('/').reverse().join('/');
+  return date.split('-').reverse().join('/');
+}
+
+/**
+ * "01" -> "Ain"
+ */
+function getDepartmentName(departmentNumber) {
+  const dep = geo.departements.find(dep => dep.num_dep === departmentNumber);
+  return dep.dep_name;
+}
+
+/**
+ * "01" -> "Auvergne-Rhône-Alpes"
+ */
+function getRegionName(departmentNumber) {
+  const dep = geo.departements.find(dep => dep.num_dep === departmentNumber);
+  return dep.region_name;
 }

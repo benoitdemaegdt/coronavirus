@@ -1,0 +1,79 @@
+[
+  {
+    "date": "18/03/2020",
+    "hospitalisations": 2972,
+    "reanimations": 771,
+    "retours": 816,
+    "deces": 218
+  },
+  {
+    "date": "19/03/2020",
+    "hospitalisations": 4073,
+    "reanimations": 1002,
+    "retours": 1180,
+    "deces": 327
+  },
+  {
+    "date": "20/03/2020",
+    "hospitalisations": 5226,
+    "reanimations": 1297,
+    "retours": 1587,
+    "deces": 450
+  },
+  {
+    "date": "21/03/2020",
+    "hospitalisations": 5900,
+    "reanimations": 1453,
+    "retours": 1811,
+    "deces": 525
+  },
+  {
+    "date": "22/03/2020",
+    "hospitalisations": 6954,
+    "reanimations": 1674,
+    "retours": 2117,
+    "deces": 632
+  },
+  {
+    "date": "23/03/2020",
+    "hospitalisations": 8673,
+    "reanimations": 2080,
+    "retours": 2567,
+    "deces": 860
+  },
+  {
+    "date": "24/03/2020",
+    "hospitalisations": 10163,
+    "reanimations": 2503,
+    "retours": 3281,
+    "deces": 1100
+  },
+  {
+    "date": "25/03/2020",
+    "hospitalisations": 12072,
+    "reanimations": 2935,
+    "retours": 4085,
+    "deces": 1388
+  },
+  {
+    "date": "26/03/2020",
+    "hospitalisations": 13879,
+    "reanimations": 3351,
+    "retours": 4947,
+    "deces": 1696
+  },
+  {
+    "date": "27/03/2020",
+    "hospitalisations": 15701,
+    "reanimations": 3758,
+    "retours": 5698,
+    "deces": 1995
+  },
+  {
+    "date": "28/03/2020",
+    "hospitalisations": 17580,
+    "reanimations": 4236,
+    "retours": 6624,
+    "deces": 2314
+  }
+]
