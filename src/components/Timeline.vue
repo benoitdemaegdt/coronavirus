@@ -47,7 +47,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 /* override few css rules of component */
 .vue-horizontal-timeline {
   box-shadow: none !important;

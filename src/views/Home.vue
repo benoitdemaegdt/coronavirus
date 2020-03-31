@@ -68,3 +68,12 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+  .container {
+    width: 85%;
+    max-width: 1200px;
+    padding: 0px;
+  }
+
+</style>

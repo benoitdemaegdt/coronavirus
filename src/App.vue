@@ -30,4 +30,9 @@
     color: #2c3e50;
     /* margin: auto; */
   }
+
+  .container {
+    max-width: 1200px;
+    padding: 0px;
+  }
 </style>
