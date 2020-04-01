@@ -4,16 +4,16 @@
       <v-col cols='12' sm='6'>
         <!-- hospitalisations -->
         <line-chart
-          title='Hospitalisations par jour en France'
-          :chartData='formatHospitalisationsLineChart()'
+          :chartData='getLineChartData(hospitalisations)'
+          :options='getLineChartOptions(hospitalisations)'
           :styles="chartHeight">
         </line-chart>
       </v-col>
       <v-col cols='12' sm='6'>
         <!-- réanimations -->
         <line-chart
-          title='Réanimations par jour en France'
-          :chartData='formatReanimationsLineChart()'
+          :chartData='getLineChartData(reanimations)'
+          :options='getLineChartOptions(reanimations)'
           :styles="chartHeight">
         </line-chart>
       </v-col>
@@ -22,8 +22,8 @@
       <v-col cols='12'>
         <!-- décès -->
         <line-chart
-          title='Décès cumulés en France'
-          :chartData='formatDecesLineChart()'
+          :chartData='getLineChartData(deces)'
+          :options='getLineChartOptions(deces)'
           :styles="chartHeight">
         </line-chart>
       </v-col>
@@ -40,59 +40,69 @@ import chartMixin from '@/mixins/chartMixin.js';
 
 // components
 import LineChart from '@/components/LineChart.vue';
-// import MixedChart from '@/components/MixedChart.vue';
 
 export default {
   name: 'France',
   components: {
     LineChart,
-    // MixedChart,
   },
   mixins: [chartMixin],
+  data: () => ({
+    labels: undefined,
+    hospitalisations: { key: 'hospitalisations', label: 'Hospitalisations', color: '#C2185B' },
+    reanimations: { key: 'reanimations', label: 'Réanimations', color: '#5E35B1' },
+    deces: { key: 'deces', label: 'Décès', color: '#00897B' },
+  }),
   methods: {
-    formatHospitalisationsLineChart() {
-      const labels = this.getLabels;
+    getLineChartData(category) {
       return {
-        labels,
+        labels: this.getLabels,
         datasets: [{
-          label: `Hospitalisations${String.fromCharCode(160)}`,
-          pointBackgroundColor: '#C2185B',
-          borderColor: '#C2185B',
-          pointBorderColor: '#C2185B',
+          label: `${category.label}${String.fromCharCode(160)}`,
+          pointBackgroundColor: category.color,
+          borderColor: category.color,
+          pointBorderColor: category.color,
           fill: false,
           lineTension: 0.1,
-          data: france.map(elem => elem.hospitalisations),
+          data: france.map(elem => elem[category.key])
         }],
       };
     },
-    formatReanimationsLineChart() {
-      const labels = this.getLabels;
+    getLineChartOptions(category) {
       return {
-        labels,
-        datasets: [{
-          label: `Réanimations${String.fromCharCode(160)}`,
-          pointBackgroundColor: '#5E35B1',
-          borderColor: '#5E35B1',
-          pointBorderColor: '#5E35B1',
-          fill: false,
-          lineTension: 0.1,
-          data: france.map(elem => elem.reanimations),
-        }],
-      };
-    },
-    formatDecesLineChart() {
-      const labels = this.getLabels;
-      return {
-        labels,
-        datasets: [{
-          label: `Décès${String.fromCharCode(160)}`,
-          pointBackgroundColor: '#00897B',
-          borderColor: '#00897B',
-          pointBorderColor: '#00897B',
-          fill: false,
-          lineTension: 0.1,
-          data: france.map(elem => elem.deces),
-        }],
+        scales: {
+          yAxes: [{
+            ticks: { beginAtZero: true },
+            gridLines: { display: true }
+          }],
+          xAxes: [ { gridLines: { display: true } }]
+        },
+        legend: { display: false },
+        title: {
+          display: true,
+          text: `${category.label} en France`,
+        },
+        tooltips: { backgroundColor: 'rgba(0, 0, 0, 0.7)' },
+        responsive: true,
+        maintainAspectRatio: false,
+        // annotation: {
+        //   annotations: [
+        //     {
+        //       type: 'line',
+        //       mode: 'vertical',
+        //       scaleID: 'x-axis-0',
+        //       value: '17/03/2020',
+        //       borderColor: 'red',
+        //       borderWidth: 2,
+        //       label: {
+        //         enabled: true,
+        //         position: 'top',
+        //         backgroundColor: 'rgba(0, 0, 0, 0.7)',
+        //         content: 'DÉBUT CONFINEMENT',
+        //       },
+        //     },
+        //   ],
+        // },
       };
     },
   },
