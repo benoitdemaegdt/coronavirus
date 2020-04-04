@@ -30,6 +30,11 @@
         return-object
       />
       <v-spacer />
+      <a href="https://twitter.com/benoit_demaegdt" target="_blank">
+        <v-btn icon class="d-none d-sm-flex">
+          <i class="fab fa-twitter" style="font-size:24px"></i>
+        </v-btn>
+      </a>
       <a href="https://github.com/benoitdemaegdt/coronavirus" target="_blank">
         <v-btn icon class="d-none d-sm-flex">
           <i class="fab fa-github" style="font-size:24px"></i>
