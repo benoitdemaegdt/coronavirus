@@ -75,5 +75,47 @@
     "reanimations": 4236,
     "retours": 6624,
     "deces": 2314
+  },
+  {
+    "date": "29/03/2020",
+    "hospitalisations": 19311,
+    "reanimations": 4592,
+    "retours": 7131,
+    "deces": 2606
+  },
+  {
+    "date": "30/03/2020",
+    "hospitalisations": 20946,
+    "reanimations": 5056,
+    "retours": 7923,
+    "deces": 3024
+  },
+  {
+    "date": "31/03/2020",
+    "hospitalisations": 22672,
+    "reanimations": 5496,
+    "retours": 9443,
+    "deces": 3523
+  },
+  {
+    "date": "01/04/2020",
+    "hospitalisations": 24543,
+    "reanimations": 5940,
+    "retours": 10934,
+    "deces": 4032
+  },
+  {
+    "date": "02/04/2020",
+    "hospitalisations": 26131,
+    "reanimations": 6305,
+    "retours": 12427,
+    "deces": 4503
+  },
+  {
+    "date": "03/04/2020",
+    "hospitalisations": 27302,
+    "reanimations": 6556,
+    "retours": 14007,
+    "deces": 5091
   }
 ]
