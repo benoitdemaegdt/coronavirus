@@ -15,6 +15,20 @@
         <router-link to='/coronavirus' class='toolbar-title'>Coronavirus en France</router-link
         >
       </v-toolbar-title>
+      <v-autocomplete
+        v-model="searchNavigation"
+        flat
+        solo-inverted
+        hide-details
+        clearable
+        prepend-inner-icon="mdi-magnify"
+        label="Chercher une région ou un département"
+        class="hidden-sm-and-down"
+        :items="regions.concat(departements)"
+        item-text="name"
+        item-value="path"
+        return-object
+      />
       <v-spacer />
       <a href="https://github.com/benoitdemaegdt/coronavirus" target="_blank">
         <v-btn icon class="d-none d-sm-flex">
@@ -86,7 +100,8 @@ import geo from '@/data/geo.json';
 
 export default {
   data: () => ({
-    drawer: null,
+    drawer: undefined,
+    searchNavigation: undefined,
     regions: geo.regions.map(region => ({
       name: region.region_name,
       path: `/coronavirus/regions/${region.searchable_region_name}`,
@@ -96,6 +111,15 @@ export default {
       path: `/coronavirus/departements/${dep.searchable_dep_name}`,
     })),
   }),
+  watch: {
+    searchNavigation: {
+      handler(newRoute) {
+        if (newRoute) {
+          this.$router.push({ path: newRoute.path });
+        }
+      }
+    }
+  }
 }
 </script>
 
