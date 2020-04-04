@@ -102,6 +102,7 @@ const GEO = JSON.parse(fs.readFileSync(path.resolve(__dirname, './geo.json')));
   fs.writeFileSync(path.resolve(__dirname,'./spf/regions.json'), jsonRegions);
   fs.writeFileSync(path.resolve(__dirname,'./spf/departements.json'), jsonDepartements);
 
+  console.log('sucessfully updated all files');
 })()
 .catch(err => console.log('err :', err));
 

@@ -1,7 +1,7 @@
 name: update data and build app
 on:
   schedule:
-      - cron: '0 18 * * *'
+      - cron: '20 18 * * *'
 jobs:
   # This workflow contains a single job called "build"
   build:
@@ -18,7 +18,9 @@ jobs:
 
     # Build VueJS app with new data 
     - name: Build
-      run: npm run build
+      run: |
+        npm install
+        npm run build
 
     # Commit changes to keep track
     - name: Commit
