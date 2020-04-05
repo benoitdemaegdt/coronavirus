@@ -12,7 +12,7 @@
         style="width: 300px"
         class="ml-0 pl-4"
       >
-        <router-link to='/coronavirus' class='toolbar-title'>Coronavirus en France</router-link
+        <router-link :to="{ name: 'home'}" class='toolbar-title'>Coronavirus en France</router-link
         >
       </v-toolbar-title>
       <v-autocomplete
@@ -51,8 +51,14 @@
 
       <v-list nav>
 
+        <!-- accueil -->
+        <v-list-item :to="{ name: 'home'}" exact color='primary'>
+          <v-list-item-icon><v-icon>mdi-home</v-icon></v-list-item-icon>
+          <v-list-item-title>Accueil</v-list-item-title>
+        </v-list-item>
+
         <!-- france -->
-        <v-list-item to='/coronavirus/france' color='primary'>
+        <v-list-item :to="{ name: 'france'}" color='primary'>
           <v-list-item-icon><v-icon>mdi-glass-wine</v-icon></v-list-item-icon>
           <v-list-item-title>France</v-list-item-title>
         </v-list-item>
@@ -68,7 +74,7 @@
           <v-list-item
             v-for="region in regions"
             :key="region.name"
-            :to='region.path'
+            :to="{ name: 'regions', params: { name: region.searchable_name }}"
           >
             <v-list-item-content>
               <v-list-item-title v-text="region.name"></v-list-item-title>
@@ -87,7 +93,7 @@
           <v-list-item
             v-for="departement in departements"
             :key="departement.name"
-            :to='departement.path'
+            :to="{ name: 'departements', params: { name: departement.searchable_name }}"
           >
             <v-list-item-content>
               <v-list-item-title v-text="departement.name"></v-list-item-title>
@@ -109,11 +115,11 @@ export default {
     searchNavigation: undefined,
     regions: geo.regions.map(region => ({
       name: region.region_name,
-      path: `/coronavirus/regions/${region.searchable_region_name}`,
+      searchable_name: region.searchable_region_name,
     })),
     departements: geo.departements.map(dep => ({
       name: dep.dep_name,
-      path: `/coronavirus/departements/${dep.searchable_dep_name}`,
+      searchable_name: dep.searchable_dep_name,
     })),
   }),
   watch: {

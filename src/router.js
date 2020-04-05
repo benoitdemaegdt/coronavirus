@@ -15,18 +15,22 @@ const router = new VueRouter({
   routes: [
     {
       path: '/coronavirus',
+      name: 'home',
       component: Home,
     },
     {
       path: '/coronavirus/france',
+      name: 'france',
       component: France,
     },
     {
       path: '/coronavirus/regions/:name',
+      name: 'regions',
       component: Regions,
     },
     {
       path: '/coronavirus/departements/:name',
+      name: 'departements',
       component: Departements,
     },
     {
