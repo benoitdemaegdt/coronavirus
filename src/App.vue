@@ -31,8 +31,7 @@
     /* margin: auto; */
   }
 
-  .container {
-    max-width: 1200px;
-    padding: 0px;
+  .v-card__title {
+    word-break: normal !important;
   }
 </style>

@@ -1,31 +1,66 @@
 <template>
-  <v-container class="fill-height" fluid>
+  <v-container>
+    <v-row align="center" justify="center">
+      <v-col cols='12' sm='4'>
+        <v-card hover color="#F8BBD0">
+          <v-card-title>{{ getLastFigure('hospitalisations') }}</v-card-title>
+          <v-card-subtitle>Personnes actuellement hospitalisées</v-card-subtitle>
+        </v-card>
+      </v-col>
+      <v-col cols='6' sm='4'>
+        <v-card hover color="#D1C4E9">
+          <v-card-title>{{ getLastFigure('reanimations') }}</v-card-title>
+          <v-card-subtitle>Personnes actuellement en réanimations</v-card-subtitle>
+        </v-card>
+      </v-col>
+      <v-col cols='6' sm='4'>
+        <v-card hover color="#B2DFDB">
+          <v-card-title>{{ getLastFigure('deces') }}</v-card-title>
+          <v-card-subtitle>Personnes décédées depuis le début de l'épidémie</v-card-subtitle>
+        </v-card>
+      </v-col>
+    </v-row>
     <v-row>
       <v-col cols='12' sm='6'>
         <!-- hospitalisations -->
-        <line-chart
-          :chartData='getLineChartData(hospitalisations)'
-          :options='getLineChartOptions(hospitalisations)'
-          :styles="chartHeight">
-        </line-chart>
+        <v-card>
+          <v-card-title>Nombre de patients hospitalisés en France</v-card-title>
+          <v-card-text>
+            <line-chart
+              :chartData='getLineChartData(hospitalisations)'
+              :options='getLineChartOptions(hospitalisations)'
+              :styles="chartHeight">
+            </line-chart>
+          </v-card-text>
+        </v-card>
       </v-col>
       <v-col cols='12' sm='6'>
         <!-- réanimations -->
-        <line-chart
-          :chartData='getLineChartData(reanimations)'
-          :options='getLineChartOptions(reanimations)'
-          :styles="chartHeight">
-        </line-chart>
+        <v-card>
+          <v-card-title>Nombre de personnes en réanimation en France</v-card-title>
+          <v-card-text>
+            <line-chart
+              :chartData='getLineChartData(reanimations)'
+              :options='getLineChartOptions(reanimations)'
+              :styles="chartHeight">
+            </line-chart>
+          </v-card-text>
+        </v-card>
       </v-col>
     </v-row>
     <v-row>
       <v-col cols='12'>
         <!-- décès -->
-        <line-chart
-          :chartData='getLineChartData(deces)'
-          :options='getLineChartOptions(deces)'
-          :styles="chartHeight">
-        </line-chart>
+        <v-card>
+          <v-card-title>Nombre cumulé de personnes décédées en France</v-card-title>
+          <v-card-text>
+            <line-chart
+              :chartData='getLineChartData(deces)'
+              :options='getLineChartOptions(deces)'
+              :styles="chartHeight">
+            </line-chart>
+          </v-card-text>
+        </v-card>
       </v-col>
     </v-row>
   </v-container>
@@ -49,6 +84,9 @@ export default {
   },
   mixins: [chartMixin],
   methods: {
+    getLastFigure(category) {
+      return france[france.length - 1][category].toString().replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+    },
     getLineChartData(category) {
       return {
         labels: this.getLabels,
@@ -73,10 +111,6 @@ export default {
           xAxes: [ { gridLines: { display: true } }]
         },
         legend: { display: false },
-        title: {
-          display: true,
-          text: `${category.label} en France`,
-        },
         tooltips: { backgroundColor: 'rgba(0, 0, 0, 0.7)' },
         responsive: true,
         maintainAspectRatio: false,
@@ -112,7 +146,7 @@ export default {
 </script>
 
 <style scoped>
-/* If the screen size is 601px wide or more, set max-width to 80%  */
+/* If the screen size is 601px wide or more  */
 @media screen and (min-width: 601px) {
   canvas {
     max-width: 1200px;

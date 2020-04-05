@@ -5,7 +5,7 @@ const chartMixin = {
     labels: undefined,
     hospitalisations: { key: 'hospitalisations', label: 'Hospitalisations', color: '#C2185B', data: undefined },
     reanimations: { key: 'reanimations', label: 'Réanimations', color: '#5E35B1', data: undefined },
-    deces: { key: 'deces', label: 'Décès', color: '#00897B', data: undefined },
+    deces: { key: 'deces', label: 'Décès cumulés', color: '#00897B', data: undefined },
   }),
   computed: {
     getLabels() {
