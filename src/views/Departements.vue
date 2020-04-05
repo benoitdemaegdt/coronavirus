@@ -48,12 +48,6 @@ export default {
     LineChart,
   },
   mixins: [chartMixin],
-  data: () => ({
-    labels: undefined,
-    hospitalisations: { label: 'Hospitalisations', color: '#C2185B', data: undefined },
-    reanimations: { label: 'Réanimations', color: '#5E35B1', data: undefined },
-    deces: { label: 'Décès', color: '#00897B', data: undefined },
-  }),
   created() {
     this.labels = this.getLabels;
     this.handleRouteChange();
@@ -93,7 +87,7 @@ export default {
       };
     },
     getLineChartOptions(category) {
-      return {
+      const baseOptions = {
         scales: {
           yAxes: [{
             ticks: { beginAtZero: true },
@@ -109,25 +103,33 @@ export default {
         tooltips: { backgroundColor: 'rgba(0, 0, 0, 0.7)' },
         responsive: true,
         maintainAspectRatio: false,
-        // annotation: {
-        //   annotations: [
-        //     {
-        //       type: 'line',
-        //       mode: 'vertical',
-        //       scaleID: 'x-axis-0',
-        //       value: '17/03/2020',
-        //       borderColor: 'red',
-        //       borderWidth: 2,
-        //       label: {
-        //         enabled: true,
-        //         position: 'top',
-        //         backgroundColor: 'rgba(0, 0, 0, 0.7)',
-        //         content: 'DÉBUT CONFINEMENT',
-        //       },
-        //     },
-        //   ],
-        // },
       };
+      if (category.key === 'reanimations') {
+        const dep = geo.departements.find(dep => dep.searchable_dep_name === this.$route.params.name);
+        return {
+          ...baseOptions,
+          annotation: {
+            annotations: [
+              {
+                type: 'line',
+                mode: 'horizontal',
+                scaleID: 'y-axis-0',
+                value: dep.nbr_lit_rea,
+                borderColor: 'red',
+                borderWidth: 2,
+                label: {
+                  enabled: true,
+                  position: 'left',
+                  yAdjust: 14 * (Math.max(...this.reanimations.data) > dep.nbr_lit_rea ? -1 : 1),
+                  backgroundColor: 'rgba(0, 0, 0, 0.7)',
+                  content: `${dep.nbr_lit_rea} LITS RÉA`,
+                },
+              },
+            ],
+          },
+        };
+      }
+      return baseOptions;
     },
   },
 }

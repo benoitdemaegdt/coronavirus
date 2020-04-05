@@ -33,6 +33,7 @@
 
 <script>
 // data
+import geo from '@/data/geo.json';
 import france from '@/data/spf/france.json';
 
 // mixin
@@ -47,12 +48,6 @@ export default {
     LineChart,
   },
   mixins: [chartMixin],
-  data: () => ({
-    labels: undefined,
-    hospitalisations: { key: 'hospitalisations', label: 'Hospitalisations', color: '#C2185B' },
-    reanimations: { key: 'reanimations', label: 'Réanimations', color: '#5E35B1' },
-    deces: { key: 'deces', label: 'Décès', color: '#00897B' },
-  }),
   methods: {
     getLineChartData(category) {
       return {
@@ -69,7 +64,7 @@ export default {
       };
     },
     getLineChartOptions(category) {
-      return {
+      const baseOptions = {
         scales: {
           yAxes: [{
             ticks: { beginAtZero: true },
@@ -85,25 +80,32 @@ export default {
         tooltips: { backgroundColor: 'rgba(0, 0, 0, 0.7)' },
         responsive: true,
         maintainAspectRatio: false,
-        // annotation: {
-        //   annotations: [
-        //     {
-        //       type: 'line',
-        //       mode: 'vertical',
-        //       scaleID: 'x-axis-0',
-        //       value: '17/03/2020',
-        //       borderColor: 'red',
-        //       borderWidth: 2,
-        //       label: {
-        //         enabled: true,
-        //         position: 'top',
-        //         backgroundColor: 'rgba(0, 0, 0, 0.7)',
-        //         content: 'DÉBUT CONFINEMENT',
-        //       },
-        //     },
-        //   ],
-        // },
       };
+      if (category.key === 'reanimations') {
+        return {
+          ...baseOptions,
+          annotation: {
+            annotations: [
+              {
+                type: 'line',
+                mode: 'horizontal',
+                scaleID: 'y-axis-0',
+                value: geo.france.nbr_lit_rea,
+                borderColor: 'red',
+                borderWidth: 2,
+                label: {
+                  enabled: true,
+                  position: 'left',
+                  yAdjust: -14,
+                  backgroundColor: 'rgba(0, 0, 0, 0.7)',
+                  content: `${geo.france.nbr_lit_rea} LITS RÉA`,
+                },
+              },
+            ],
+          },
+        };
+      }
+      return baseOptions;
     },
   },
 }

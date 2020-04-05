@@ -12,8 +12,7 @@
         style="width: 300px"
         class="ml-0 pl-4"
       >
-        <router-link :to="{ name: 'home'}" class='toolbar-title'>Coronavirus en France</router-link
-        >
+        <router-link :to="{ name: 'home'}" class='toolbar-title'>Coronavirus en France</router-link>
       </v-toolbar-title>
       <v-autocomplete
         v-model="searchNavigation"
