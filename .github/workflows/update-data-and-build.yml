@@ -1,7 +1,7 @@
 name: update data and build app
 on:
   schedule:
-      - cron: '30 19 * * *'
+      - cron: '0 18 * * *'
 jobs:
   # This workflow contains a single job called "build"
   build:
