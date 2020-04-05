@@ -116,10 +116,12 @@ export default {
     regions: geo.regions.map(region => ({
       name: region.region_name,
       searchable_name: region.searchable_region_name,
+      path: `/coronavirus/regions/${region.searchable_region_name}`,
     })),
     departements: geo.departements.map(dep => ({
       name: dep.dep_name,
       searchable_name: dep.searchable_dep_name,
+      path: `/coronavirus/departements/${dep.searchable_dep_name}`,
     })),
   }),
   watch: {
