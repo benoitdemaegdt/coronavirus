@@ -50,7 +50,7 @@
           img='ministere-sante.png'
           subtitle="
             L'enquête SAE (Statistique annuelle des établissements de santé) menée en 2018 par le Ministère de la Santé
-            donne un bon indicateur du nombre de lits dédiés à la «réanimation adulte» dans les départements français."
+            indique le nombre de lits dédiés à la «réanimation adulte» dans les départements français avant l'épidémie."
           link="https://drees.solidarites-sante.gouv.fr/etudes-et-statistiques/publications/panoramas-de-la-drees/article/les-etablissements-de-sante-edition-2018"
         ></card>
       </v-col>
