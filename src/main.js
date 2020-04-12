@@ -8,5 +8,12 @@ Vue.config.productionTip = false
 new Vue({
   router,
   vuetify,
-  render: h => h(App)
+  render: h => h(App),
+  mounted() {
+    let path = localStorage.getItem('path');
+    if (path) {
+      localStorage.removeItem('path');
+      this.$router.push({ path });
+    }
+  }
 }).$mount('#app')

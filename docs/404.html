@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= htmlWebpackPlugin.options.title %></title>
+    <script>
+      const path = window.location.pathname.slice(1);
+      localStorage.setItem('path', path);
+      window.location.href = '../';
+    </script>
+  </head>
+</html>
