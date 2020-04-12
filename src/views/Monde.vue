@@ -104,6 +104,25 @@ export default {
         },
         responsive: true,
         maintainAspectRatio: false,
+        annotation: {
+          annotations: [
+            {
+              type: 'line',
+              mode: 'vertical',
+              scaleID: 'x-axis-0',
+              value: '17/03/2020',
+              borderColor: 'red',
+              borderWidth: 2,
+              label: {
+                enabled: true,
+                position: 'top',
+                yAdjust: 8,
+                backgroundColor: 'rgba(0, 0, 0, 0.7)',
+                content: 'DÉBUT CONFINEMENT FRANCE',
+              },
+            },
+          ],
+        },
       };
     },
   },
