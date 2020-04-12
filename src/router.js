@@ -3,6 +3,7 @@ import VueRouter from 'vue-router'
 
 // import views
 import Home from '@/views/Home.vue';
+import Monde from '@/views/Monde.vue';
 import France from '@/views/France.vue';
 import Regions from '@/views/Regions.vue';
 import Departements from '@/views/Departements.vue';
@@ -17,6 +18,11 @@ const router = new VueRouter({
       path: '/coronavirus',
       name: 'home',
       component: Home,
+    },
+    {
+      path: '/coronavirus/monde',
+      name: 'monde',
+      component: Monde,
     },
     {
       path: '/coronavirus/france',

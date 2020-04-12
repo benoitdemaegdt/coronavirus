@@ -56,6 +56,12 @@
           <v-list-item-title>Accueil</v-list-item-title>
         </v-list-item>
 
+        <!-- monde -->
+        <v-list-item :to="{ name: 'monde'}" color='primary'>
+          <v-list-item-icon><v-icon>mdi-earth</v-icon></v-list-item-icon>
+          <v-list-item-title>Monde</v-list-item-title>
+        </v-list-item>
+
         <!-- france -->
         <v-list-item :to="{ name: 'france'}" color='primary'>
           <v-list-item-icon><v-icon>mdi-glass-wine</v-icon></v-list-item-icon>
