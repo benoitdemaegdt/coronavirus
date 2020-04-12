@@ -53,7 +53,7 @@
       <v-col cols='12'>
         <!-- décès -->
         <v-card>
-          <v-card-title>Nombre cumulé de personnes décédées en {{ getDepartementName() }}</v-card-title>
+          <v-card-title>Nombre cumulé de personnes décédées en milieu hospitalier en {{ getDepartementName() }}</v-card-title>
           <v-card-text>
             <line-chart
               :chartData='getLineChartData(deces)'

@@ -52,7 +52,7 @@
       <v-col cols='12'>
         <!-- décès -->
         <v-card>
-          <v-card-title>Nombre cumulé de personnes décédées en France</v-card-title>
+          <v-card-title>Nombre cumulé de personnes décédées en milieu hospitalier en France</v-card-title>
           <v-card-text>
             <line-chart
               :chartData='getLineChartData(deces)'
