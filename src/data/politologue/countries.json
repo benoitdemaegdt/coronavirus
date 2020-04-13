@@ -1789,22 +1789,22 @@
     "countries": [
       {
         "country": "Allemagne",
-        "infections": 125975,
-        "deces": 2907
+        "infections": 127854,
+        "deces": 3022
       },
       {
         "country": "Espagne",
-        "infections": 166019,
-        "deces": 16972
+        "infections": 166831,
+        "deces": 17209
       },
       {
         "country": "France",
-        "infections": 129655,
-        "deces": 13832
+        "infections": 132592,
+        "deces": 14393
       },
       {
         "country": "Royaume-Uni",
-        "infections": 85046,
+        "infections": 85077,
         "deces": 10629
       },
       {
@@ -1814,8 +1814,43 @@
       },
       {
         "country": "États-Unis",
-        "infections": 532339,
-        "deces": 21418
+        "infections": 555313,
+        "deces": 22020
+      }
+    ]
+  },
+  {
+    "date": "13/04/2020",
+    "countries": [
+      {
+        "country": "Allemagne",
+        "infections": 128002,
+        "deces": 3030
+      },
+      {
+        "country": "Espagne",
+        "infections": 169496,
+        "deces": 17489
+      },
+      {
+        "country": "France",
+        "infections": 132592,
+        "deces": 14393
+      },
+      {
+        "country": "Royaume-Uni",
+        "infections": 89435,
+        "deces": 11346
+      },
+      {
+        "country": "Italie",
+        "infections": 159516,
+        "deces": 20465
+      },
+      {
+        "country": "États-Unis",
+        "infections": 560891,
+        "deces": 22861
       }
     ]
   }
