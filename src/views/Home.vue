@@ -40,7 +40,7 @@
           subtitle="
             L'université agrège et met à disposition les données officielles de très nombreux pays sur l'épidémie du coronavirus.
             On y trouve notamment chaque jour le nombre de cas confirmés et le nombre de décès liés au virus."
-          link="https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_daily_reports"
+          link="https://www.data.gouv.fr/fr/datasets/coronavirus-covid19-evolution-par-pays-et-dans-le-monde-maj-quotidienne/"
         ></card>
       </v-col>
       <!-- source 3 -->
