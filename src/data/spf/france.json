@@ -229,5 +229,12 @@
     "reanimations": 5644,
     "retours": 36572,
     "deces": 12061
+  },
+  {
+    "date": "20/04/2020",
+    "hospitalisations": 30462,
+    "reanimations": 5584,
+    "retours": 37403,
+    "deces": 12505
   }
 ]
