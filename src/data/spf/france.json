@@ -390,5 +390,12 @@
     "reanimations": 2496,
     "retours": 57776,
     "deces": 16984
+  },
+  {
+    "date": "13/05/2020",
+    "hospitalisations": 21009,
+    "reanimations": 2385,
+    "retours": 58664,
+    "deces": 17082
   }
 ]
