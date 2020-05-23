@@ -446,5 +446,19 @@
     "reanimations": 1708,
     "retours": 63849,
     "deces": 17851
+  },
+  {
+    "date": "22/05/2020",
+    "hospitalisations": 17327,
+    "reanimations": 1664,
+    "retours": 64200,
+    "deces": 17925
+  },
+  {
+    "date": "23/05/2020",
+    "hospitalisations": 17122,
+    "reanimations": 1628,
+    "retours": 64538,
+    "deces": 17968
   }
 ]
