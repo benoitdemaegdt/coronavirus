@@ -558,5 +558,12 @@
     "reanimations": 1065,
     "retours": 70494,
     "deces": 18741
+  },
+  {
+    "date": "06/06/2020",
+    "hospitalisations": 12433,
+    "reanimations": 1030,
+    "retours": 70796,
+    "deces": 18772
   }
 ]
