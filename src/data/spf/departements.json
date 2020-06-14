@@ -67477,5 +67477,4883 @@
         "deces": 22
       }
     ]
+  },
+  {
+    "date": "09/06/2020",
+    "departements": [
+      {
+        "num": "01",
+        "name": "Ain",
+        "hospitalisations": 71,
+        "reanimations": 0,
+        "retours": 401,
+        "deces": 100
+      },
+      {
+        "num": "02",
+        "name": "Aisne",
+        "hospitalisations": 134,
+        "reanimations": 11,
+        "retours": 964,
+        "deces": 270
+      },
+      {
+        "num": "03",
+        "name": "Allier",
+        "hospitalisations": 14,
+        "reanimations": 1,
+        "retours": 183,
+        "deces": 39
+      },
+      {
+        "num": "04",
+        "name": "Alpes-de-Haute-Provence",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 119,
+        "deces": 12
+      },
+      {
+        "num": "05",
+        "name": "Hautes-Alpes",
+        "hospitalisations": 21,
+        "reanimations": 1,
+        "retours": 115,
+        "deces": 18
+      },
+      {
+        "num": "06",
+        "name": "Alpes-Maritimes",
+        "hospitalisations": 96,
+        "reanimations": 4,
+        "retours": 669,
+        "deces": 183
+      },
+      {
+        "num": "07",
+        "name": "Ardèche",
+        "hospitalisations": 24,
+        "reanimations": 5,
+        "retours": 418,
+        "deces": 108
+      },
+      {
+        "num": "08",
+        "name": "Ardennes",
+        "hospitalisations": 29,
+        "reanimations": 2,
+        "retours": 187,
+        "deces": 54
+      },
+      {
+        "num": "09",
+        "name": "Ariège",
+        "hospitalisations": 2,
+        "reanimations": 1,
+        "retours": 32,
+        "deces": 2
+      },
+      {
+        "num": "10",
+        "name": "Aube",
+        "hospitalisations": 35,
+        "reanimations": 2,
+        "retours": 601,
+        "deces": 135
+      },
+      {
+        "num": "11",
+        "name": "Aude",
+        "hospitalisations": 5,
+        "reanimations": 1,
+        "retours": 226,
+        "deces": 58
+      },
+      {
+        "num": "12",
+        "name": "Aveyron",
+        "hospitalisations": 7,
+        "reanimations": 0,
+        "retours": 137,
+        "deces": 24
+      },
+      {
+        "num": "13",
+        "name": "Bouches-du-Rhône",
+        "hospitalisations": 507,
+        "reanimations": 52,
+        "retours": 3048,
+        "deces": 539
+      },
+      {
+        "num": "14",
+        "name": "Calvados",
+        "hospitalisations": 49,
+        "reanimations": 1,
+        "retours": 286,
+        "deces": 83
+      },
+      {
+        "num": "15",
+        "name": "Cantal",
+        "hospitalisations": 13,
+        "reanimations": 1,
+        "retours": 44,
+        "deces": 9
+      },
+      {
+        "num": "16",
+        "name": "Charente",
+        "hospitalisations": 6,
+        "reanimations": 1,
+        "retours": 54,
+        "deces": 12
+      },
+      {
+        "num": "17",
+        "name": "Charente-Maritime",
+        "hospitalisations": 23,
+        "reanimations": 1,
+        "retours": 129,
+        "deces": 48
+      },
+      {
+        "num": "18",
+        "name": "Cher",
+        "hospitalisations": 48,
+        "reanimations": 0,
+        "retours": 157,
+        "deces": 77
+      },
+      {
+        "num": "19",
+        "name": "Corrèze",
+        "hospitalisations": 0,
+        "reanimations": 0,
+        "retours": 159,
+        "deces": 37
+      },
+      {
+        "num": "21",
+        "name": "Côte-d'Or",
+        "hospitalisations": 29,
+        "reanimations": 1,
+        "retours": 905,
+        "deces": 248
+      },
+      {
+        "num": "22",
+        "name": "Côtes-d'Armor",
+        "hospitalisations": 32,
+        "reanimations": 3,
+        "retours": 192,
+        "deces": 36
+      },
+      {
+        "num": "23",
+        "name": "Creuse",
+        "hospitalisations": 13,
+        "reanimations": 5,
+        "retours": 65,
+        "deces": 12
+      },
+      {
+        "num": "24",
+        "name": "Dordogne",
+        "hospitalisations": 13,
+        "reanimations": 0,
+        "retours": 85,
+        "deces": 13
+      },
+      {
+        "num": "25",
+        "name": "Doubs",
+        "hospitalisations": 27,
+        "reanimations": 4,
+        "retours": 614,
+        "deces": 149
+      },
+      {
+        "num": "26",
+        "name": "Drôme",
+        "hospitalisations": 38,
+        "reanimations": 2,
+        "retours": 488,
+        "deces": 129
+      },
+      {
+        "num": "27",
+        "name": "Eure",
+        "hospitalisations": 62,
+        "reanimations": 0,
+        "retours": 194,
+        "deces": 80
+      },
+      {
+        "num": "28",
+        "name": "Eure-et-Loir",
+        "hospitalisations": 141,
+        "reanimations": 12,
+        "retours": 455,
+        "deces": 127
+      },
+      {
+        "num": "29",
+        "name": "Finistère",
+        "hospitalisations": 21,
+        "reanimations": 1,
+        "retours": 167,
+        "deces": 43
+      },
+      {
+        "num": "2A",
+        "name": "Corse-du-Sud",
+        "hospitalisations": 23,
+        "reanimations": 4,
+        "retours": 126,
+        "deces": 48
+      },
+      {
+        "num": "2B",
+        "name": "Haute-Corse",
+        "hospitalisations": 3,
+        "reanimations": 2,
+        "retours": 107,
+        "deces": 10
+      },
+      {
+        "num": "30",
+        "name": "Gard",
+        "hospitalisations": 55,
+        "reanimations": 4,
+        "retours": 312,
+        "deces": 94
+      },
+      {
+        "num": "31",
+        "name": "Haute-Garonne",
+        "hospitalisations": 44,
+        "reanimations": 4,
+        "retours": 617,
+        "deces": 71
+      },
+      {
+        "num": "32",
+        "name": "Gers",
+        "hospitalisations": 5,
+        "reanimations": 1,
+        "retours": 84,
+        "deces": 23
+      },
+      {
+        "num": "33",
+        "name": "Gironde",
+        "hospitalisations": 92,
+        "reanimations": 10,
+        "retours": 887,
+        "deces": 149
+      },
+      {
+        "num": "34",
+        "name": "Hérault",
+        "hospitalisations": 23,
+        "reanimations": 3,
+        "retours": 685,
+        "deces": 119
+      },
+      {
+        "num": "35",
+        "name": "Ille-et-Vilaine",
+        "hospitalisations": 59,
+        "reanimations": 3,
+        "retours": 433,
+        "deces": 86
+      },
+      {
+        "num": "36",
+        "name": "Indre",
+        "hospitalisations": 84,
+        "reanimations": 3,
+        "retours": 108,
+        "deces": 77
+      },
+      {
+        "num": "37",
+        "name": "Indre-et-Loire",
+        "hospitalisations": 81,
+        "reanimations": 5,
+        "retours": 304,
+        "deces": 81
+      },
+      {
+        "num": "38",
+        "name": "Isère",
+        "hospitalisations": 62,
+        "reanimations": 5,
+        "retours": 645,
+        "deces": 149
+      },
+      {
+        "num": "39",
+        "name": "Jura",
+        "hospitalisations": 20,
+        "reanimations": 0,
+        "retours": 292,
+        "deces": 60
+      },
+      {
+        "num": "40",
+        "name": "Landes",
+        "hospitalisations": 5,
+        "reanimations": 1,
+        "retours": 71,
+        "deces": 13
+      },
+      {
+        "num": "41",
+        "name": "Loir-et-Cher",
+        "hospitalisations": 92,
+        "reanimations": 0,
+        "retours": 229,
+        "deces": 63
+      },
+      {
+        "num": "42",
+        "name": "Loire",
+        "hospitalisations": 151,
+        "reanimations": 14,
+        "retours": 899,
+        "deces": 243
+      },
+      {
+        "num": "43",
+        "name": "Haute-Loire",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 95,
+        "deces": 17
+      },
+      {
+        "num": "44",
+        "name": "Loire-Atlantique",
+        "hospitalisations": 98,
+        "reanimations": 5,
+        "retours": 608,
+        "deces": 153
+      },
+      {
+        "num": "45",
+        "name": "Loiret",
+        "hospitalisations": 97,
+        "reanimations": 9,
+        "retours": 562,
+        "deces": 98
+      },
+      {
+        "num": "46",
+        "name": "Lot",
+        "hospitalisations": 5,
+        "reanimations": 0,
+        "retours": 69,
+        "deces": 22
+      },
+      {
+        "num": "47",
+        "name": "Lot-et-Garonne",
+        "hospitalisations": 6,
+        "reanimations": 0,
+        "retours": 73,
+        "deces": 9
+      },
+      {
+        "num": "48",
+        "name": "Lozère",
+        "hospitalisations": 0,
+        "reanimations": 0,
+        "retours": 24,
+        "deces": 1
+      },
+      {
+        "num": "49",
+        "name": "Maine-et-Loire",
+        "hospitalisations": 82,
+        "reanimations": 5,
+        "retours": 547,
+        "deces": 135
+      },
+      {
+        "num": "50",
+        "name": "Manche",
+        "hospitalisations": 45,
+        "reanimations": 4,
+        "retours": 131,
+        "deces": 47
+      },
+      {
+        "num": "51",
+        "name": "Marne",
+        "hospitalisations": 112,
+        "reanimations": 10,
+        "retours": 958,
+        "deces": 259
+      },
+      {
+        "num": "52",
+        "name": "Haute-Marne",
+        "hospitalisations": 41,
+        "reanimations": 1,
+        "retours": 226,
+        "deces": 84
+      },
+      {
+        "num": "53",
+        "name": "Mayenne",
+        "hospitalisations": 12,
+        "reanimations": 1,
+        "retours": 168,
+        "deces": 44
+      },
+      {
+        "num": "54",
+        "name": "Meurthe-et-Moselle",
+        "hospitalisations": 119,
+        "reanimations": 9,
+        "retours": 1093,
+        "deces": 356
+      },
+      {
+        "num": "55",
+        "name": "Meuse",
+        "hospitalisations": 31,
+        "reanimations": 3,
+        "retours": 452,
+        "deces": 98
+      },
+      {
+        "num": "56",
+        "name": "Morbihan",
+        "hospitalisations": 48,
+        "reanimations": 4,
+        "retours": 400,
+        "deces": 90
+      },
+      {
+        "num": "57",
+        "name": "Moselle",
+        "hospitalisations": 380,
+        "reanimations": 36,
+        "retours": 2240,
+        "deces": 818
+      },
+      {
+        "num": "58",
+        "name": "Nièvre",
+        "hospitalisations": 10,
+        "reanimations": 1,
+        "retours": 87,
+        "deces": 27
+      },
+      {
+        "num": "59",
+        "name": "Nord",
+        "hospitalisations": 518,
+        "reanimations": 44,
+        "retours": 2042,
+        "deces": 600
+      },
+      {
+        "num": "60",
+        "name": "Oise",
+        "hospitalisations": 272,
+        "reanimations": 11,
+        "retours": 1033,
+        "deces": 395
+      },
+      {
+        "num": "61",
+        "name": "Orne",
+        "hospitalisations": 40,
+        "reanimations": 3,
+        "retours": 213,
+        "deces": 37
+      },
+      {
+        "num": "62",
+        "name": "Pas-de-Calais",
+        "hospitalisations": 216,
+        "reanimations": 28,
+        "retours": 1237,
+        "deces": 302
+      },
+      {
+        "num": "63",
+        "name": "Puy-de-Dôme",
+        "hospitalisations": 17,
+        "reanimations": 4,
+        "retours": 174,
+        "deces": 42
+      },
+      {
+        "num": "64",
+        "name": "Pyrénées-Atlantiques",
+        "hospitalisations": 7,
+        "reanimations": 0,
+        "retours": 216,
+        "deces": 27
+      },
+      {
+        "num": "65",
+        "name": "Hautes-Pyrénées",
+        "hospitalisations": 10,
+        "reanimations": 2,
+        "retours": 149,
+        "deces": 26
+      },
+      {
+        "num": "66",
+        "name": "Pyrénées-Orientales",
+        "hospitalisations": 2,
+        "reanimations": 1,
+        "retours": 276,
+        "deces": 34
+      },
+      {
+        "num": "67",
+        "name": "Bas-Rhin",
+        "hospitalisations": 418,
+        "reanimations": 13,
+        "retours": 2349,
+        "deces": 644
+      },
+      {
+        "num": "68",
+        "name": "Haut-Rhin",
+        "hospitalisations": 432,
+        "reanimations": 22,
+        "retours": 2620,
+        "deces": 795
+      },
+      {
+        "num": "69",
+        "name": "Rhône",
+        "hospitalisations": 340,
+        "reanimations": 30,
+        "retours": 2788,
+        "deces": 640
+      },
+      {
+        "num": "70",
+        "name": "Haute-Saône",
+        "hospitalisations": 25,
+        "reanimations": 0,
+        "retours": 281,
+        "deces": 77
+      },
+      {
+        "num": "71",
+        "name": "Saône-et-Loire",
+        "hospitalisations": 94,
+        "reanimations": 7,
+        "retours": 671,
+        "deces": 198
+      },
+      {
+        "num": "72",
+        "name": "Sarthe",
+        "hospitalisations": 58,
+        "reanimations": 2,
+        "retours": 328,
+        "deces": 83
+      },
+      {
+        "num": "73",
+        "name": "Savoie",
+        "hospitalisations": 25,
+        "reanimations": 0,
+        "retours": 385,
+        "deces": 69
+      },
+      {
+        "num": "74",
+        "name": "Haute-Savoie",
+        "hospitalisations": 98,
+        "reanimations": 5,
+        "retours": 819,
+        "deces": 162
+      },
+      {
+        "num": "75",
+        "name": "Paris",
+        "hospitalisations": 771,
+        "reanimations": 121,
+        "retours": 5793,
+        "deces": 1710
+      },
+      {
+        "num": "76",
+        "name": "Seine-Maritime",
+        "hospitalisations": 94,
+        "reanimations": 6,
+        "retours": 711,
+        "deces": 178
+      },
+      {
+        "num": "77",
+        "name": "Seine-et-Marne",
+        "hospitalisations": 383,
+        "reanimations": 47,
+        "retours": 2436,
+        "deces": 665
+      },
+      {
+        "num": "78",
+        "name": "Yvelines",
+        "hospitalisations": 484,
+        "reanimations": 30,
+        "retours": 2006,
+        "deces": 507
+      },
+      {
+        "num": "79",
+        "name": "Deux-Sèvres",
+        "hospitalisations": 4,
+        "reanimations": 0,
+        "retours": 64,
+        "deces": 21
+      },
+      {
+        "num": "80",
+        "name": "Somme",
+        "hospitalisations": 115,
+        "reanimations": 6,
+        "retours": 686,
+        "deces": 218
+      },
+      {
+        "num": "81",
+        "name": "Tarn",
+        "hospitalisations": 6,
+        "reanimations": 1,
+        "retours": 117,
+        "deces": 23
+      },
+      {
+        "num": "82",
+        "name": "Tarn-et-Garonne",
+        "hospitalisations": 4,
+        "reanimations": 1,
+        "retours": 41,
+        "deces": 6
+      },
+      {
+        "num": "83",
+        "name": "Var",
+        "hospitalisations": 112,
+        "reanimations": 5,
+        "retours": 891,
+        "deces": 131
+      },
+      {
+        "num": "84",
+        "name": "Vaucluse",
+        "hospitalisations": 28,
+        "reanimations": 0,
+        "retours": 232,
+        "deces": 36
+      },
+      {
+        "num": "85",
+        "name": "Vendée",
+        "hospitalisations": 45,
+        "reanimations": 1,
+        "retours": 222,
+        "deces": 40
+      },
+      {
+        "num": "86",
+        "name": "Vienne",
+        "hospitalisations": 9,
+        "reanimations": 0,
+        "retours": 137,
+        "deces": 39
+      },
+      {
+        "num": "87",
+        "name": "Haute-Vienne",
+        "hospitalisations": 11,
+        "reanimations": 1,
+        "retours": 120,
+        "deces": 25
+      },
+      {
+        "num": "88",
+        "name": "Vosges",
+        "hospitalisations": 49,
+        "reanimations": 3,
+        "retours": 693,
+        "deces": 257
+      },
+      {
+        "num": "89",
+        "name": "Yonne",
+        "hospitalisations": 53,
+        "reanimations": 5,
+        "retours": 285,
+        "deces": 89
+      },
+      {
+        "num": "90",
+        "name": "Territoire de Belfort",
+        "hospitalisations": 41,
+        "reanimations": 4,
+        "retours": 505,
+        "deces": 179
+      },
+      {
+        "num": "91",
+        "name": "Essonne",
+        "hospitalisations": 585,
+        "reanimations": 46,
+        "retours": 2080,
+        "deces": 510
+      },
+      {
+        "num": "92",
+        "name": "Hauts-de-Seine",
+        "hospitalisations": 907,
+        "reanimations": 73,
+        "retours": 4080,
+        "deces": 1056
+      },
+      {
+        "num": "93",
+        "name": "Seine-Saint-Denis",
+        "hospitalisations": 844,
+        "reanimations": 79,
+        "retours": 3376,
+        "deces": 966
+      },
+      {
+        "num": "94",
+        "name": "Val-de-Marne",
+        "hospitalisations": 829,
+        "reanimations": 30,
+        "retours": 3763,
+        "deces": 1173
+      },
+      {
+        "num": "95",
+        "name": "Val-d'Oise",
+        "hospitalisations": 485,
+        "reanimations": 18,
+        "retours": 2361,
+        "deces": 687
+      },
+      {
+        "num": "971",
+        "name": "Guadeloupe",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 74,
+        "deces": 16
+      },
+      {
+        "num": "972",
+        "name": "Martinique",
+        "hospitalisations": 10,
+        "reanimations": 0,
+        "retours": 87,
+        "deces": 14
+      },
+      {
+        "num": "973",
+        "name": "Guyane",
+        "hospitalisations": 33,
+        "reanimations": 5,
+        "retours": 124,
+        "deces": 2
+      },
+      {
+        "num": "974",
+        "name": "La Réunion",
+        "hospitalisations": 19,
+        "reanimations": 1,
+        "retours": 123,
+        "deces": 1
+      },
+      {
+        "num": "976",
+        "name": "Mayotte",
+        "hospitalisations": 41,
+        "reanimations": 12,
+        "retours": 282,
+        "deces": 23
+      }
+    ]
+  },
+  {
+    "date": "10/06/2020",
+    "departements": [
+      {
+        "num": "01",
+        "name": "Ain",
+        "hospitalisations": 72,
+        "reanimations": 0,
+        "retours": 402,
+        "deces": 100
+      },
+      {
+        "num": "02",
+        "name": "Aisne",
+        "hospitalisations": 130,
+        "reanimations": 11,
+        "retours": 970,
+        "deces": 270
+      },
+      {
+        "num": "03",
+        "name": "Allier",
+        "hospitalisations": 12,
+        "reanimations": 1,
+        "retours": 186,
+        "deces": 39
+      },
+      {
+        "num": "04",
+        "name": "Alpes-de-Haute-Provence",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 119,
+        "deces": 12
+      },
+      {
+        "num": "05",
+        "name": "Hautes-Alpes",
+        "hospitalisations": 20,
+        "reanimations": 1,
+        "retours": 115,
+        "deces": 18
+      },
+      {
+        "num": "06",
+        "name": "Alpes-Maritimes",
+        "hospitalisations": 92,
+        "reanimations": 3,
+        "retours": 673,
+        "deces": 183
+      },
+      {
+        "num": "07",
+        "name": "Ardèche",
+        "hospitalisations": 24,
+        "reanimations": 5,
+        "retours": 419,
+        "deces": 108
+      },
+      {
+        "num": "08",
+        "name": "Ardennes",
+        "hospitalisations": 26,
+        "reanimations": 2,
+        "retours": 190,
+        "deces": 54
+      },
+      {
+        "num": "09",
+        "name": "Ariège",
+        "hospitalisations": 2,
+        "reanimations": 1,
+        "retours": 32,
+        "deces": 2
+      },
+      {
+        "num": "10",
+        "name": "Aube",
+        "hospitalisations": 30,
+        "reanimations": 2,
+        "retours": 605,
+        "deces": 135
+      },
+      {
+        "num": "11",
+        "name": "Aude",
+        "hospitalisations": 5,
+        "reanimations": 1,
+        "retours": 226,
+        "deces": 58
+      },
+      {
+        "num": "12",
+        "name": "Aveyron",
+        "hospitalisations": 7,
+        "reanimations": 0,
+        "retours": 137,
+        "deces": 24
+      },
+      {
+        "num": "13",
+        "name": "Bouches-du-Rhône",
+        "hospitalisations": 496,
+        "reanimations": 50,
+        "retours": 3063,
+        "deces": 540
+      },
+      {
+        "num": "14",
+        "name": "Calvados",
+        "hospitalisations": 47,
+        "reanimations": 1,
+        "retours": 288,
+        "deces": 83
+      },
+      {
+        "num": "15",
+        "name": "Cantal",
+        "hospitalisations": 7,
+        "reanimations": 1,
+        "retours": 50,
+        "deces": 9
+      },
+      {
+        "num": "16",
+        "name": "Charente",
+        "hospitalisations": 6,
+        "reanimations": 1,
+        "retours": 54,
+        "deces": 12
+      },
+      {
+        "num": "17",
+        "name": "Charente-Maritime",
+        "hospitalisations": 23,
+        "reanimations": 1,
+        "retours": 129,
+        "deces": 48
+      },
+      {
+        "num": "18",
+        "name": "Cher",
+        "hospitalisations": 47,
+        "reanimations": 0,
+        "retours": 157,
+        "deces": 77
+      },
+      {
+        "num": "19",
+        "name": "Corrèze",
+        "hospitalisations": 0,
+        "reanimations": 0,
+        "retours": 159,
+        "deces": 37
+      },
+      {
+        "num": "21",
+        "name": "Côte-d'Or",
+        "hospitalisations": 30,
+        "reanimations": 1,
+        "retours": 905,
+        "deces": 248
+      },
+      {
+        "num": "22",
+        "name": "Côtes-d'Armor",
+        "hospitalisations": 33,
+        "reanimations": 3,
+        "retours": 192,
+        "deces": 36
+      },
+      {
+        "num": "23",
+        "name": "Creuse",
+        "hospitalisations": 10,
+        "reanimations": 4,
+        "retours": 69,
+        "deces": 12
+      },
+      {
+        "num": "24",
+        "name": "Dordogne",
+        "hospitalisations": 13,
+        "reanimations": 0,
+        "retours": 85,
+        "deces": 13
+      },
+      {
+        "num": "25",
+        "name": "Doubs",
+        "hospitalisations": 26,
+        "reanimations": 4,
+        "retours": 615,
+        "deces": 149
+      },
+      {
+        "num": "26",
+        "name": "Drôme",
+        "hospitalisations": 39,
+        "reanimations": 2,
+        "retours": 488,
+        "deces": 129
+      },
+      {
+        "num": "27",
+        "name": "Eure",
+        "hospitalisations": 62,
+        "reanimations": 0,
+        "retours": 194,
+        "deces": 80
+      },
+      {
+        "num": "28",
+        "name": "Eure-et-Loir",
+        "hospitalisations": 128,
+        "reanimations": 12,
+        "retours": 467,
+        "deces": 128
+      },
+      {
+        "num": "29",
+        "name": "Finistère",
+        "hospitalisations": 21,
+        "reanimations": 1,
+        "retours": 167,
+        "deces": 43
+      },
+      {
+        "num": "2A",
+        "name": "Corse-du-Sud",
+        "hospitalisations": 22,
+        "reanimations": 4,
+        "retours": 127,
+        "deces": 48
+      },
+      {
+        "num": "2B",
+        "name": "Haute-Corse",
+        "hospitalisations": 3,
+        "reanimations": 2,
+        "retours": 107,
+        "deces": 10
+      },
+      {
+        "num": "30",
+        "name": "Gard",
+        "hospitalisations": 53,
+        "reanimations": 4,
+        "retours": 314,
+        "deces": 94
+      },
+      {
+        "num": "31",
+        "name": "Haute-Garonne",
+        "hospitalisations": 44,
+        "reanimations": 4,
+        "retours": 618,
+        "deces": 71
+      },
+      {
+        "num": "32",
+        "name": "Gers",
+        "hospitalisations": 3,
+        "reanimations": 1,
+        "retours": 86,
+        "deces": 23
+      },
+      {
+        "num": "33",
+        "name": "Gironde",
+        "hospitalisations": 89,
+        "reanimations": 11,
+        "retours": 890,
+        "deces": 149
+      },
+      {
+        "num": "34",
+        "name": "Hérault",
+        "hospitalisations": 16,
+        "reanimations": 3,
+        "retours": 692,
+        "deces": 119
+      },
+      {
+        "num": "35",
+        "name": "Ille-et-Vilaine",
+        "hospitalisations": 61,
+        "reanimations": 3,
+        "retours": 433,
+        "deces": 86
+      },
+      {
+        "num": "36",
+        "name": "Indre",
+        "hospitalisations": 84,
+        "reanimations": 3,
+        "retours": 108,
+        "deces": 77
+      },
+      {
+        "num": "37",
+        "name": "Indre-et-Loire",
+        "hospitalisations": 79,
+        "reanimations": 6,
+        "retours": 306,
+        "deces": 81
+      },
+      {
+        "num": "38",
+        "name": "Isère",
+        "hospitalisations": 59,
+        "reanimations": 6,
+        "retours": 649,
+        "deces": 151
+      },
+      {
+        "num": "39",
+        "name": "Jura",
+        "hospitalisations": 19,
+        "reanimations": 0,
+        "retours": 292,
+        "deces": 60
+      },
+      {
+        "num": "40",
+        "name": "Landes",
+        "hospitalisations": 5,
+        "reanimations": 1,
+        "retours": 71,
+        "deces": 13
+      },
+      {
+        "num": "41",
+        "name": "Loir-et-Cher",
+        "hospitalisations": 89,
+        "reanimations": 0,
+        "retours": 232,
+        "deces": 63
+      },
+      {
+        "num": "42",
+        "name": "Loire",
+        "hospitalisations": 147,
+        "reanimations": 14,
+        "retours": 902,
+        "deces": 243
+      },
+      {
+        "num": "43",
+        "name": "Haute-Loire",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 95,
+        "deces": 17
+      },
+      {
+        "num": "44",
+        "name": "Loire-Atlantique",
+        "hospitalisations": 96,
+        "reanimations": 5,
+        "retours": 611,
+        "deces": 153
+      },
+      {
+        "num": "45",
+        "name": "Loiret",
+        "hospitalisations": 91,
+        "reanimations": 9,
+        "retours": 568,
+        "deces": 98
+      },
+      {
+        "num": "46",
+        "name": "Lot",
+        "hospitalisations": 1,
+        "reanimations": 0,
+        "retours": 69,
+        "deces": 22
+      },
+      {
+        "num": "47",
+        "name": "Lot-et-Garonne",
+        "hospitalisations": 6,
+        "reanimations": 1,
+        "retours": 73,
+        "deces": 10
+      },
+      {
+        "num": "48",
+        "name": "Lozère",
+        "hospitalisations": 0,
+        "reanimations": 0,
+        "retours": 24,
+        "deces": 1
+      },
+      {
+        "num": "49",
+        "name": "Maine-et-Loire",
+        "hospitalisations": 81,
+        "reanimations": 5,
+        "retours": 550,
+        "deces": 136
+      },
+      {
+        "num": "50",
+        "name": "Manche",
+        "hospitalisations": 44,
+        "reanimations": 4,
+        "retours": 132,
+        "deces": 47
+      },
+      {
+        "num": "51",
+        "name": "Marne",
+        "hospitalisations": 109,
+        "reanimations": 10,
+        "retours": 961,
+        "deces": 258
+      },
+      {
+        "num": "52",
+        "name": "Haute-Marne",
+        "hospitalisations": 40,
+        "reanimations": 1,
+        "retours": 227,
+        "deces": 84
+      },
+      {
+        "num": "53",
+        "name": "Mayenne",
+        "hospitalisations": 11,
+        "reanimations": 1,
+        "retours": 170,
+        "deces": 44
+      },
+      {
+        "num": "54",
+        "name": "Meurthe-et-Moselle",
+        "hospitalisations": 118,
+        "reanimations": 9,
+        "retours": 1099,
+        "deces": 354
+      },
+      {
+        "num": "55",
+        "name": "Meuse",
+        "hospitalisations": 28,
+        "reanimations": 3,
+        "retours": 457,
+        "deces": 98
+      },
+      {
+        "num": "56",
+        "name": "Morbihan",
+        "hospitalisations": 47,
+        "reanimations": 4,
+        "retours": 401,
+        "deces": 90
+      },
+      {
+        "num": "57",
+        "name": "Moselle",
+        "hospitalisations": 357,
+        "reanimations": 36,
+        "retours": 2251,
+        "deces": 816
+      },
+      {
+        "num": "58",
+        "name": "Nièvre",
+        "hospitalisations": 10,
+        "reanimations": 1,
+        "retours": 87,
+        "deces": 27
+      },
+      {
+        "num": "59",
+        "name": "Nord",
+        "hospitalisations": 514,
+        "reanimations": 44,
+        "retours": 2052,
+        "deces": 601
+      },
+      {
+        "num": "60",
+        "name": "Oise",
+        "hospitalisations": 272,
+        "reanimations": 11,
+        "retours": 1034,
+        "deces": 395
+      },
+      {
+        "num": "61",
+        "name": "Orne",
+        "hospitalisations": 39,
+        "reanimations": 3,
+        "retours": 214,
+        "deces": 37
+      },
+      {
+        "num": "62",
+        "name": "Pas-de-Calais",
+        "hospitalisations": 215,
+        "reanimations": 27,
+        "retours": 1238,
+        "deces": 304
+      },
+      {
+        "num": "63",
+        "name": "Puy-de-Dôme",
+        "hospitalisations": 18,
+        "reanimations": 4,
+        "retours": 174,
+        "deces": 42
+      },
+      {
+        "num": "64",
+        "name": "Pyrénées-Atlantiques",
+        "hospitalisations": 6,
+        "reanimations": 0,
+        "retours": 217,
+        "deces": 27
+      },
+      {
+        "num": "65",
+        "name": "Hautes-Pyrénées",
+        "hospitalisations": 10,
+        "reanimations": 2,
+        "retours": 149,
+        "deces": 26
+      },
+      {
+        "num": "66",
+        "name": "Pyrénées-Orientales",
+        "hospitalisations": 2,
+        "reanimations": 1,
+        "retours": 276,
+        "deces": 34
+      },
+      {
+        "num": "67",
+        "name": "Bas-Rhin",
+        "hospitalisations": 402,
+        "reanimations": 10,
+        "retours": 2364,
+        "deces": 647
+      },
+      {
+        "num": "68",
+        "name": "Haut-Rhin",
+        "hospitalisations": 408,
+        "reanimations": 17,
+        "retours": 2638,
+        "deces": 794
+      },
+      {
+        "num": "69",
+        "name": "Rhône",
+        "hospitalisations": 322,
+        "reanimations": 27,
+        "retours": 2806,
+        "deces": 643
+      },
+      {
+        "num": "70",
+        "name": "Haute-Saône",
+        "hospitalisations": 19,
+        "reanimations": 0,
+        "retours": 288,
+        "deces": 77
+      },
+      {
+        "num": "71",
+        "name": "Saône-et-Loire",
+        "hospitalisations": 80,
+        "reanimations": 7,
+        "retours": 685,
+        "deces": 199
+      },
+      {
+        "num": "72",
+        "name": "Sarthe",
+        "hospitalisations": 57,
+        "reanimations": 2,
+        "retours": 330,
+        "deces": 83
+      },
+      {
+        "num": "73",
+        "name": "Savoie",
+        "hospitalisations": 24,
+        "reanimations": 0,
+        "retours": 387,
+        "deces": 69
+      },
+      {
+        "num": "74",
+        "name": "Haute-Savoie",
+        "hospitalisations": 98,
+        "reanimations": 4,
+        "retours": 820,
+        "deces": 162
+      },
+      {
+        "num": "75",
+        "name": "Paris",
+        "hospitalisations": 775,
+        "reanimations": 117,
+        "retours": 5803,
+        "deces": 1711
+      },
+      {
+        "num": "76",
+        "name": "Seine-Maritime",
+        "hospitalisations": 93,
+        "reanimations": 6,
+        "retours": 712,
+        "deces": 178
+      },
+      {
+        "num": "77",
+        "name": "Seine-et-Marne",
+        "hospitalisations": 362,
+        "reanimations": 47,
+        "retours": 2458,
+        "deces": 669
+      },
+      {
+        "num": "78",
+        "name": "Yvelines",
+        "hospitalisations": 483,
+        "reanimations": 28,
+        "retours": 2008,
+        "deces": 507
+      },
+      {
+        "num": "79",
+        "name": "Deux-Sèvres",
+        "hospitalisations": 4,
+        "reanimations": 0,
+        "retours": 64,
+        "deces": 21
+      },
+      {
+        "num": "80",
+        "name": "Somme",
+        "hospitalisations": 103,
+        "reanimations": 6,
+        "retours": 697,
+        "deces": 219
+      },
+      {
+        "num": "81",
+        "name": "Tarn",
+        "hospitalisations": 7,
+        "reanimations": 2,
+        "retours": 117,
+        "deces": 23
+      },
+      {
+        "num": "82",
+        "name": "Tarn-et-Garonne",
+        "hospitalisations": 4,
+        "reanimations": 1,
+        "retours": 41,
+        "deces": 6
+      },
+      {
+        "num": "83",
+        "name": "Var",
+        "hospitalisations": 109,
+        "reanimations": 5,
+        "retours": 897,
+        "deces": 131
+      },
+      {
+        "num": "84",
+        "name": "Vaucluse",
+        "hospitalisations": 29,
+        "reanimations": 0,
+        "retours": 232,
+        "deces": 36
+      },
+      {
+        "num": "85",
+        "name": "Vendée",
+        "hospitalisations": 43,
+        "reanimations": 1,
+        "retours": 224,
+        "deces": 40
+      },
+      {
+        "num": "86",
+        "name": "Vienne",
+        "hospitalisations": 10,
+        "reanimations": 0,
+        "retours": 137,
+        "deces": 39
+      },
+      {
+        "num": "87",
+        "name": "Haute-Vienne",
+        "hospitalisations": 10,
+        "reanimations": 0,
+        "retours": 120,
+        "deces": 25
+      },
+      {
+        "num": "88",
+        "name": "Vosges",
+        "hospitalisations": 48,
+        "reanimations": 2,
+        "retours": 693,
+        "deces": 257
+      },
+      {
+        "num": "89",
+        "name": "Yonne",
+        "hospitalisations": 50,
+        "reanimations": 5,
+        "retours": 287,
+        "deces": 90
+      },
+      {
+        "num": "90",
+        "name": "Territoire de Belfort",
+        "hospitalisations": 37,
+        "reanimations": 4,
+        "retours": 506,
+        "deces": 181
+      },
+      {
+        "num": "91",
+        "name": "Essonne",
+        "hospitalisations": 588,
+        "reanimations": 47,
+        "retours": 2081,
+        "deces": 510
+      },
+      {
+        "num": "92",
+        "name": "Hauts-de-Seine",
+        "hospitalisations": 892,
+        "reanimations": 70,
+        "retours": 4090,
+        "deces": 1058
+      },
+      {
+        "num": "93",
+        "name": "Seine-Saint-Denis",
+        "hospitalisations": 838,
+        "reanimations": 79,
+        "retours": 3384,
+        "deces": 967
+      },
+      {
+        "num": "94",
+        "name": "Val-de-Marne",
+        "hospitalisations": 824,
+        "reanimations": 30,
+        "retours": 3770,
+        "deces": 1174
+      },
+      {
+        "num": "95",
+        "name": "Val-d'Oise",
+        "hospitalisations": 474,
+        "reanimations": 17,
+        "retours": 2373,
+        "deces": 687
+      },
+      {
+        "num": "971",
+        "name": "Guadeloupe",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 74,
+        "deces": 16
+      },
+      {
+        "num": "972",
+        "name": "Martinique",
+        "hospitalisations": 10,
+        "reanimations": 0,
+        "retours": 87,
+        "deces": 14
+      },
+      {
+        "num": "973",
+        "name": "Guyane",
+        "hospitalisations": 37,
+        "reanimations": 6,
+        "retours": 127,
+        "deces": 2
+      },
+      {
+        "num": "974",
+        "name": "La Réunion",
+        "hospitalisations": 19,
+        "reanimations": 1,
+        "retours": 123,
+        "deces": 1
+      },
+      {
+        "num": "976",
+        "name": "Mayotte",
+        "hospitalisations": 41,
+        "reanimations": 12,
+        "retours": 287,
+        "deces": 23
+      }
+    ]
+  },
+  {
+    "date": "11/06/2020",
+    "departements": [
+      {
+        "num": "01",
+        "name": "Ain",
+        "hospitalisations": 67,
+        "reanimations": 0,
+        "retours": 407,
+        "deces": 100
+      },
+      {
+        "num": "02",
+        "name": "Aisne",
+        "hospitalisations": 128,
+        "reanimations": 11,
+        "retours": 972,
+        "deces": 270
+      },
+      {
+        "num": "03",
+        "name": "Allier",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 189,
+        "deces": 39
+      },
+      {
+        "num": "04",
+        "name": "Alpes-de-Haute-Provence",
+        "hospitalisations": 8,
+        "reanimations": 0,
+        "retours": 123,
+        "deces": 12
+      },
+      {
+        "num": "05",
+        "name": "Hautes-Alpes",
+        "hospitalisations": 16,
+        "reanimations": 1,
+        "retours": 119,
+        "deces": 18
+      },
+      {
+        "num": "06",
+        "name": "Alpes-Maritimes",
+        "hospitalisations": 90,
+        "reanimations": 3,
+        "retours": 676,
+        "deces": 183
+      },
+      {
+        "num": "07",
+        "name": "Ardèche",
+        "hospitalisations": 22,
+        "reanimations": 4,
+        "retours": 422,
+        "deces": 108
+      },
+      {
+        "num": "08",
+        "name": "Ardennes",
+        "hospitalisations": 17,
+        "reanimations": 3,
+        "retours": 205,
+        "deces": 54
+      },
+      {
+        "num": "09",
+        "name": "Ariège",
+        "hospitalisations": 1,
+        "reanimations": 1,
+        "retours": 33,
+        "deces": 2
+      },
+      {
+        "num": "10",
+        "name": "Aube",
+        "hospitalisations": 33,
+        "reanimations": 3,
+        "retours": 606,
+        "deces": 135
+      },
+      {
+        "num": "11",
+        "name": "Aude",
+        "hospitalisations": 6,
+        "reanimations": 1,
+        "retours": 226,
+        "deces": 58
+      },
+      {
+        "num": "12",
+        "name": "Aveyron",
+        "hospitalisations": 6,
+        "reanimations": 0,
+        "retours": 138,
+        "deces": 24
+      },
+      {
+        "num": "13",
+        "name": "Bouches-du-Rhône",
+        "hospitalisations": 490,
+        "reanimations": 50,
+        "retours": 3070,
+        "deces": 541
+      },
+      {
+        "num": "14",
+        "name": "Calvados",
+        "hospitalisations": 47,
+        "reanimations": 1,
+        "retours": 288,
+        "deces": 83
+      },
+      {
+        "num": "15",
+        "name": "Cantal",
+        "hospitalisations": 7,
+        "reanimations": 1,
+        "retours": 50,
+        "deces": 9
+      },
+      {
+        "num": "16",
+        "name": "Charente",
+        "hospitalisations": 4,
+        "reanimations": 1,
+        "retours": 55,
+        "deces": 13
+      },
+      {
+        "num": "17",
+        "name": "Charente-Maritime",
+        "hospitalisations": 23,
+        "reanimations": 1,
+        "retours": 129,
+        "deces": 48
+      },
+      {
+        "num": "18",
+        "name": "Cher",
+        "hospitalisations": 46,
+        "reanimations": 0,
+        "retours": 158,
+        "deces": 77
+      },
+      {
+        "num": "19",
+        "name": "Corrèze",
+        "hospitalisations": 0,
+        "reanimations": 0,
+        "retours": 159,
+        "deces": 37
+      },
+      {
+        "num": "21",
+        "name": "Côte-d'Or",
+        "hospitalisations": 31,
+        "reanimations": 2,
+        "retours": 905,
+        "deces": 248
+      },
+      {
+        "num": "22",
+        "name": "Côtes-d'Armor",
+        "hospitalisations": 31,
+        "reanimations": 4,
+        "retours": 195,
+        "deces": 36
+      },
+      {
+        "num": "23",
+        "name": "Creuse",
+        "hospitalisations": 9,
+        "reanimations": 3,
+        "retours": 70,
+        "deces": 12
+      },
+      {
+        "num": "24",
+        "name": "Dordogne",
+        "hospitalisations": 13,
+        "reanimations": 0,
+        "retours": 85,
+        "deces": 13
+      },
+      {
+        "num": "25",
+        "name": "Doubs",
+        "hospitalisations": 25,
+        "reanimations": 4,
+        "retours": 616,
+        "deces": 149
+      },
+      {
+        "num": "26",
+        "name": "Drôme",
+        "hospitalisations": 37,
+        "reanimations": 2,
+        "retours": 490,
+        "deces": 129
+      },
+      {
+        "num": "27",
+        "name": "Eure",
+        "hospitalisations": 62,
+        "reanimations": 0,
+        "retours": 194,
+        "deces": 80
+      },
+      {
+        "num": "28",
+        "name": "Eure-et-Loir",
+        "hospitalisations": 129,
+        "reanimations": 13,
+        "retours": 469,
+        "deces": 128
+      },
+      {
+        "num": "29",
+        "name": "Finistère",
+        "hospitalisations": 20,
+        "reanimations": 1,
+        "retours": 168,
+        "deces": 43
+      },
+      {
+        "num": "2A",
+        "name": "Corse-du-Sud",
+        "hospitalisations": 22,
+        "reanimations": 4,
+        "retours": 127,
+        "deces": 48
+      },
+      {
+        "num": "2B",
+        "name": "Haute-Corse",
+        "hospitalisations": 3,
+        "reanimations": 2,
+        "retours": 107,
+        "deces": 10
+      },
+      {
+        "num": "30",
+        "name": "Gard",
+        "hospitalisations": 52,
+        "reanimations": 3,
+        "retours": 314,
+        "deces": 94
+      },
+      {
+        "num": "31",
+        "name": "Haute-Garonne",
+        "hospitalisations": 44,
+        "reanimations": 5,
+        "retours": 619,
+        "deces": 71
+      },
+      {
+        "num": "32",
+        "name": "Gers",
+        "hospitalisations": 3,
+        "reanimations": 1,
+        "retours": 86,
+        "deces": 23
+      },
+      {
+        "num": "33",
+        "name": "Gironde",
+        "hospitalisations": 87,
+        "reanimations": 11,
+        "retours": 894,
+        "deces": 149
+      },
+      {
+        "num": "34",
+        "name": "Hérault",
+        "hospitalisations": 16,
+        "reanimations": 2,
+        "retours": 692,
+        "deces": 120
+      },
+      {
+        "num": "35",
+        "name": "Ille-et-Vilaine",
+        "hospitalisations": 58,
+        "reanimations": 3,
+        "retours": 438,
+        "deces": 86
+      },
+      {
+        "num": "36",
+        "name": "Indre",
+        "hospitalisations": 84,
+        "reanimations": 3,
+        "retours": 108,
+        "deces": 77
+      },
+      {
+        "num": "37",
+        "name": "Indre-et-Loire",
+        "hospitalisations": 75,
+        "reanimations": 5,
+        "retours": 309,
+        "deces": 82
+      },
+      {
+        "num": "38",
+        "name": "Isère",
+        "hospitalisations": 58,
+        "reanimations": 5,
+        "retours": 650,
+        "deces": 151
+      },
+      {
+        "num": "39",
+        "name": "Jura",
+        "hospitalisations": 20,
+        "reanimations": 1,
+        "retours": 292,
+        "deces": 60
+      },
+      {
+        "num": "40",
+        "name": "Landes",
+        "hospitalisations": 5,
+        "reanimations": 1,
+        "retours": 71,
+        "deces": 13
+      },
+      {
+        "num": "41",
+        "name": "Loir-et-Cher",
+        "hospitalisations": 89,
+        "reanimations": 0,
+        "retours": 232,
+        "deces": 63
+      },
+      {
+        "num": "42",
+        "name": "Loire",
+        "hospitalisations": 142,
+        "reanimations": 11,
+        "retours": 903,
+        "deces": 244
+      },
+      {
+        "num": "43",
+        "name": "Haute-Loire",
+        "hospitalisations": 13,
+        "reanimations": 0,
+        "retours": 95,
+        "deces": 17
+      },
+      {
+        "num": "44",
+        "name": "Loire-Atlantique",
+        "hospitalisations": 86,
+        "reanimations": 5,
+        "retours": 628,
+        "deces": 156
+      },
+      {
+        "num": "45",
+        "name": "Loiret",
+        "hospitalisations": 91,
+        "reanimations": 9,
+        "retours": 568,
+        "deces": 98
+      },
+      {
+        "num": "46",
+        "name": "Lot",
+        "hospitalisations": 1,
+        "reanimations": 0,
+        "retours": 69,
+        "deces": 22
+      },
+      {
+        "num": "47",
+        "name": "Lot-et-Garonne",
+        "hospitalisations": 6,
+        "reanimations": 1,
+        "retours": 73,
+        "deces": 10
+      },
+      {
+        "num": "48",
+        "name": "Lozère",
+        "hospitalisations": 0,
+        "reanimations": 0,
+        "retours": 24,
+        "deces": 1
+      },
+      {
+        "num": "49",
+        "name": "Maine-et-Loire",
+        "hospitalisations": 85,
+        "reanimations": 5,
+        "retours": 552,
+        "deces": 136
+      },
+      {
+        "num": "50",
+        "name": "Manche",
+        "hospitalisations": 43,
+        "reanimations": 4,
+        "retours": 133,
+        "deces": 47
+      },
+      {
+        "num": "51",
+        "name": "Marne",
+        "hospitalisations": 110,
+        "reanimations": 10,
+        "retours": 961,
+        "deces": 259
+      },
+      {
+        "num": "52",
+        "name": "Haute-Marne",
+        "hospitalisations": 41,
+        "reanimations": 1,
+        "retours": 227,
+        "deces": 84
+      },
+      {
+        "num": "53",
+        "name": "Mayenne",
+        "hospitalisations": 9,
+        "reanimations": 1,
+        "retours": 172,
+        "deces": 44
+      },
+      {
+        "num": "54",
+        "name": "Meurthe-et-Moselle",
+        "hospitalisations": 120,
+        "reanimations": 10,
+        "retours": 1104,
+        "deces": 354
+      },
+      {
+        "num": "55",
+        "name": "Meuse",
+        "hospitalisations": 23,
+        "reanimations": 1,
+        "retours": 464,
+        "deces": 98
+      },
+      {
+        "num": "56",
+        "name": "Morbihan",
+        "hospitalisations": 46,
+        "reanimations": 3,
+        "retours": 402,
+        "deces": 90
+      },
+      {
+        "num": "57",
+        "name": "Moselle",
+        "hospitalisations": 353,
+        "reanimations": 34,
+        "retours": 2253,
+        "deces": 817
+      },
+      {
+        "num": "58",
+        "name": "Nièvre",
+        "hospitalisations": 10,
+        "reanimations": 1,
+        "retours": 87,
+        "deces": 27
+      },
+      {
+        "num": "59",
+        "name": "Nord",
+        "hospitalisations": 502,
+        "reanimations": 40,
+        "retours": 2064,
+        "deces": 601
+      },
+      {
+        "num": "60",
+        "name": "Oise",
+        "hospitalisations": 269,
+        "reanimations": 8,
+        "retours": 1037,
+        "deces": 395
+      },
+      {
+        "num": "61",
+        "name": "Orne",
+        "hospitalisations": 38,
+        "reanimations": 3,
+        "retours": 215,
+        "deces": 37
+      },
+      {
+        "num": "62",
+        "name": "Pas-de-Calais",
+        "hospitalisations": 212,
+        "reanimations": 26,
+        "retours": 1240,
+        "deces": 305
+      },
+      {
+        "num": "63",
+        "name": "Puy-de-Dôme",
+        "hospitalisations": 18,
+        "reanimations": 2,
+        "retours": 174,
+        "deces": 42
+      },
+      {
+        "num": "64",
+        "name": "Pyrénées-Atlantiques",
+        "hospitalisations": 5,
+        "reanimations": 0,
+        "retours": 218,
+        "deces": 27
+      },
+      {
+        "num": "65",
+        "name": "Hautes-Pyrénées",
+        "hospitalisations": 10,
+        "reanimations": 2,
+        "retours": 149,
+        "deces": 26
+      },
+      {
+        "num": "66",
+        "name": "Pyrénées-Orientales",
+        "hospitalisations": 1,
+        "reanimations": 1,
+        "retours": 277,
+        "deces": 34
+      },
+      {
+        "num": "67",
+        "name": "Bas-Rhin",
+        "hospitalisations": 397,
+        "reanimations": 11,
+        "retours": 2371,
+        "deces": 646
+      },
+      {
+        "num": "68",
+        "name": "Haut-Rhin",
+        "hospitalisations": 396,
+        "reanimations": 18,
+        "retours": 2652,
+        "deces": 794
+      },
+      {
+        "num": "69",
+        "name": "Rhône",
+        "hospitalisations": 313,
+        "reanimations": 22,
+        "retours": 2821,
+        "deces": 646
+      },
+      {
+        "num": "70",
+        "name": "Haute-Saône",
+        "hospitalisations": 19,
+        "reanimations": 0,
+        "retours": 288,
+        "deces": 77
+      },
+      {
+        "num": "71",
+        "name": "Saône-et-Loire",
+        "hospitalisations": 75,
+        "reanimations": 5,
+        "retours": 690,
+        "deces": 199
+      },
+      {
+        "num": "72",
+        "name": "Sarthe",
+        "hospitalisations": 58,
+        "reanimations": 2,
+        "retours": 330,
+        "deces": 83
+      },
+      {
+        "num": "73",
+        "name": "Savoie",
+        "hospitalisations": 24,
+        "reanimations": 0,
+        "retours": 387,
+        "deces": 69
+      },
+      {
+        "num": "74",
+        "name": "Haute-Savoie",
+        "hospitalisations": 98,
+        "reanimations": 3,
+        "retours": 820,
+        "deces": 162
+      },
+      {
+        "num": "75",
+        "name": "Paris",
+        "hospitalisations": 748,
+        "reanimations": 112,
+        "retours": 5833,
+        "deces": 1715
+      },
+      {
+        "num": "76",
+        "name": "Seine-Maritime",
+        "hospitalisations": 93,
+        "reanimations": 6,
+        "retours": 712,
+        "deces": 178
+      },
+      {
+        "num": "77",
+        "name": "Seine-et-Marne",
+        "hospitalisations": 359,
+        "reanimations": 49,
+        "retours": 2465,
+        "deces": 670
+      },
+      {
+        "num": "78",
+        "name": "Yvelines",
+        "hospitalisations": 477,
+        "reanimations": 27,
+        "retours": 2019,
+        "deces": 508
+      },
+      {
+        "num": "79",
+        "name": "Deux-Sèvres",
+        "hospitalisations": 4,
+        "reanimations": 0,
+        "retours": 64,
+        "deces": 21
+      },
+      {
+        "num": "80",
+        "name": "Somme",
+        "hospitalisations": 103,
+        "reanimations": 6,
+        "retours": 698,
+        "deces": 219
+      },
+      {
+        "num": "81",
+        "name": "Tarn",
+        "hospitalisations": 7,
+        "reanimations": 2,
+        "retours": 117,
+        "deces": 23
+      },
+      {
+        "num": "82",
+        "name": "Tarn-et-Garonne",
+        "hospitalisations": 3,
+        "reanimations": 1,
+        "retours": 42,
+        "deces": 6
+      },
+      {
+        "num": "83",
+        "name": "Var",
+        "hospitalisations": 106,
+        "reanimations": 5,
+        "retours": 900,
+        "deces": 132
+      },
+      {
+        "num": "84",
+        "name": "Vaucluse",
+        "hospitalisations": 29,
+        "reanimations": 0,
+        "retours": 232,
+        "deces": 36
+      },
+      {
+        "num": "85",
+        "name": "Vendée",
+        "hospitalisations": 41,
+        "reanimations": 1,
+        "retours": 227,
+        "deces": 40
+      },
+      {
+        "num": "86",
+        "name": "Vienne",
+        "hospitalisations": 10,
+        "reanimations": 0,
+        "retours": 137,
+        "deces": 39
+      },
+      {
+        "num": "87",
+        "name": "Haute-Vienne",
+        "hospitalisations": 10,
+        "reanimations": 0,
+        "retours": 120,
+        "deces": 25
+      },
+      {
+        "num": "88",
+        "name": "Vosges",
+        "hospitalisations": 40,
+        "reanimations": 1,
+        "retours": 700,
+        "deces": 258
+      },
+      {
+        "num": "89",
+        "name": "Yonne",
+        "hospitalisations": 51,
+        "reanimations": 5,
+        "retours": 287,
+        "deces": 90
+      },
+      {
+        "num": "90",
+        "name": "Territoire de Belfort",
+        "hospitalisations": 37,
+        "reanimations": 4,
+        "retours": 508,
+        "deces": 181
+      },
+      {
+        "num": "91",
+        "name": "Essonne",
+        "hospitalisations": 584,
+        "reanimations": 48,
+        "retours": 2087,
+        "deces": 512
+      },
+      {
+        "num": "92",
+        "name": "Hauts-de-Seine",
+        "hospitalisations": 874,
+        "reanimations": 68,
+        "retours": 4109,
+        "deces": 1060
+      },
+      {
+        "num": "93",
+        "name": "Seine-Saint-Denis",
+        "hospitalisations": 823,
+        "reanimations": 76,
+        "retours": 3404,
+        "deces": 968
+      },
+      {
+        "num": "94",
+        "name": "Val-de-Marne",
+        "hospitalisations": 816,
+        "reanimations": 32,
+        "retours": 3786,
+        "deces": 1175
+      },
+      {
+        "num": "95",
+        "name": "Val-d'Oise",
+        "hospitalisations": 469,
+        "reanimations": 16,
+        "retours": 2380,
+        "deces": 687
+      },
+      {
+        "num": "971",
+        "name": "Guadeloupe",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 74,
+        "deces": 16
+      },
+      {
+        "num": "972",
+        "name": "Martinique",
+        "hospitalisations": 10,
+        "reanimations": 0,
+        "retours": 87,
+        "deces": 14
+      },
+      {
+        "num": "973",
+        "name": "Guyane",
+        "hospitalisations": 42,
+        "reanimations": 7,
+        "retours": 133,
+        "deces": 2
+      },
+      {
+        "num": "974",
+        "name": "La Réunion",
+        "hospitalisations": 19,
+        "reanimations": 1,
+        "retours": 124,
+        "deces": 1
+      },
+      {
+        "num": "976",
+        "name": "Mayotte",
+        "hospitalisations": 43,
+        "reanimations": 13,
+        "retours": 290,
+        "deces": 23
+      }
+    ]
+  },
+  {
+    "date": "12/06/2020",
+    "departements": [
+      {
+        "num": "01",
+        "name": "Ain",
+        "hospitalisations": 64,
+        "reanimations": 0,
+        "retours": 409,
+        "deces": 101
+      },
+      {
+        "num": "02",
+        "name": "Aisne",
+        "hospitalisations": 125,
+        "reanimations": 10,
+        "retours": 979,
+        "deces": 270
+      },
+      {
+        "num": "03",
+        "name": "Allier",
+        "hospitalisations": 13,
+        "reanimations": 0,
+        "retours": 190,
+        "deces": 39
+      },
+      {
+        "num": "04",
+        "name": "Alpes-de-Haute-Provence",
+        "hospitalisations": 4,
+        "reanimations": 0,
+        "retours": 126,
+        "deces": 13
+      },
+      {
+        "num": "05",
+        "name": "Hautes-Alpes",
+        "hospitalisations": 10,
+        "reanimations": 0,
+        "retours": 125,
+        "deces": 18
+      },
+      {
+        "num": "06",
+        "name": "Alpes-Maritimes",
+        "hospitalisations": 90,
+        "reanimations": 3,
+        "retours": 676,
+        "deces": 183
+      },
+      {
+        "num": "07",
+        "name": "Ardèche",
+        "hospitalisations": 20,
+        "reanimations": 4,
+        "retours": 425,
+        "deces": 108
+      },
+      {
+        "num": "08",
+        "name": "Ardennes",
+        "hospitalisations": 18,
+        "reanimations": 3,
+        "retours": 204,
+        "deces": 54
+      },
+      {
+        "num": "09",
+        "name": "Ariège",
+        "hospitalisations": 1,
+        "reanimations": 1,
+        "retours": 33,
+        "deces": 2
+      },
+      {
+        "num": "10",
+        "name": "Aube",
+        "hospitalisations": 33,
+        "reanimations": 3,
+        "retours": 606,
+        "deces": 135
+      },
+      {
+        "num": "11",
+        "name": "Aude",
+        "hospitalisations": 6,
+        "reanimations": 1,
+        "retours": 226,
+        "deces": 58
+      },
+      {
+        "num": "12",
+        "name": "Aveyron",
+        "hospitalisations": 6,
+        "reanimations": 0,
+        "retours": 138,
+        "deces": 24
+      },
+      {
+        "num": "13",
+        "name": "Bouches-du-Rhône",
+        "hospitalisations": 483,
+        "reanimations": 50,
+        "retours": 3079,
+        "deces": 541
+      },
+      {
+        "num": "14",
+        "name": "Calvados",
+        "hospitalisations": 39,
+        "reanimations": 1,
+        "retours": 297,
+        "deces": 83
+      },
+      {
+        "num": "15",
+        "name": "Cantal",
+        "hospitalisations": 8,
+        "reanimations": 1,
+        "retours": 50,
+        "deces": 9
+      },
+      {
+        "num": "16",
+        "name": "Charente",
+        "hospitalisations": 4,
+        "reanimations": 1,
+        "retours": 55,
+        "deces": 13
+      },
+      {
+        "num": "17",
+        "name": "Charente-Maritime",
+        "hospitalisations": 22,
+        "reanimations": 1,
+        "retours": 129,
+        "deces": 49
+      },
+      {
+        "num": "18",
+        "name": "Cher",
+        "hospitalisations": 45,
+        "reanimations": 0,
+        "retours": 159,
+        "deces": 77
+      },
+      {
+        "num": "19",
+        "name": "Corrèze",
+        "hospitalisations": 0,
+        "reanimations": 0,
+        "retours": 159,
+        "deces": 37
+      },
+      {
+        "num": "21",
+        "name": "Côte-d'Or",
+        "hospitalisations": 31,
+        "reanimations": 2,
+        "retours": 908,
+        "deces": 248
+      },
+      {
+        "num": "22",
+        "name": "Côtes-d'Armor",
+        "hospitalisations": 31,
+        "reanimations": 4,
+        "retours": 195,
+        "deces": 36
+      },
+      {
+        "num": "23",
+        "name": "Creuse",
+        "hospitalisations": 8,
+        "reanimations": 3,
+        "retours": 71,
+        "deces": 12
+      },
+      {
+        "num": "24",
+        "name": "Dordogne",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 86,
+        "deces": 13
+      },
+      {
+        "num": "25",
+        "name": "Doubs",
+        "hospitalisations": 25,
+        "reanimations": 4,
+        "retours": 617,
+        "deces": 149
+      },
+      {
+        "num": "26",
+        "name": "Drôme",
+        "hospitalisations": 36,
+        "reanimations": 2,
+        "retours": 491,
+        "deces": 129
+      },
+      {
+        "num": "27",
+        "name": "Eure",
+        "hospitalisations": 62,
+        "reanimations": 0,
+        "retours": 194,
+        "deces": 80
+      },
+      {
+        "num": "28",
+        "name": "Eure-et-Loir",
+        "hospitalisations": 129,
+        "reanimations": 13,
+        "retours": 469,
+        "deces": 128
+      },
+      {
+        "num": "29",
+        "name": "Finistère",
+        "hospitalisations": 19,
+        "reanimations": 1,
+        "retours": 169,
+        "deces": 43
+      },
+      {
+        "num": "2A",
+        "name": "Corse-du-Sud",
+        "hospitalisations": 20,
+        "reanimations": 2,
+        "retours": 129,
+        "deces": 48
+      },
+      {
+        "num": "2B",
+        "name": "Haute-Corse",
+        "hospitalisations": 2,
+        "reanimations": 1,
+        "retours": 107,
+        "deces": 11
+      },
+      {
+        "num": "30",
+        "name": "Gard",
+        "hospitalisations": 41,
+        "reanimations": 3,
+        "retours": 324,
+        "deces": 96
+      },
+      {
+        "num": "31",
+        "name": "Haute-Garonne",
+        "hospitalisations": 44,
+        "reanimations": 5,
+        "retours": 619,
+        "deces": 71
+      },
+      {
+        "num": "32",
+        "name": "Gers",
+        "hospitalisations": 3,
+        "reanimations": 1,
+        "retours": 86,
+        "deces": 23
+      },
+      {
+        "num": "33",
+        "name": "Gironde",
+        "hospitalisations": 89,
+        "reanimations": 11,
+        "retours": 894,
+        "deces": 149
+      },
+      {
+        "num": "34",
+        "name": "Hérault",
+        "hospitalisations": 16,
+        "reanimations": 2,
+        "retours": 693,
+        "deces": 120
+      },
+      {
+        "num": "35",
+        "name": "Ille-et-Vilaine",
+        "hospitalisations": 57,
+        "reanimations": 3,
+        "retours": 440,
+        "deces": 86
+      },
+      {
+        "num": "36",
+        "name": "Indre",
+        "hospitalisations": 84,
+        "reanimations": 3,
+        "retours": 108,
+        "deces": 77
+      },
+      {
+        "num": "37",
+        "name": "Indre-et-Loire",
+        "hospitalisations": 73,
+        "reanimations": 5,
+        "retours": 310,
+        "deces": 82
+      },
+      {
+        "num": "38",
+        "name": "Isère",
+        "hospitalisations": 59,
+        "reanimations": 4,
+        "retours": 649,
+        "deces": 151
+      },
+      {
+        "num": "39",
+        "name": "Jura",
+        "hospitalisations": 20,
+        "reanimations": 1,
+        "retours": 292,
+        "deces": 60
+      },
+      {
+        "num": "40",
+        "name": "Landes",
+        "hospitalisations": 5,
+        "reanimations": 1,
+        "retours": 71,
+        "deces": 13
+      },
+      {
+        "num": "41",
+        "name": "Loir-et-Cher",
+        "hospitalisations": 89,
+        "reanimations": 0,
+        "retours": 232,
+        "deces": 63
+      },
+      {
+        "num": "42",
+        "name": "Loire",
+        "hospitalisations": 118,
+        "reanimations": 10,
+        "retours": 926,
+        "deces": 244
+      },
+      {
+        "num": "43",
+        "name": "Haute-Loire",
+        "hospitalisations": 6,
+        "reanimations": 0,
+        "retours": 102,
+        "deces": 17
+      },
+      {
+        "num": "44",
+        "name": "Loire-Atlantique",
+        "hospitalisations": 78,
+        "reanimations": 5,
+        "retours": 637,
+        "deces": 156
+      },
+      {
+        "num": "45",
+        "name": "Loiret",
+        "hospitalisations": 88,
+        "reanimations": 9,
+        "retours": 570,
+        "deces": 100
+      },
+      {
+        "num": "46",
+        "name": "Lot",
+        "hospitalisations": 1,
+        "reanimations": 0,
+        "retours": 69,
+        "deces": 22
+      },
+      {
+        "num": "47",
+        "name": "Lot-et-Garonne",
+        "hospitalisations": 6,
+        "reanimations": 1,
+        "retours": 73,
+        "deces": 10
+      },
+      {
+        "num": "48",
+        "name": "Lozère",
+        "hospitalisations": 0,
+        "reanimations": 0,
+        "retours": 24,
+        "deces": 1
+      },
+      {
+        "num": "49",
+        "name": "Maine-et-Loire",
+        "hospitalisations": 81,
+        "reanimations": 5,
+        "retours": 559,
+        "deces": 137
+      },
+      {
+        "num": "50",
+        "name": "Manche",
+        "hospitalisations": 43,
+        "reanimations": 4,
+        "retours": 133,
+        "deces": 47
+      },
+      {
+        "num": "51",
+        "name": "Marne",
+        "hospitalisations": 107,
+        "reanimations": 9,
+        "retours": 965,
+        "deces": 259
+      },
+      {
+        "num": "52",
+        "name": "Haute-Marne",
+        "hospitalisations": 36,
+        "reanimations": 1,
+        "retours": 232,
+        "deces": 84
+      },
+      {
+        "num": "53",
+        "name": "Mayenne",
+        "hospitalisations": 9,
+        "reanimations": 1,
+        "retours": 172,
+        "deces": 44
+      },
+      {
+        "num": "54",
+        "name": "Meurthe-et-Moselle",
+        "hospitalisations": 120,
+        "reanimations": 10,
+        "retours": 1110,
+        "deces": 354
+      },
+      {
+        "num": "55",
+        "name": "Meuse",
+        "hospitalisations": 18,
+        "reanimations": 1,
+        "retours": 471,
+        "deces": 98
+      },
+      {
+        "num": "56",
+        "name": "Morbihan",
+        "hospitalisations": 43,
+        "reanimations": 3,
+        "retours": 404,
+        "deces": 91
+      },
+      {
+        "num": "57",
+        "name": "Moselle",
+        "hospitalisations": 326,
+        "reanimations": 29,
+        "retours": 2280,
+        "deces": 818
+      },
+      {
+        "num": "58",
+        "name": "Nièvre",
+        "hospitalisations": 10,
+        "reanimations": 1,
+        "retours": 87,
+        "deces": 27
+      },
+      {
+        "num": "59",
+        "name": "Nord",
+        "hospitalisations": 495,
+        "reanimations": 39,
+        "retours": 2074,
+        "deces": 602
+      },
+      {
+        "num": "60",
+        "name": "Oise",
+        "hospitalisations": 267,
+        "reanimations": 8,
+        "retours": 1039,
+        "deces": 396
+      },
+      {
+        "num": "61",
+        "name": "Orne",
+        "hospitalisations": 37,
+        "reanimations": 3,
+        "retours": 216,
+        "deces": 37
+      },
+      {
+        "num": "62",
+        "name": "Pas-de-Calais",
+        "hospitalisations": 208,
+        "reanimations": 25,
+        "retours": 1245,
+        "deces": 305
+      },
+      {
+        "num": "63",
+        "name": "Puy-de-Dôme",
+        "hospitalisations": 18,
+        "reanimations": 2,
+        "retours": 174,
+        "deces": 42
+      },
+      {
+        "num": "64",
+        "name": "Pyrénées-Atlantiques",
+        "hospitalisations": 5,
+        "reanimations": 0,
+        "retours": 218,
+        "deces": 27
+      },
+      {
+        "num": "65",
+        "name": "Hautes-Pyrénées",
+        "hospitalisations": 9,
+        "reanimations": 2,
+        "retours": 150,
+        "deces": 26
+      },
+      {
+        "num": "66",
+        "name": "Pyrénées-Orientales",
+        "hospitalisations": 1,
+        "reanimations": 1,
+        "retours": 277,
+        "deces": 34
+      },
+      {
+        "num": "67",
+        "name": "Bas-Rhin",
+        "hospitalisations": 377,
+        "reanimations": 11,
+        "retours": 2393,
+        "deces": 647
+      },
+      {
+        "num": "68",
+        "name": "Haut-Rhin",
+        "hospitalisations": 381,
+        "reanimations": 13,
+        "retours": 2672,
+        "deces": 794
+      },
+      {
+        "num": "69",
+        "name": "Rhône",
+        "hospitalisations": 301,
+        "reanimations": 19,
+        "retours": 2827,
+        "deces": 646
+      },
+      {
+        "num": "70",
+        "name": "Haute-Saône",
+        "hospitalisations": 19,
+        "reanimations": 0,
+        "retours": 288,
+        "deces": 77
+      },
+      {
+        "num": "71",
+        "name": "Saône-et-Loire",
+        "hospitalisations": 61,
+        "reanimations": 5,
+        "retours": 704,
+        "deces": 199
+      },
+      {
+        "num": "72",
+        "name": "Sarthe",
+        "hospitalisations": 58,
+        "reanimations": 1,
+        "retours": 330,
+        "deces": 83
+      },
+      {
+        "num": "73",
+        "name": "Savoie",
+        "hospitalisations": 24,
+        "reanimations": 0,
+        "retours": 389,
+        "deces": 69
+      },
+      {
+        "num": "74",
+        "name": "Haute-Savoie",
+        "hospitalisations": 99,
+        "reanimations": 3,
+        "retours": 818,
+        "deces": 162
+      },
+      {
+        "num": "75",
+        "name": "Paris",
+        "hospitalisations": 734,
+        "reanimations": 112,
+        "retours": 5839,
+        "deces": 1722
+      },
+      {
+        "num": "76",
+        "name": "Seine-Maritime",
+        "hospitalisations": 93,
+        "reanimations": 5,
+        "retours": 712,
+        "deces": 178
+      },
+      {
+        "num": "77",
+        "name": "Seine-et-Marne",
+        "hospitalisations": 345,
+        "reanimations": 51,
+        "retours": 2484,
+        "deces": 672
+      },
+      {
+        "num": "78",
+        "name": "Yvelines",
+        "hospitalisations": 470,
+        "reanimations": 26,
+        "retours": 2026,
+        "deces": 508
+      },
+      {
+        "num": "79",
+        "name": "Deux-Sèvres",
+        "hospitalisations": 4,
+        "reanimations": 0,
+        "retours": 64,
+        "deces": 21
+      },
+      {
+        "num": "80",
+        "name": "Somme",
+        "hospitalisations": 101,
+        "reanimations": 8,
+        "retours": 701,
+        "deces": 219
+      },
+      {
+        "num": "81",
+        "name": "Tarn",
+        "hospitalisations": 7,
+        "reanimations": 2,
+        "retours": 117,
+        "deces": 23
+      },
+      {
+        "num": "82",
+        "name": "Tarn-et-Garonne",
+        "hospitalisations": 3,
+        "reanimations": 1,
+        "retours": 42,
+        "deces": 6
+      },
+      {
+        "num": "83",
+        "name": "Var",
+        "hospitalisations": 103,
+        "reanimations": 5,
+        "retours": 903,
+        "deces": 132
+      },
+      {
+        "num": "84",
+        "name": "Vaucluse",
+        "hospitalisations": 30,
+        "reanimations": 0,
+        "retours": 232,
+        "deces": 36
+      },
+      {
+        "num": "85",
+        "name": "Vendée",
+        "hospitalisations": 40,
+        "reanimations": 1,
+        "retours": 228,
+        "deces": 40
+      },
+      {
+        "num": "86",
+        "name": "Vienne",
+        "hospitalisations": 10,
+        "reanimations": 0,
+        "retours": 137,
+        "deces": 39
+      },
+      {
+        "num": "87",
+        "name": "Haute-Vienne",
+        "hospitalisations": 10,
+        "reanimations": 0,
+        "retours": 120,
+        "deces": 25
+      },
+      {
+        "num": "88",
+        "name": "Vosges",
+        "hospitalisations": 40,
+        "reanimations": 1,
+        "retours": 701,
+        "deces": 258
+      },
+      {
+        "num": "89",
+        "name": "Yonne",
+        "hospitalisations": 33,
+        "reanimations": 4,
+        "retours": 322,
+        "deces": 89
+      },
+      {
+        "num": "90",
+        "name": "Territoire de Belfort",
+        "hospitalisations": 35,
+        "reanimations": 4,
+        "retours": 510,
+        "deces": 181
+      },
+      {
+        "num": "91",
+        "name": "Essonne",
+        "hospitalisations": 575,
+        "reanimations": 46,
+        "retours": 2096,
+        "deces": 514
+      },
+      {
+        "num": "92",
+        "name": "Hauts-de-Seine",
+        "hospitalisations": 870,
+        "reanimations": 69,
+        "retours": 4115,
+        "deces": 1060
+      },
+      {
+        "num": "93",
+        "name": "Seine-Saint-Denis",
+        "hospitalisations": 797,
+        "reanimations": 77,
+        "retours": 3446,
+        "deces": 968
+      },
+      {
+        "num": "94",
+        "name": "Val-de-Marne",
+        "hospitalisations": 797,
+        "reanimations": 30,
+        "retours": 3804,
+        "deces": 1175
+      },
+      {
+        "num": "95",
+        "name": "Val-d'Oise",
+        "hospitalisations": 447,
+        "reanimations": 14,
+        "retours": 2398,
+        "deces": 691
+      },
+      {
+        "num": "971",
+        "name": "Guadeloupe",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 74,
+        "deces": 16
+      },
+      {
+        "num": "972",
+        "name": "Martinique",
+        "hospitalisations": 10,
+        "reanimations": 0,
+        "retours": 87,
+        "deces": 14
+      },
+      {
+        "num": "973",
+        "name": "Guyane",
+        "hospitalisations": 52,
+        "reanimations": 6,
+        "retours": 136,
+        "deces": 2
+      },
+      {
+        "num": "974",
+        "name": "La Réunion",
+        "hospitalisations": 21,
+        "reanimations": 2,
+        "retours": 125,
+        "deces": 1
+      },
+      {
+        "num": "976",
+        "name": "Mayotte",
+        "hospitalisations": 44,
+        "reanimations": 16,
+        "retours": 296,
+        "deces": 23
+      }
+    ]
+  },
+  {
+    "date": "13/06/2020",
+    "departements": [
+      {
+        "num": "01",
+        "name": "Ain",
+        "hospitalisations": 64,
+        "reanimations": 0,
+        "retours": 409,
+        "deces": 101
+      },
+      {
+        "num": "02",
+        "name": "Aisne",
+        "hospitalisations": 124,
+        "reanimations": 10,
+        "retours": 980,
+        "deces": 270
+      },
+      {
+        "num": "03",
+        "name": "Allier",
+        "hospitalisations": 13,
+        "reanimations": 0,
+        "retours": 190,
+        "deces": 39
+      },
+      {
+        "num": "04",
+        "name": "Alpes-de-Haute-Provence",
+        "hospitalisations": 4,
+        "reanimations": 0,
+        "retours": 126,
+        "deces": 13
+      },
+      {
+        "num": "05",
+        "name": "Hautes-Alpes",
+        "hospitalisations": 9,
+        "reanimations": 0,
+        "retours": 126,
+        "deces": 18
+      },
+      {
+        "num": "06",
+        "name": "Alpes-Maritimes",
+        "hospitalisations": 89,
+        "reanimations": 3,
+        "retours": 677,
+        "deces": 183
+      },
+      {
+        "num": "07",
+        "name": "Ardèche",
+        "hospitalisations": 20,
+        "reanimations": 4,
+        "retours": 425,
+        "deces": 108
+      },
+      {
+        "num": "08",
+        "name": "Ardennes",
+        "hospitalisations": 17,
+        "reanimations": 3,
+        "retours": 205,
+        "deces": 54
+      },
+      {
+        "num": "09",
+        "name": "Ariège",
+        "hospitalisations": 1,
+        "reanimations": 1,
+        "retours": 33,
+        "deces": 2
+      },
+      {
+        "num": "10",
+        "name": "Aube",
+        "hospitalisations": 30,
+        "reanimations": 3,
+        "retours": 609,
+        "deces": 135
+      },
+      {
+        "num": "11",
+        "name": "Aude",
+        "hospitalisations": 6,
+        "reanimations": 1,
+        "retours": 226,
+        "deces": 58
+      },
+      {
+        "num": "12",
+        "name": "Aveyron",
+        "hospitalisations": 6,
+        "reanimations": 0,
+        "retours": 138,
+        "deces": 24
+      },
+      {
+        "num": "13",
+        "name": "Bouches-du-Rhône",
+        "hospitalisations": 487,
+        "reanimations": 50,
+        "retours": 3083,
+        "deces": 541
+      },
+      {
+        "num": "14",
+        "name": "Calvados",
+        "hospitalisations": 40,
+        "reanimations": 1,
+        "retours": 297,
+        "deces": 83
+      },
+      {
+        "num": "15",
+        "name": "Cantal",
+        "hospitalisations": 9,
+        "reanimations": 1,
+        "retours": 50,
+        "deces": 9
+      },
+      {
+        "num": "16",
+        "name": "Charente",
+        "hospitalisations": 4,
+        "reanimations": 1,
+        "retours": 55,
+        "deces": 13
+      },
+      {
+        "num": "17",
+        "name": "Charente-Maritime",
+        "hospitalisations": 22,
+        "reanimations": 1,
+        "retours": 129,
+        "deces": 49
+      },
+      {
+        "num": "18",
+        "name": "Cher",
+        "hospitalisations": 45,
+        "reanimations": 0,
+        "retours": 159,
+        "deces": 77
+      },
+      {
+        "num": "19",
+        "name": "Corrèze",
+        "hospitalisations": 0,
+        "reanimations": 0,
+        "retours": 159,
+        "deces": 37
+      },
+      {
+        "num": "21",
+        "name": "Côte-d'Or",
+        "hospitalisations": 28,
+        "reanimations": 2,
+        "retours": 911,
+        "deces": 248
+      },
+      {
+        "num": "22",
+        "name": "Côtes-d'Armor",
+        "hospitalisations": 30,
+        "reanimations": 4,
+        "retours": 196,
+        "deces": 36
+      },
+      {
+        "num": "23",
+        "name": "Creuse",
+        "hospitalisations": 8,
+        "reanimations": 3,
+        "retours": 71,
+        "deces": 12
+      },
+      {
+        "num": "24",
+        "name": "Dordogne",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 86,
+        "deces": 13
+      },
+      {
+        "num": "25",
+        "name": "Doubs",
+        "hospitalisations": 24,
+        "reanimations": 4,
+        "retours": 618,
+        "deces": 149
+      },
+      {
+        "num": "26",
+        "name": "Drôme",
+        "hospitalisations": 36,
+        "reanimations": 2,
+        "retours": 491,
+        "deces": 129
+      },
+      {
+        "num": "27",
+        "name": "Eure",
+        "hospitalisations": 59,
+        "reanimations": 0,
+        "retours": 197,
+        "deces": 80
+      },
+      {
+        "num": "28",
+        "name": "Eure-et-Loir",
+        "hospitalisations": 128,
+        "reanimations": 13,
+        "retours": 470,
+        "deces": 128
+      },
+      {
+        "num": "29",
+        "name": "Finistère",
+        "hospitalisations": 19,
+        "reanimations": 2,
+        "retours": 169,
+        "deces": 43
+      },
+      {
+        "num": "2A",
+        "name": "Corse-du-Sud",
+        "hospitalisations": 16,
+        "reanimations": 2,
+        "retours": 133,
+        "deces": 48
+      },
+      {
+        "num": "2B",
+        "name": "Haute-Corse",
+        "hospitalisations": 2,
+        "reanimations": 1,
+        "retours": 107,
+        "deces": 11
+      },
+      {
+        "num": "30",
+        "name": "Gard",
+        "hospitalisations": 41,
+        "reanimations": 3,
+        "retours": 324,
+        "deces": 96
+      },
+      {
+        "num": "31",
+        "name": "Haute-Garonne",
+        "hospitalisations": 44,
+        "reanimations": 4,
+        "retours": 621,
+        "deces": 71
+      },
+      {
+        "num": "32",
+        "name": "Gers",
+        "hospitalisations": 3,
+        "reanimations": 1,
+        "retours": 86,
+        "deces": 23
+      },
+      {
+        "num": "33",
+        "name": "Gironde",
+        "hospitalisations": 87,
+        "reanimations": 11,
+        "retours": 895,
+        "deces": 149
+      },
+      {
+        "num": "34",
+        "name": "Hérault",
+        "hospitalisations": 17,
+        "reanimations": 2,
+        "retours": 692,
+        "deces": 120
+      },
+      {
+        "num": "35",
+        "name": "Ille-et-Vilaine",
+        "hospitalisations": 55,
+        "reanimations": 3,
+        "retours": 442,
+        "deces": 86
+      },
+      {
+        "num": "36",
+        "name": "Indre",
+        "hospitalisations": 82,
+        "reanimations": 3,
+        "retours": 110,
+        "deces": 78
+      },
+      {
+        "num": "37",
+        "name": "Indre-et-Loire",
+        "hospitalisations": 74,
+        "reanimations": 5,
+        "retours": 309,
+        "deces": 82
+      },
+      {
+        "num": "38",
+        "name": "Isère",
+        "hospitalisations": 58,
+        "reanimations": 4,
+        "retours": 650,
+        "deces": 151
+      },
+      {
+        "num": "39",
+        "name": "Jura",
+        "hospitalisations": 19,
+        "reanimations": 1,
+        "retours": 293,
+        "deces": 60
+      },
+      {
+        "num": "40",
+        "name": "Landes",
+        "hospitalisations": 5,
+        "reanimations": 1,
+        "retours": 71,
+        "deces": 13
+      },
+      {
+        "num": "41",
+        "name": "Loir-et-Cher",
+        "hospitalisations": 89,
+        "reanimations": 0,
+        "retours": 232,
+        "deces": 63
+      },
+      {
+        "num": "42",
+        "name": "Loire",
+        "hospitalisations": 115,
+        "reanimations": 8,
+        "retours": 929,
+        "deces": 244
+      },
+      {
+        "num": "43",
+        "name": "Haute-Loire",
+        "hospitalisations": 4,
+        "reanimations": 0,
+        "retours": 104,
+        "deces": 17
+      },
+      {
+        "num": "44",
+        "name": "Loire-Atlantique",
+        "hospitalisations": 78,
+        "reanimations": 5,
+        "retours": 639,
+        "deces": 156
+      },
+      {
+        "num": "45",
+        "name": "Loiret",
+        "hospitalisations": 89,
+        "reanimations": 9,
+        "retours": 570,
+        "deces": 100
+      },
+      {
+        "num": "46",
+        "name": "Lot",
+        "hospitalisations": 1,
+        "reanimations": 0,
+        "retours": 69,
+        "deces": 22
+      },
+      {
+        "num": "47",
+        "name": "Lot-et-Garonne",
+        "hospitalisations": 6,
+        "reanimations": 1,
+        "retours": 73,
+        "deces": 10
+      },
+      {
+        "num": "48",
+        "name": "Lozère",
+        "hospitalisations": 0,
+        "reanimations": 0,
+        "retours": 24,
+        "deces": 1
+      },
+      {
+        "num": "49",
+        "name": "Maine-et-Loire",
+        "hospitalisations": 83,
+        "reanimations": 6,
+        "retours": 559,
+        "deces": 137
+      },
+      {
+        "num": "50",
+        "name": "Manche",
+        "hospitalisations": 43,
+        "reanimations": 4,
+        "retours": 133,
+        "deces": 47
+      },
+      {
+        "num": "51",
+        "name": "Marne",
+        "hospitalisations": 105,
+        "reanimations": 9,
+        "retours": 966,
+        "deces": 260
+      },
+      {
+        "num": "52",
+        "name": "Haute-Marne",
+        "hospitalisations": 29,
+        "reanimations": 1,
+        "retours": 238,
+        "deces": 85
+      },
+      {
+        "num": "53",
+        "name": "Mayenne",
+        "hospitalisations": 9,
+        "reanimations": 1,
+        "retours": 173,
+        "deces": 44
+      },
+      {
+        "num": "54",
+        "name": "Meurthe-et-Moselle",
+        "hospitalisations": 120,
+        "reanimations": 10,
+        "retours": 1110,
+        "deces": 354
+      },
+      {
+        "num": "55",
+        "name": "Meuse",
+        "hospitalisations": 15,
+        "reanimations": 1,
+        "retours": 474,
+        "deces": 99
+      },
+      {
+        "num": "56",
+        "name": "Morbihan",
+        "hospitalisations": 36,
+        "reanimations": 2,
+        "retours": 412,
+        "deces": 91
+      },
+      {
+        "num": "57",
+        "name": "Moselle",
+        "hospitalisations": 326,
+        "reanimations": 32,
+        "retours": 2286,
+        "deces": 818
+      },
+      {
+        "num": "58",
+        "name": "Nièvre",
+        "hospitalisations": 10,
+        "reanimations": 1,
+        "retours": 87,
+        "deces": 27
+      },
+      {
+        "num": "59",
+        "name": "Nord",
+        "hospitalisations": 493,
+        "reanimations": 39,
+        "retours": 2077,
+        "deces": 603
+      },
+      {
+        "num": "60",
+        "name": "Oise",
+        "hospitalisations": 268,
+        "reanimations": 7,
+        "retours": 1040,
+        "deces": 396
+      },
+      {
+        "num": "61",
+        "name": "Orne",
+        "hospitalisations": 36,
+        "reanimations": 3,
+        "retours": 217,
+        "deces": 37
+      },
+      {
+        "num": "62",
+        "name": "Pas-de-Calais",
+        "hospitalisations": 202,
+        "reanimations": 24,
+        "retours": 1251,
+        "deces": 305
+      },
+      {
+        "num": "63",
+        "name": "Puy-de-Dôme",
+        "hospitalisations": 18,
+        "reanimations": 2,
+        "retours": 174,
+        "deces": 42
+      },
+      {
+        "num": "64",
+        "name": "Pyrénées-Atlantiques",
+        "hospitalisations": 4,
+        "reanimations": 0,
+        "retours": 219,
+        "deces": 27
+      },
+      {
+        "num": "65",
+        "name": "Hautes-Pyrénées",
+        "hospitalisations": 9,
+        "reanimations": 2,
+        "retours": 150,
+        "deces": 26
+      },
+      {
+        "num": "66",
+        "name": "Pyrénées-Orientales",
+        "hospitalisations": 1,
+        "reanimations": 1,
+        "retours": 277,
+        "deces": 34
+      },
+      {
+        "num": "67",
+        "name": "Bas-Rhin",
+        "hospitalisations": 372,
+        "reanimations": 13,
+        "retours": 2399,
+        "deces": 647
+      },
+      {
+        "num": "68",
+        "name": "Haut-Rhin",
+        "hospitalisations": 378,
+        "reanimations": 13,
+        "retours": 2677,
+        "deces": 794
+      },
+      {
+        "num": "69",
+        "name": "Rhône",
+        "hospitalisations": 298,
+        "reanimations": 17,
+        "retours": 2833,
+        "deces": 647
+      },
+      {
+        "num": "70",
+        "name": "Haute-Saône",
+        "hospitalisations": 19,
+        "reanimations": 0,
+        "retours": 288,
+        "deces": 77
+      },
+      {
+        "num": "71",
+        "name": "Saône-et-Loire",
+        "hospitalisations": 59,
+        "reanimations": 5,
+        "retours": 705,
+        "deces": 199
+      },
+      {
+        "num": "72",
+        "name": "Sarthe",
+        "hospitalisations": 58,
+        "reanimations": 1,
+        "retours": 330,
+        "deces": 83
+      },
+      {
+        "num": "73",
+        "name": "Savoie",
+        "hospitalisations": 23,
+        "reanimations": 0,
+        "retours": 390,
+        "deces": 69
+      },
+      {
+        "num": "74",
+        "name": "Haute-Savoie",
+        "hospitalisations": 99,
+        "reanimations": 3,
+        "retours": 818,
+        "deces": 162
+      },
+      {
+        "num": "75",
+        "name": "Paris",
+        "hospitalisations": 708,
+        "reanimations": 110,
+        "retours": 5850,
+        "deces": 1729
+      },
+      {
+        "num": "76",
+        "name": "Seine-Maritime",
+        "hospitalisations": 93,
+        "reanimations": 5,
+        "retours": 712,
+        "deces": 178
+      },
+      {
+        "num": "77",
+        "name": "Seine-et-Marne",
+        "hospitalisations": 340,
+        "reanimations": 50,
+        "retours": 2488,
+        "deces": 672
+      },
+      {
+        "num": "78",
+        "name": "Yvelines",
+        "hospitalisations": 470,
+        "reanimations": 26,
+        "retours": 2028,
+        "deces": 509
+      },
+      {
+        "num": "79",
+        "name": "Deux-Sèvres",
+        "hospitalisations": 3,
+        "reanimations": 0,
+        "retours": 65,
+        "deces": 21
+      },
+      {
+        "num": "80",
+        "name": "Somme",
+        "hospitalisations": 94,
+        "reanimations": 8,
+        "retours": 708,
+        "deces": 219
+      },
+      {
+        "num": "81",
+        "name": "Tarn",
+        "hospitalisations": 7,
+        "reanimations": 2,
+        "retours": 117,
+        "deces": 23
+      },
+      {
+        "num": "82",
+        "name": "Tarn-et-Garonne",
+        "hospitalisations": 3,
+        "reanimations": 1,
+        "retours": 42,
+        "deces": 6
+      },
+      {
+        "num": "83",
+        "name": "Var",
+        "hospitalisations": 104,
+        "reanimations": 5,
+        "retours": 903,
+        "deces": 132
+      },
+      {
+        "num": "84",
+        "name": "Vaucluse",
+        "hospitalisations": 30,
+        "reanimations": 0,
+        "retours": 232,
+        "deces": 36
+      },
+      {
+        "num": "85",
+        "name": "Vendée",
+        "hospitalisations": 39,
+        "reanimations": 1,
+        "retours": 229,
+        "deces": 40
+      },
+      {
+        "num": "86",
+        "name": "Vienne",
+        "hospitalisations": 8,
+        "reanimations": 0,
+        "retours": 139,
+        "deces": 39
+      },
+      {
+        "num": "87",
+        "name": "Haute-Vienne",
+        "hospitalisations": 10,
+        "reanimations": 0,
+        "retours": 120,
+        "deces": 25
+      },
+      {
+        "num": "88",
+        "name": "Vosges",
+        "hospitalisations": 40,
+        "reanimations": 1,
+        "retours": 701,
+        "deces": 258
+      },
+      {
+        "num": "89",
+        "name": "Yonne",
+        "hospitalisations": 34,
+        "reanimations": 4,
+        "retours": 322,
+        "deces": 89
+      },
+      {
+        "num": "90",
+        "name": "Territoire de Belfort",
+        "hospitalisations": 33,
+        "reanimations": 3,
+        "retours": 510,
+        "deces": 183
+      },
+      {
+        "num": "91",
+        "name": "Essonne",
+        "hospitalisations": 506,
+        "reanimations": 46,
+        "retours": 2157,
+        "deces": 516
+      },
+      {
+        "num": "92",
+        "name": "Hauts-de-Seine",
+        "hospitalisations": 867,
+        "reanimations": 68,
+        "retours": 4118,
+        "deces": 1061
+      },
+      {
+        "num": "93",
+        "name": "Seine-Saint-Denis",
+        "hospitalisations": 785,
+        "reanimations": 77,
+        "retours": 3458,
+        "deces": 969
+      },
+      {
+        "num": "94",
+        "name": "Val-de-Marne",
+        "hospitalisations": 777,
+        "reanimations": 30,
+        "retours": 3821,
+        "deces": 1178
+      },
+      {
+        "num": "95",
+        "name": "Val-d'Oise",
+        "hospitalisations": 438,
+        "reanimations": 11,
+        "retours": 2407,
+        "deces": 691
+      },
+      {
+        "num": "971",
+        "name": "Guadeloupe",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 74,
+        "deces": 16
+      },
+      {
+        "num": "972",
+        "name": "Martinique",
+        "hospitalisations": 8,
+        "reanimations": 0,
+        "retours": 89,
+        "deces": 14
+      },
+      {
+        "num": "973",
+        "name": "Guyane",
+        "hospitalisations": 55,
+        "reanimations": 7,
+        "retours": 146,
+        "deces": 2
+      },
+      {
+        "num": "974",
+        "name": "La Réunion",
+        "hospitalisations": 22,
+        "reanimations": 2,
+        "retours": 125,
+        "deces": 1
+      },
+      {
+        "num": "976",
+        "name": "Mayotte",
+        "hospitalisations": 46,
+        "reanimations": 16,
+        "retours": 296,
+        "deces": 24
+      }
+    ]
+  },
+  {
+    "date": "14/06/2020",
+    "departements": [
+      {
+        "num": "01",
+        "name": "Ain",
+        "hospitalisations": 64,
+        "reanimations": 0,
+        "retours": 409,
+        "deces": 101
+      },
+      {
+        "num": "02",
+        "name": "Aisne",
+        "hospitalisations": 124,
+        "reanimations": 10,
+        "retours": 980,
+        "deces": 270
+      },
+      {
+        "num": "03",
+        "name": "Allier",
+        "hospitalisations": 13,
+        "reanimations": 0,
+        "retours": 190,
+        "deces": 39
+      },
+      {
+        "num": "04",
+        "name": "Alpes-de-Haute-Provence",
+        "hospitalisations": 4,
+        "reanimations": 0,
+        "retours": 126,
+        "deces": 13
+      },
+      {
+        "num": "05",
+        "name": "Hautes-Alpes",
+        "hospitalisations": 9,
+        "reanimations": 0,
+        "retours": 126,
+        "deces": 18
+      },
+      {
+        "num": "06",
+        "name": "Alpes-Maritimes",
+        "hospitalisations": 89,
+        "reanimations": 3,
+        "retours": 677,
+        "deces": 183
+      },
+      {
+        "num": "07",
+        "name": "Ardèche",
+        "hospitalisations": 20,
+        "reanimations": 4,
+        "retours": 425,
+        "deces": 108
+      },
+      {
+        "num": "08",
+        "name": "Ardennes",
+        "hospitalisations": 16,
+        "reanimations": 3,
+        "retours": 206,
+        "deces": 54
+      },
+      {
+        "num": "09",
+        "name": "Ariège",
+        "hospitalisations": 1,
+        "reanimations": 1,
+        "retours": 33,
+        "deces": 2
+      },
+      {
+        "num": "10",
+        "name": "Aube",
+        "hospitalisations": 29,
+        "reanimations": 3,
+        "retours": 609,
+        "deces": 136
+      },
+      {
+        "num": "11",
+        "name": "Aude",
+        "hospitalisations": 6,
+        "reanimations": 1,
+        "retours": 226,
+        "deces": 58
+      },
+      {
+        "num": "12",
+        "name": "Aveyron",
+        "hospitalisations": 6,
+        "reanimations": 0,
+        "retours": 138,
+        "deces": 24
+      },
+      {
+        "num": "13",
+        "name": "Bouches-du-Rhône",
+        "hospitalisations": 486,
+        "reanimations": 50,
+        "retours": 3085,
+        "deces": 541
+      },
+      {
+        "num": "14",
+        "name": "Calvados",
+        "hospitalisations": 39,
+        "reanimations": 1,
+        "retours": 298,
+        "deces": 83
+      },
+      {
+        "num": "15",
+        "name": "Cantal",
+        "hospitalisations": 9,
+        "reanimations": 1,
+        "retours": 50,
+        "deces": 9
+      },
+      {
+        "num": "16",
+        "name": "Charente",
+        "hospitalisations": 4,
+        "reanimations": 1,
+        "retours": 55,
+        "deces": 13
+      },
+      {
+        "num": "17",
+        "name": "Charente-Maritime",
+        "hospitalisations": 22,
+        "reanimations": 1,
+        "retours": 129,
+        "deces": 49
+      },
+      {
+        "num": "18",
+        "name": "Cher",
+        "hospitalisations": 44,
+        "reanimations": 0,
+        "retours": 160,
+        "deces": 77
+      },
+      {
+        "num": "19",
+        "name": "Corrèze",
+        "hospitalisations": 0,
+        "reanimations": 0,
+        "retours": 159,
+        "deces": 37
+      },
+      {
+        "num": "21",
+        "name": "Côte-d'Or",
+        "hospitalisations": 28,
+        "reanimations": 2,
+        "retours": 911,
+        "deces": 248
+      },
+      {
+        "num": "22",
+        "name": "Côtes-d'Armor",
+        "hospitalisations": 28,
+        "reanimations": 4,
+        "retours": 197,
+        "deces": 37
+      },
+      {
+        "num": "23",
+        "name": "Creuse",
+        "hospitalisations": 8,
+        "reanimations": 3,
+        "retours": 71,
+        "deces": 12
+      },
+      {
+        "num": "24",
+        "name": "Dordogne",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 86,
+        "deces": 13
+      },
+      {
+        "num": "25",
+        "name": "Doubs",
+        "hospitalisations": 24,
+        "reanimations": 4,
+        "retours": 618,
+        "deces": 149
+      },
+      {
+        "num": "26",
+        "name": "Drôme",
+        "hospitalisations": 36,
+        "reanimations": 2,
+        "retours": 491,
+        "deces": 129
+      },
+      {
+        "num": "27",
+        "name": "Eure",
+        "hospitalisations": 59,
+        "reanimations": 0,
+        "retours": 197,
+        "deces": 80
+      },
+      {
+        "num": "28",
+        "name": "Eure-et-Loir",
+        "hospitalisations": 128,
+        "reanimations": 13,
+        "retours": 470,
+        "deces": 128
+      },
+      {
+        "num": "29",
+        "name": "Finistère",
+        "hospitalisations": 19,
+        "reanimations": 2,
+        "retours": 169,
+        "deces": 43
+      },
+      {
+        "num": "2A",
+        "name": "Corse-du-Sud",
+        "hospitalisations": 16,
+        "reanimations": 2,
+        "retours": 133,
+        "deces": 48
+      },
+      {
+        "num": "2B",
+        "name": "Haute-Corse",
+        "hospitalisations": 2,
+        "reanimations": 1,
+        "retours": 107,
+        "deces": 11
+      },
+      {
+        "num": "30",
+        "name": "Gard",
+        "hospitalisations": 41,
+        "reanimations": 3,
+        "retours": 324,
+        "deces": 96
+      },
+      {
+        "num": "31",
+        "name": "Haute-Garonne",
+        "hospitalisations": 45,
+        "reanimations": 4,
+        "retours": 622,
+        "deces": 71
+      },
+      {
+        "num": "32",
+        "name": "Gers",
+        "hospitalisations": 3,
+        "reanimations": 1,
+        "retours": 86,
+        "deces": 23
+      },
+      {
+        "num": "33",
+        "name": "Gironde",
+        "hospitalisations": 84,
+        "reanimations": 11,
+        "retours": 898,
+        "deces": 149
+      },
+      {
+        "num": "34",
+        "name": "Hérault",
+        "hospitalisations": 15,
+        "reanimations": 2,
+        "retours": 694,
+        "deces": 120
+      },
+      {
+        "num": "35",
+        "name": "Ille-et-Vilaine",
+        "hospitalisations": 55,
+        "reanimations": 3,
+        "retours": 442,
+        "deces": 86
+      },
+      {
+        "num": "36",
+        "name": "Indre",
+        "hospitalisations": 82,
+        "reanimations": 3,
+        "retours": 110,
+        "deces": 78
+      },
+      {
+        "num": "37",
+        "name": "Indre-et-Loire",
+        "hospitalisations": 74,
+        "reanimations": 5,
+        "retours": 309,
+        "deces": 82
+      },
+      {
+        "num": "38",
+        "name": "Isère",
+        "hospitalisations": 58,
+        "reanimations": 4,
+        "retours": 650,
+        "deces": 151
+      },
+      {
+        "num": "39",
+        "name": "Jura",
+        "hospitalisations": 19,
+        "reanimations": 1,
+        "retours": 293,
+        "deces": 60
+      },
+      {
+        "num": "40",
+        "name": "Landes",
+        "hospitalisations": 5,
+        "reanimations": 1,
+        "retours": 71,
+        "deces": 13
+      },
+      {
+        "num": "41",
+        "name": "Loir-et-Cher",
+        "hospitalisations": 89,
+        "reanimations": 0,
+        "retours": 232,
+        "deces": 63
+      },
+      {
+        "num": "42",
+        "name": "Loire",
+        "hospitalisations": 115,
+        "reanimations": 8,
+        "retours": 929,
+        "deces": 244
+      },
+      {
+        "num": "43",
+        "name": "Haute-Loire",
+        "hospitalisations": 4,
+        "reanimations": 0,
+        "retours": 104,
+        "deces": 17
+      },
+      {
+        "num": "44",
+        "name": "Loire-Atlantique",
+        "hospitalisations": 78,
+        "reanimations": 5,
+        "retours": 639,
+        "deces": 156
+      },
+      {
+        "num": "45",
+        "name": "Loiret",
+        "hospitalisations": 89,
+        "reanimations": 9,
+        "retours": 570,
+        "deces": 100
+      },
+      {
+        "num": "46",
+        "name": "Lot",
+        "hospitalisations": 1,
+        "reanimations": 0,
+        "retours": 69,
+        "deces": 22
+      },
+      {
+        "num": "47",
+        "name": "Lot-et-Garonne",
+        "hospitalisations": 6,
+        "reanimations": 1,
+        "retours": 74,
+        "deces": 10
+      },
+      {
+        "num": "48",
+        "name": "Lozère",
+        "hospitalisations": 0,
+        "reanimations": 0,
+        "retours": 24,
+        "deces": 1
+      },
+      {
+        "num": "49",
+        "name": "Maine-et-Loire",
+        "hospitalisations": 83,
+        "reanimations": 6,
+        "retours": 559,
+        "deces": 138
+      },
+      {
+        "num": "50",
+        "name": "Manche",
+        "hospitalisations": 43,
+        "reanimations": 4,
+        "retours": 133,
+        "deces": 47
+      },
+      {
+        "num": "51",
+        "name": "Marne",
+        "hospitalisations": 105,
+        "reanimations": 9,
+        "retours": 966,
+        "deces": 260
+      },
+      {
+        "num": "52",
+        "name": "Haute-Marne",
+        "hospitalisations": 29,
+        "reanimations": 1,
+        "retours": 238,
+        "deces": 85
+      },
+      {
+        "num": "53",
+        "name": "Mayenne",
+        "hospitalisations": 9,
+        "reanimations": 1,
+        "retours": 173,
+        "deces": 44
+      },
+      {
+        "num": "54",
+        "name": "Meurthe-et-Moselle",
+        "hospitalisations": 120,
+        "reanimations": 11,
+        "retours": 1111,
+        "deces": 354
+      },
+      {
+        "num": "55",
+        "name": "Meuse",
+        "hospitalisations": 15,
+        "reanimations": 1,
+        "retours": 474,
+        "deces": 99
+      },
+      {
+        "num": "56",
+        "name": "Morbihan",
+        "hospitalisations": 36,
+        "reanimations": 2,
+        "retours": 412,
+        "deces": 91
+      },
+      {
+        "num": "57",
+        "name": "Moselle",
+        "hospitalisations": 329,
+        "reanimations": 34,
+        "retours": 2286,
+        "deces": 818
+      },
+      {
+        "num": "58",
+        "name": "Nièvre",
+        "hospitalisations": 10,
+        "reanimations": 1,
+        "retours": 87,
+        "deces": 27
+      },
+      {
+        "num": "59",
+        "name": "Nord",
+        "hospitalisations": 494,
+        "reanimations": 39,
+        "retours": 2077,
+        "deces": 603
+      },
+      {
+        "num": "60",
+        "name": "Oise",
+        "hospitalisations": 266,
+        "reanimations": 7,
+        "retours": 1042,
+        "deces": 397
+      },
+      {
+        "num": "61",
+        "name": "Orne",
+        "hospitalisations": 36,
+        "reanimations": 3,
+        "retours": 217,
+        "deces": 37
+      },
+      {
+        "num": "62",
+        "name": "Pas-de-Calais",
+        "hospitalisations": 202,
+        "reanimations": 24,
+        "retours": 1251,
+        "deces": 305
+      },
+      {
+        "num": "63",
+        "name": "Puy-de-Dôme",
+        "hospitalisations": 18,
+        "reanimations": 2,
+        "retours": 174,
+        "deces": 42
+      },
+      {
+        "num": "64",
+        "name": "Pyrénées-Atlantiques",
+        "hospitalisations": 4,
+        "reanimations": 0,
+        "retours": 219,
+        "deces": 27
+      },
+      {
+        "num": "65",
+        "name": "Hautes-Pyrénées",
+        "hospitalisations": 9,
+        "reanimations": 2,
+        "retours": 150,
+        "deces": 26
+      },
+      {
+        "num": "66",
+        "name": "Pyrénées-Orientales",
+        "hospitalisations": 1,
+        "reanimations": 1,
+        "retours": 277,
+        "deces": 34
+      },
+      {
+        "num": "67",
+        "name": "Bas-Rhin",
+        "hospitalisations": 371,
+        "reanimations": 13,
+        "retours": 2399,
+        "deces": 648
+      },
+      {
+        "num": "68",
+        "name": "Haut-Rhin",
+        "hospitalisations": 378,
+        "reanimations": 13,
+        "retours": 2677,
+        "deces": 794
+      },
+      {
+        "num": "69",
+        "name": "Rhône",
+        "hospitalisations": 298,
+        "reanimations": 17,
+        "retours": 2833,
+        "deces": 647
+      },
+      {
+        "num": "70",
+        "name": "Haute-Saône",
+        "hospitalisations": 19,
+        "reanimations": 0,
+        "retours": 288,
+        "deces": 77
+      },
+      {
+        "num": "71",
+        "name": "Saône-et-Loire",
+        "hospitalisations": 59,
+        "reanimations": 5,
+        "retours": 705,
+        "deces": 199
+      },
+      {
+        "num": "72",
+        "name": "Sarthe",
+        "hospitalisations": 59,
+        "reanimations": 1,
+        "retours": 330,
+        "deces": 83
+      },
+      {
+        "num": "73",
+        "name": "Savoie",
+        "hospitalisations": 23,
+        "reanimations": 0,
+        "retours": 390,
+        "deces": 69
+      },
+      {
+        "num": "74",
+        "name": "Haute-Savoie",
+        "hospitalisations": 97,
+        "reanimations": 3,
+        "retours": 820,
+        "deces": 162
+      },
+      {
+        "num": "75",
+        "name": "Paris",
+        "hospitalisations": 709,
+        "reanimations": 110,
+        "retours": 5850,
+        "deces": 1729
+      },
+      {
+        "num": "76",
+        "name": "Seine-Maritime",
+        "hospitalisations": 93,
+        "reanimations": 5,
+        "retours": 712,
+        "deces": 178
+      },
+      {
+        "num": "77",
+        "name": "Seine-et-Marne",
+        "hospitalisations": 337,
+        "reanimations": 50,
+        "retours": 2491,
+        "deces": 672
+      },
+      {
+        "num": "78",
+        "name": "Yvelines",
+        "hospitalisations": 470,
+        "reanimations": 26,
+        "retours": 2028,
+        "deces": 509
+      },
+      {
+        "num": "79",
+        "name": "Deux-Sèvres",
+        "hospitalisations": 3,
+        "reanimations": 0,
+        "retours": 65,
+        "deces": 21
+      },
+      {
+        "num": "80",
+        "name": "Somme",
+        "hospitalisations": 94,
+        "reanimations": 8,
+        "retours": 708,
+        "deces": 219
+      },
+      {
+        "num": "81",
+        "name": "Tarn",
+        "hospitalisations": 7,
+        "reanimations": 2,
+        "retours": 117,
+        "deces": 23
+      },
+      {
+        "num": "82",
+        "name": "Tarn-et-Garonne",
+        "hospitalisations": 3,
+        "reanimations": 1,
+        "retours": 42,
+        "deces": 6
+      },
+      {
+        "num": "83",
+        "name": "Var",
+        "hospitalisations": 104,
+        "reanimations": 5,
+        "retours": 903,
+        "deces": 132
+      },
+      {
+        "num": "84",
+        "name": "Vaucluse",
+        "hospitalisations": 30,
+        "reanimations": 0,
+        "retours": 232,
+        "deces": 36
+      },
+      {
+        "num": "85",
+        "name": "Vendée",
+        "hospitalisations": 38,
+        "reanimations": 1,
+        "retours": 230,
+        "deces": 40
+      },
+      {
+        "num": "86",
+        "name": "Vienne",
+        "hospitalisations": 8,
+        "reanimations": 0,
+        "retours": 139,
+        "deces": 39
+      },
+      {
+        "num": "87",
+        "name": "Haute-Vienne",
+        "hospitalisations": 10,
+        "reanimations": 0,
+        "retours": 120,
+        "deces": 25
+      },
+      {
+        "num": "88",
+        "name": "Vosges",
+        "hospitalisations": 40,
+        "reanimations": 1,
+        "retours": 701,
+        "deces": 258
+      },
+      {
+        "num": "89",
+        "name": "Yonne",
+        "hospitalisations": 29,
+        "reanimations": 4,
+        "retours": 327,
+        "deces": 89
+      },
+      {
+        "num": "90",
+        "name": "Territoire de Belfort",
+        "hospitalisations": 33,
+        "reanimations": 3,
+        "retours": 510,
+        "deces": 183
+      },
+      {
+        "num": "91",
+        "name": "Essonne",
+        "hospitalisations": 501,
+        "reanimations": 44,
+        "retours": 2162,
+        "deces": 517
+      },
+      {
+        "num": "92",
+        "name": "Hauts-de-Seine",
+        "hospitalisations": 862,
+        "reanimations": 68,
+        "retours": 4121,
+        "deces": 1062
+      },
+      {
+        "num": "93",
+        "name": "Seine-Saint-Denis",
+        "hospitalisations": 784,
+        "reanimations": 78,
+        "retours": 3460,
+        "deces": 970
+      },
+      {
+        "num": "94",
+        "name": "Val-de-Marne",
+        "hospitalisations": 777,
+        "reanimations": 30,
+        "retours": 3821,
+        "deces": 1178
+      },
+      {
+        "num": "95",
+        "name": "Val-d'Oise",
+        "hospitalisations": 436,
+        "reanimations": 9,
+        "retours": 2410,
+        "deces": 691
+      },
+      {
+        "num": "971",
+        "name": "Guadeloupe",
+        "hospitalisations": 12,
+        "reanimations": 0,
+        "retours": 74,
+        "deces": 16
+      },
+      {
+        "num": "972",
+        "name": "Martinique",
+        "hospitalisations": 8,
+        "reanimations": 0,
+        "retours": 89,
+        "deces": 14
+      },
+      {
+        "num": "973",
+        "name": "Guyane",
+        "hospitalisations": 60,
+        "reanimations": 8,
+        "retours": 155,
+        "deces": 3
+      },
+      {
+        "num": "974",
+        "name": "La Réunion",
+        "hospitalisations": 22,
+        "reanimations": 2,
+        "retours": 125,
+        "deces": 1
+      },
+      {
+        "num": "976",
+        "name": "Mayotte",
+        "hospitalisations": 45,
+        "reanimations": 13,
+        "retours": 298,
+        "deces": 24
+      }
+    ]
   }
 ]

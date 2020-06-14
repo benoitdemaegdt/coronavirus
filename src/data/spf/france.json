@@ -579,5 +579,47 @@
     "reanimations": 995,
     "retours": 71052,
     "deces": 18839
+  },
+  {
+    "date": "09/06/2020",
+    "hospitalisations": 11915,
+    "reanimations": 926,
+    "retours": 71496,
+    "deces": 18892
+  },
+  {
+    "date": "10/06/2020",
+    "hospitalisations": 11632,
+    "reanimations": 904,
+    "retours": 71822,
+    "deces": 18915
+  },
+  {
+    "date": "11/06/2020",
+    "hospitalisations": 11420,
+    "reanimations": 875,
+    "retours": 72139,
+    "deces": 18942
+  },
+  {
+    "date": "12/06/2020",
+    "hospitalisations": 11079,
+    "reanimations": 851,
+    "retours": 72562,
+    "deces": 18970
+  },
+  {
+    "date": "13/06/2020",
+    "hospitalisations": 10864,
+    "reanimations": 843,
+    "retours": 72798,
+    "deces": 18994
+  },
+  {
+    "date": "14/06/2020",
+    "hospitalisations": 10836,
+    "reanimations": 841,
+    "retours": 72849,
+    "deces": 19003
   }
 ]
