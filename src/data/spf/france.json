@@ -705,5 +705,26 @@
     "reanimations": 606,
     "retours": 75639,
     "deces": 19270
+  },
+  {
+    "date": "27/06/2020",
+    "hospitalisations": 8715,
+    "reanimations": 594,
+    "retours": 75803,
+    "deces": 19285
+  },
+  {
+    "date": "28/06/2020",
+    "hospitalisations": 8727,
+    "reanimations": 594,
+    "retours": 75833,
+    "deces": 19287
+  },
+  {
+    "date": "29/06/2020",
+    "hospitalisations": 8643,
+    "reanimations": 591,
+    "retours": 75989,
+    "deces": 19305
   }
 ]
