@@ -750,9 +750,30 @@
   },
   {
     "date": "03/07/2020",
-    "hospitalisations": 7946,
-    "reanimations": 533,
-    "retours": 77049,
-    "deces": 19376
+    "hospitalisations": 15892,
+    "reanimations": 1066,
+    "retours": 154098,
+    "deces": 38752
+  },
+  {
+    "date": "04/07/2020",
+    "hospitalisations": 7863,
+    "reanimations": 517,
+    "retours": 77160,
+    "deces": 19388
+  },
+  {
+    "date": "05/07/2020",
+    "hospitalisations": 7863,
+    "reanimations": 521,
+    "retours": 77179,
+    "deces": 19390
+  },
+  {
+    "date": "06/07/2020",
+    "hospitalisations": 7806,
+    "reanimations": 521,
+    "retours": 77308,
+    "deces": 19403
   }
 ]
