@@ -827,9 +827,16 @@
   },
   {
     "date": "14/07/2020",
-    "hospitalisations": 6907,
-    "reanimations": 465,
-    "retours": 78670,
-    "deces": 19539
+    "hospitalisations": 13814,
+    "reanimations": 930,
+    "retours": 157340,
+    "deces": 39078
+  },
+  {
+    "date": "15/07/2020",
+    "hospitalisations": 6873,
+    "reanimations": 457,
+    "retours": 78809,
+    "deces": 19559
   }
 ]
