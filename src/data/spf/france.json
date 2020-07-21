@@ -861,10 +861,24 @@
     "deces": 19599
   },
   {
+    "date": "19/07/2020",
+    "hospitalisations": 6583,
+    "reanimations": 448,
+    "retours": 79384,
+    "deces": 19600
+  },
+  {
     "date": "20/07/2020",
     "hospitalisations": 6547,
     "reanimations": 442,
     "retours": 79530,
     "deces": 19616
+  },
+  {
+    "date": "21/07/2020",
+    "hospitalisations": 6440,
+    "reanimations": 430,
+    "retours": 79723,
+    "deces": 19629
   }
 ]
