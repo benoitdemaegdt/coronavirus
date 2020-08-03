@@ -950,5 +950,26 @@
     "reanimations": 347,
     "retours": 81870,
     "deces": 19730
+  },
+  {
+    "date": "01/08/2020",
+    "hospitalisations": 5177,
+    "reanimations": 344,
+    "retours": 82016,
+    "deces": 19736
+  },
+  {
+    "date": "02/08/2020",
+    "hospitalisations": 5188,
+    "reanimations": 345,
+    "retours": 82029,
+    "deces": 19737
+  },
+  {
+    "date": "03/08/2020",
+    "hospitalisations": 5157,
+    "reanimations": 360,
+    "retours": 82155,
+    "deces": 19759
   }
 ]
