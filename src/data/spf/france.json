@@ -1160,5 +1160,12 @@
     "reanimations": 394,
     "retours": 86268,
     "deces": 20071
+  },
+  {
+    "date": "30/08/2020",
+    "hospitalisations": 4517,
+    "reanimations": 396,
+    "retours": 86280,
+    "deces": 20075
   }
 ]
