@@ -6899,7 +6899,7 @@
     "countries": [
       {
         "country": "Allemagne",
-        "infections": 250846,
+        "infections": 251058,
         "deces": 9329
       },
       {
@@ -6909,12 +6909,12 @@
       },
       {
         "country": "France",
-        "infections": 349456,
-        "deces": 30724
+        "infections": 358006,
+        "deces": 30736
       },
       {
         "country": "Royaume-Uni",
-        "infections": 346194,
+        "infections": 346201,
         "deces": 41638
       },
       {
@@ -6924,8 +6924,78 @@
       },
       {
         "country": "États-Unis",
-        "infections": 6222782,
-        "deces": 188096
+        "infections": 6244970,
+        "deces": 188538
+      }
+    ]
+  },
+  {
+    "date": "06/09/2020",
+    "countries": [
+      {
+        "country": "États-Unis",
+        "infections": 6276365,
+        "deces": 188941
+      },
+      {
+        "country": "Italie",
+        "infections": 277634,
+        "deces": 35541
+      },
+      {
+        "country": "Royaume-Uni",
+        "infections": 349185,
+        "deces": 41640
+      },
+      {
+        "country": "France",
+        "infections": 365077,
+        "deces": 30739
+      },
+      {
+        "country": "Espagne",
+        "infections": 498989,
+        "deces": 29418
+      },
+      {
+        "country": "Allemagne",
+        "infections": 251728,
+        "deces": 9330
+      }
+    ]
+  },
+  {
+    "date": "07/09/2020",
+    "countries": [
+      {
+        "country": "Allemagne",
+        "infections": 253124,
+        "deces": 9330
+      },
+      {
+        "country": "Espagne",
+        "infections": 525549,
+        "deces": 29516
+      },
+      {
+        "country": "France",
+        "infections": 369280,
+        "deces": 30764
+      },
+      {
+        "country": "Royaume-Uni",
+        "infections": 352133,
+        "deces": 41643
+      },
+      {
+        "country": "Italie",
+        "infections": 278784,
+        "deces": 35553
+      },
+      {
+        "country": "États-Unis",
+        "infections": 6289964,
+        "deces": 189069
       }
     ]
   }
