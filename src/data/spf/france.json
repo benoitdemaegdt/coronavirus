@@ -1244,5 +1244,12 @@
     "reanimations": 628,
     "retours": 89029,
     "deces": 20354
+  },
+  {
+    "date": "12/09/2020",
+    "hospitalisations": 5176,
+    "reanimations": 655,
+    "retours": 89201,
+    "deces": 20371
   }
 ]
