@@ -1,6 +1,6 @@
 [
   {
-    "date": "23/09/2020",
+    "date": "24/09/2020",
     "countries": [
       {
         "country": "Allemagne",
@@ -14,23 +14,23 @@
       },
       {
         "country": "France",
-        "infections": 511624,
-        "deces": 31416
+        "infections": 540792,
+        "deces": 31511
       },
       {
         "country": "Royaume-Uni",
-        "infections": 411883,
+        "infections": 411888,
         "deces": 41951
       },
       {
         "country": "Italie",
-        "infections": 302537,
-        "deces": 35758
+        "infections": 304323,
+        "deces": 35781
       },
       {
         "country": "États-Unis",
-        "infections": 6911844,
-        "deces": 201253
+        "infections": 6945987,
+        "deces": 202247
       }
     ]
   }
