@@ -1,11 +1,11 @@
 [
   {
-    "date": "02/10/2020",
+    "date": "03/10/2020",
     "countries": [
       {
         "country": "Allemagne",
-        "infections": 297421,
-        "deces": 9518
+        "infections": 298801,
+        "deces": 9531
       },
       {
         "country": "Espagne",
@@ -19,18 +19,18 @@
       },
       {
         "country": "Royaume-Uni",
-        "infections": 469346,
+        "infections": 469353,
         "deces": 42358
       },
       {
         "country": "Italie",
-        "infections": 319908,
-        "deces": 35941
+        "infections": 322751,
+        "deces": 35968
       },
       {
         "country": "États-Unis",
-        "infections": 7292422,
-        "deces": 208068
+        "infections": 7345485,
+        "deces": 208863
       }
     ]
   }
