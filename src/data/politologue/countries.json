@@ -1,36 +1,36 @@
 [
   {
-    "date": "05/10/2020",
+    "date": "06/10/2020",
     "countries": [
       {
         "country": "Allemagne",
-        "infections": 303490,
-        "deces": 9547
+        "infections": 306995,
+        "deces": 9550
       },
       {
         "country": "Espagne",
-        "infections": 813412,
-        "deces": 32225
+        "infections": 825410,
+        "deces": 32486
       },
       {
         "country": "France",
-        "infections": 669975,
-        "deces": 32299
+        "infections": 680464,
+        "deces": 32365
       },
       {
         "country": "Royaume-Uni",
-        "infections": 517782,
-        "deces": 42440
+        "infections": 517800,
+        "deces": 42535
       },
       {
         "country": "Italie",
-        "infections": 327586,
-        "deces": 36002
+        "infections": 330263,
+        "deces": 36030
       },
       {
         "country": "États-Unis",
-        "infections": 7433828,
-        "deces": 209928
+        "infections": 7474312,
+        "deces": 210464
       }
     ]
   }
