@@ -17,7 +17,7 @@
     "vue-chartjs": "^3.5.1",
     "vue-horizontal-timeline": "^0.6.0",
     "vue-router": "^3.4.6",
-    "vuetify": "^2.3.13"
+    "vuetify": "^2.3.14"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.7",
