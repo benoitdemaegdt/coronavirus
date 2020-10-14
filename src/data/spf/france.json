@@ -1461,5 +1461,19 @@
     "reanimations": 1539,
     "retours": 101868,
     "deces": 21969
+  },
+  {
+    "date": "13/10/2020",
+    "hospitalisations": 8928,
+    "reanimations": 1633,
+    "retours": 102649,
+    "deces": 22053
+  },
+  {
+    "date": "14/10/2020",
+    "hospitalisations": 9173,
+    "reanimations": 1664,
+    "retours": 103382,
+    "deces": 22157
   }
 ]
