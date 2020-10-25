@@ -9,7 +9,7 @@
     "preprocess": "node ./src/data/script.js"
   },
   "dependencies": {
-    "@mdi/font": "^5.7.55",
+    "@mdi/font": "^5.8.55",
     "chart.js": "^2.9.4",
     "chartjs-plugin-annotation": "^0.5.7",
     "core-js": "^3.6.5",
