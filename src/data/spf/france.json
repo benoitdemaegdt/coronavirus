@@ -1477,6 +1477,13 @@
     "deces": 22157
   },
   {
+    "date": "15/10/2020",
+    "hospitalisations": 9584,
+    "reanimations": 1741,
+    "retours": 104051,
+    "deces": 22245
+  },
+  {
     "date": "16/10/2020",
     "hospitalisations": 10021,
     "reanimations": 1791,
@@ -1545,5 +1552,19 @@
     "reanimations": 2575,
     "retours": 110629,
     "deces": 23611
+  },
+  {
+    "date": "26/10/2020",
+    "hospitalisations": 17761,
+    "reanimations": 2761,
+    "retours": 111316,
+    "deces": 23868
+  },
+  {
+    "date": "27/10/2020",
+    "hospitalisations": 18955,
+    "reanimations": 2909,
+    "retours": 112685,
+    "deces": 24156
   }
 ]
