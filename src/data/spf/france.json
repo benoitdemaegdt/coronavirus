@@ -1127,18 +1127,18 @@
     "deces": 20016
   },
   {
-    "date": "27/08/2020",
-    "hospitalisations": 4517,
-    "reanimations": 375,
-    "retours": 85954,
-    "deces": 20046
-  },
-  {
     "date": "26/08/2020",
     "hospitalisations": 4535,
     "reanimations": 373,
     "retours": 85731,
     "deces": 20034
+  },
+  {
+    "date": "27/08/2020",
+    "hospitalisations": 4517,
+    "reanimations": 375,
+    "retours": 85954,
+    "deces": 20046
   },
   {
     "date": "28/08/2020",
@@ -1671,5 +1671,47 @@
     "reanimations": 4789,
     "retours": 133665,
     "deces": 29248
+  },
+  {
+    "date": "12/11/2020",
+    "hospitalisations": 32654,
+    "reanimations": 4884,
+    "retours": 134923,
+    "deces": 29673
+  },
+  {
+    "date": "13/11/2020",
+    "hospitalisations": 32676,
+    "reanimations": 4887,
+    "retours": 137124,
+    "deces": 30129
+  },
+  {
+    "date": "14/11/2020",
+    "hospitalisations": 32468,
+    "reanimations": 4855,
+    "retours": 139110,
+    "deces": 30483
+  },
+  {
+    "date": "15/11/2020",
+    "hospitalisations": 33050,
+    "reanimations": 4880,
+    "retours": 139779,
+    "deces": 30785
+  },
+  {
+    "date": "16/11/2020",
+    "hospitalisations": 33466,
+    "reanimations": 4903,
+    "retours": 140849,
+    "deces": 31291
+  },
+  {
+    "date": "17/11/2020",
+    "hospitalisations": 33139,
+    "reanimations": 4838,
+    "retours": 143121,
+    "deces": 31719
   }
 ]
