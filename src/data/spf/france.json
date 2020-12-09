@@ -1853,5 +1853,19 @@
     "reanimations": 3188,
     "retours": 170254,
     "deces": 38336
+  },
+  {
+    "date": "08/12/2020",
+    "hospitalisations": 25882,
+    "reanimations": 3078,
+    "retours": 171837,
+    "deces": 38713
+  },
+  {
+    "date": "09/12/2020",
+    "hospitalisations": 25526,
+    "reanimations": 3031,
+    "retours": 173216,
+    "deces": 39009
   }
 ]
