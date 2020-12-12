@@ -1,36 +1,36 @@
 [
   {
-    "date": "11/12/2020",
+    "date": "12/12/2020",
     "countries": [
       {
         "country": "Allemagne",
-        "infections": 1287092,
-        "deces": 21195
+        "infections": 1314309,
+        "deces": 21620
       },
       {
         "country": "Espagne",
-        "infections": 1720056,
-        "deces": 47344
+        "infections": 1730575,
+        "deces": 47624
       },
       {
         "country": "France",
-        "infections": 2335541,
-        "deces": 56584
+        "infections": 2452854,
+        "deces": 57567
       },
       {
         "country": "Royaume-Uni",
-        "infections": 1791542,
-        "deces": 63174
+        "infections": 1813325,
+        "deces": 64118
       },
       {
         "country": "Italie",
-        "infections": 1787147,
-        "deces": 62626
+        "infections": 1825775,
+        "deces": 64036
       },
       {
         "country": "États-Unis",
-        "infections": 15632336,
-        "deces": 292382
+        "infections": 15877326,
+        "deces": 295791
       }
     ]
   }
