@@ -1944,5 +1944,12 @@
     "reanimations": 2745,
     "retours": 183775,
     "deces": 41749
+  },
+  {
+    "date": "21/12/2020",
+    "hospitalisations": 25201,
+    "reanimations": 2737,
+    "retours": 184433,
+    "deces": 42100
   }
 ]
