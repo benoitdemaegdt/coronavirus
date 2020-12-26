@@ -1979,5 +1979,12 @@
     "reanimations": 2616,
     "retours": 189414,
     "deces": 43206
+  },
+  {
+    "date": "26/12/2020",
+    "hospitalisations": 24444,
+    "reanimations": 2640,
+    "retours": 189687,
+    "deces": 43352
   }
 ]
