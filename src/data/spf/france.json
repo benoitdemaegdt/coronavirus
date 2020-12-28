@@ -1993,5 +1993,12 @@
     "reanimations": 2650,
     "retours": 189910,
     "deces": 43525
+  },
+  {
+    "date": "28/12/2020",
+    "hospitalisations": 24645,
+    "reanimations": 2694,
+    "retours": 190691,
+    "deces": 43888
   }
 ]
