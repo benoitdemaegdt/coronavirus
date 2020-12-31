@@ -2014,5 +2014,12 @@
     "reanimations": 2652,
     "retours": 193014,
     "deces": 44575
+  },
+  {
+    "date": "31/12/2020",
+    "hospitalisations": 24407,
+    "reanimations": 2625,
+    "retours": 194190,
+    "deces": 44826
   }
 ]
