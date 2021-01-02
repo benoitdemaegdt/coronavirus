@@ -37988,5 +37988,136 @@
         "deces": 41
       }
     ]
+  },
+  {
+    "date": "02/01/2021",
+    "regions": [
+      {
+        "name": "Auvergne-Rhône-Alpes",
+        "hospitalisations": 4156,
+        "reanimations": 384,
+        "retours": 28169,
+        "deces": 6769
+      },
+      {
+        "name": "Hauts-de-France",
+        "hospitalisations": 2373,
+        "reanimations": 250,
+        "retours": 17951,
+        "deces": 4476
+      },
+      {
+        "name": "Provence-Alpes-Côte d'Azur",
+        "hospitalisations": 2470,
+        "reanimations": 309,
+        "retours": 18921,
+        "deces": 3580
+      },
+      {
+        "name": "Grand Est",
+        "hospitalisations": 2970,
+        "reanimations": 307,
+        "retours": 21405,
+        "deces": 6070
+      },
+      {
+        "name": "Occitanie",
+        "hospitalisations": 1210,
+        "reanimations": 162,
+        "retours": 10315,
+        "deces": 2145
+      },
+      {
+        "name": "Normandie",
+        "hospitalisations": 1072,
+        "reanimations": 90,
+        "retours": 5894,
+        "deces": 1543
+      },
+      {
+        "name": "Nouvelle-Aquitaine",
+        "hospitalisations": 1111,
+        "reanimations": 145,
+        "retours": 7899,
+        "deces": 1745
+      },
+      {
+        "name": "Centre-Val de Loire",
+        "hospitalisations": 893,
+        "reanimations": 118,
+        "retours": 5555,
+        "deces": 1332
+      },
+      {
+        "name": "Bourgogne-Franche-Comté",
+        "hospitalisations": 1803,
+        "reanimations": 181,
+        "retours": 9879,
+        "deces": 2672
+      },
+      {
+        "name": "Bretagne",
+        "hospitalisations": 525,
+        "reanimations": 36,
+        "retours": 3364,
+        "deces": 731
+      },
+      {
+        "name": "Corse",
+        "hospitalisations": 19,
+        "reanimations": 3,
+        "retours": 510,
+        "deces": 115
+      },
+      {
+        "name": "Pays de la Loire",
+        "hospitalisations": 882,
+        "reanimations": 66,
+        "retours": 6150,
+        "deces": 1372
+      },
+      {
+        "name": "Île-de-France",
+        "hospitalisations": 4832,
+        "reanimations": 561,
+        "retours": 54757,
+        "deces": 12194
+      },
+      {
+        "name": "Guadeloupe",
+        "hospitalisations": 49,
+        "reanimations": 4,
+        "retours": 768,
+        "deces": 167
+      },
+      {
+        "name": "Martinique",
+        "hospitalisations": 17,
+        "reanimations": 5,
+        "retours": 367,
+        "deces": 43
+      },
+      {
+        "name": "Guyane",
+        "hospitalisations": 30,
+        "reanimations": 6,
+        "retours": 1971,
+        "deces": 67
+      },
+      {
+        "name": "La Réunion",
+        "hospitalisations": 38,
+        "reanimations": 4,
+        "retours": 720,
+        "deces": 52
+      },
+      {
+        "name": "Mayotte",
+        "hospitalisations": 8,
+        "reanimations": 1,
+        "retours": 548,
+        "deces": 42
+      }
+    ]
   }
 ]
