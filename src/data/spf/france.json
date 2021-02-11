@@ -2308,5 +2308,12 @@
     "reanimations": 3309,
     "retours": 237082,
     "deces": 56746
+  },
+  {
+    "date": "11/02/2021",
+    "hospitalisations": 26963,
+    "reanimations": 3327,
+    "retours": 238722,
+    "deces": 57106
   }
 ]
