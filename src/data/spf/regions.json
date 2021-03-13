@@ -47027,5 +47027,267 @@
         "deces": 99
       }
     ]
+  },
+  {
+    "date": "12/03/2021",
+    "regions": [
+      {
+        "name": "Auvergne-Rhône-Alpes",
+        "hospitalisations": 3109,
+        "reanimations": 441,
+        "retours": 38682,
+        "deces": 9415
+      },
+      {
+        "name": "Hauts-de-France",
+        "hospitalisations": 2891,
+        "reanimations": 490,
+        "retours": 25510,
+        "deces": 6623
+      },
+      {
+        "name": "Provence-Alpes-Côte d'Azur",
+        "hospitalisations": 3097,
+        "reanimations": 485,
+        "retours": 28913,
+        "deces": 6140
+      },
+      {
+        "name": "Grand Est",
+        "hospitalisations": 2204,
+        "reanimations": 329,
+        "retours": 29263,
+        "deces": 8355
+      },
+      {
+        "name": "Occitanie",
+        "hospitalisations": 1308,
+        "reanimations": 272,
+        "retours": 15092,
+        "deces": 3370
+      },
+      {
+        "name": "Normandie",
+        "hospitalisations": 1263,
+        "reanimations": 157,
+        "retours": 9165,
+        "deces": 2365
+      },
+      {
+        "name": "Nouvelle-Aquitaine",
+        "hospitalisations": 1124,
+        "reanimations": 188,
+        "retours": 12028,
+        "deces": 2965
+      },
+      {
+        "name": "Centre-Val de Loire",
+        "hospitalisations": 992,
+        "reanimations": 144,
+        "retours": 8255,
+        "deces": 2088
+      },
+      {
+        "name": "Bourgogne-Franche-Comté",
+        "hospitalisations": 1257,
+        "reanimations": 153,
+        "retours": 14767,
+        "deces": 3902
+      },
+      {
+        "name": "Bretagne",
+        "hospitalisations": 614,
+        "reanimations": 60,
+        "retours": 5146,
+        "deces": 1224
+      },
+      {
+        "name": "Corse",
+        "hospitalisations": 104,
+        "reanimations": 10,
+        "retours": 659,
+        "deces": 153
+      },
+      {
+        "name": "Pays de la Loire",
+        "hospitalisations": 795,
+        "reanimations": 95,
+        "retours": 9081,
+        "deces": 2107
+      },
+      {
+        "name": "Île-de-France",
+        "hospitalisations": 5669,
+        "reanimations": 1096,
+        "retours": 69533,
+        "deces": 15606
+      },
+      {
+        "name": "Guadeloupe",
+        "hospitalisations": 27,
+        "reanimations": 7,
+        "retours": 859,
+        "deces": 183
+      },
+      {
+        "name": "Martinique",
+        "hospitalisations": 21,
+        "reanimations": 8,
+        "retours": 416,
+        "deces": 47
+      },
+      {
+        "name": "Guyane",
+        "hospitalisations": 16,
+        "reanimations": 6,
+        "retours": 2239,
+        "deces": 83
+      },
+      {
+        "name": "La Réunion",
+        "hospitalisations": 174,
+        "reanimations": 67,
+        "retours": 980,
+        "deces": 84
+      },
+      {
+        "name": "Mayotte",
+        "hospitalisations": 84,
+        "reanimations": 25,
+        "retours": 1090,
+        "deces": 99
+      }
+    ]
+  },
+  {
+    "date": "13/03/2021",
+    "regions": [
+      {
+        "name": "Auvergne-Rhône-Alpes",
+        "hospitalisations": 3089,
+        "reanimations": 445,
+        "retours": 38740,
+        "deces": 9429
+      },
+      {
+        "name": "Hauts-de-France",
+        "hospitalisations": 2911,
+        "reanimations": 498,
+        "retours": 25616,
+        "deces": 6649
+      },
+      {
+        "name": "Provence-Alpes-Côte d'Azur",
+        "hospitalisations": 3051,
+        "reanimations": 490,
+        "retours": 29054,
+        "deces": 6165
+      },
+      {
+        "name": "Grand Est",
+        "hospitalisations": 2177,
+        "reanimations": 338,
+        "retours": 29342,
+        "deces": 8372
+      },
+      {
+        "name": "Occitanie",
+        "hospitalisations": 1283,
+        "reanimations": 261,
+        "retours": 15157,
+        "deces": 3381
+      },
+      {
+        "name": "Normandie",
+        "hospitalisations": 1258,
+        "reanimations": 158,
+        "retours": 9202,
+        "deces": 2370
+      },
+      {
+        "name": "Nouvelle-Aquitaine",
+        "hospitalisations": 1108,
+        "reanimations": 190,
+        "retours": 12069,
+        "deces": 2971
+      },
+      {
+        "name": "Centre-Val de Loire",
+        "hospitalisations": 1000,
+        "reanimations": 142,
+        "retours": 8276,
+        "deces": 2093
+      },
+      {
+        "name": "Bourgogne-Franche-Comté",
+        "hospitalisations": 1230,
+        "reanimations": 154,
+        "retours": 14819,
+        "deces": 3909
+      },
+      {
+        "name": "Bretagne",
+        "hospitalisations": 635,
+        "reanimations": 65,
+        "retours": 5171,
+        "deces": 1227
+      },
+      {
+        "name": "Corse",
+        "hospitalisations": 105,
+        "reanimations": 12,
+        "retours": 660,
+        "deces": 154
+      },
+      {
+        "name": "Pays de la Loire",
+        "hospitalisations": 795,
+        "reanimations": 95,
+        "retours": 9117,
+        "deces": 2114
+      },
+      {
+        "name": "Île-de-France",
+        "hospitalisations": 5714,
+        "reanimations": 1100,
+        "retours": 69786,
+        "deces": 15645
+      },
+      {
+        "name": "Guadeloupe",
+        "hospitalisations": 30,
+        "reanimations": 9,
+        "retours": 859,
+        "deces": 183
+      },
+      {
+        "name": "Martinique",
+        "hospitalisations": 23,
+        "reanimations": 10,
+        "retours": 416,
+        "deces": 47
+      },
+      {
+        "name": "Guyane",
+        "hospitalisations": 16,
+        "reanimations": 7,
+        "retours": 2240,
+        "deces": 83
+      },
+      {
+        "name": "La Réunion",
+        "hospitalisations": 174,
+        "reanimations": 71,
+        "retours": 988,
+        "deces": 85
+      },
+      {
+        "name": "Mayotte",
+        "hospitalisations": 72,
+        "reanimations": 25,
+        "retours": 1103,
+        "deces": 101
+      }
+    ]
   }
 ]
