@@ -3,2555 +3,2562 @@
     "date": "18/03/2020",
     "hospitalisations": 2972,
     "reanimations": 771,
-    "retours": 816,
-    "deces": 218
+    "retours": null,
+    "deces": null
   },
   {
     "date": "19/03/2020",
     "hospitalisations": 4073,
     "reanimations": 1002,
-    "retours": 1180,
-    "deces": 327
+    "retours": null,
+    "deces": null
   },
   {
     "date": "20/03/2020",
     "hospitalisations": 5226,
     "reanimations": 1297,
-    "retours": 1587,
-    "deces": 450
+    "retours": null,
+    "deces": null
   },
   {
     "date": "21/03/2020",
     "hospitalisations": 5900,
     "reanimations": 1453,
-    "retours": 1811,
-    "deces": 525
+    "retours": null,
+    "deces": null
   },
   {
     "date": "22/03/2020",
     "hospitalisations": 6954,
     "reanimations": 1674,
-    "retours": 2117,
-    "deces": 632
+    "retours": null,
+    "deces": null
   },
   {
     "date": "23/03/2020",
     "hospitalisations": 8673,
     "reanimations": 2080,
-    "retours": 2567,
-    "deces": 860
+    "retours": null,
+    "deces": null
   },
   {
     "date": "24/03/2020",
     "hospitalisations": 10163,
     "reanimations": 2503,
-    "retours": 3281,
-    "deces": 1100
+    "retours": null,
+    "deces": null
   },
   {
     "date": "25/03/2020",
     "hospitalisations": 12072,
     "reanimations": 2935,
-    "retours": 4085,
-    "deces": 1388
+    "retours": null,
+    "deces": null
   },
   {
     "date": "26/03/2020",
     "hospitalisations": 13879,
     "reanimations": 3351,
-    "retours": 4947,
-    "deces": 1696
+    "retours": null,
+    "deces": null
   },
   {
     "date": "27/03/2020",
     "hospitalisations": 15701,
     "reanimations": 3758,
-    "retours": 5698,
-    "deces": 1995
+    "retours": null,
+    "deces": null
   },
   {
     "date": "28/03/2020",
     "hospitalisations": 17580,
     "reanimations": 4236,
-    "retours": 6624,
-    "deces": 2314
+    "retours": null,
+    "deces": null
   },
   {
     "date": "29/03/2020",
     "hospitalisations": 19311,
     "reanimations": 4592,
-    "retours": 7131,
-    "deces": 2606
+    "retours": null,
+    "deces": null
   },
   {
     "date": "30/03/2020",
     "hospitalisations": 20946,
     "reanimations": 5056,
-    "retours": 7923,
-    "deces": 3024
+    "retours": null,
+    "deces": null
   },
   {
     "date": "31/03/2020",
     "hospitalisations": 22672,
     "reanimations": 5496,
-    "retours": 9443,
-    "deces": 3523
+    "retours": null,
+    "deces": null
   },
   {
     "date": "01/04/2020",
     "hospitalisations": 24543,
     "reanimations": 5940,
-    "retours": 10934,
-    "deces": 4032
+    "retours": null,
+    "deces": null
   },
   {
     "date": "02/04/2020",
     "hospitalisations": 26131,
     "reanimations": 6305,
-    "retours": 12427,
-    "deces": 4503
+    "retours": null,
+    "deces": null
   },
   {
     "date": "03/04/2020",
     "hospitalisations": 27302,
     "reanimations": 6556,
-    "retours": 14007,
-    "deces": 5091
+    "retours": null,
+    "deces": null
   },
   {
     "date": "04/04/2020",
     "hospitalisations": 28003,
     "reanimations": 6723,
-    "retours": 15437,
-    "deces": 5532
+    "retours": null,
+    "deces": null
   },
   {
     "date": "05/04/2020",
     "hospitalisations": 28747,
     "reanimations": 6859,
-    "retours": 16182,
-    "deces": 5889
+    "retours": null,
+    "deces": null
   },
   {
     "date": "06/04/2020",
     "hospitalisations": 29569,
     "reanimations": 6948,
-    "retours": 17249,
-    "deces": 6494
+    "retours": null,
+    "deces": null
   },
   {
     "date": "07/04/2020",
     "hospitalisations": 29871,
     "reanimations": 7004,
-    "retours": 19336,
-    "deces": 7091
+    "retours": null,
+    "deces": null
   },
   {
     "date": "08/04/2020",
     "hospitalisations": 30217,
     "reanimations": 7019,
-    "retours": 21253,
-    "deces": 7632
+    "retours": null,
+    "deces": null
   },
   {
     "date": "09/04/2020",
     "hospitalisations": 30608,
     "reanimations": 6937,
-    "retours": 23205,
-    "deces": 8044
+    "retours": null,
+    "deces": null
   },
   {
     "date": "10/04/2020",
     "hospitalisations": 31108,
     "reanimations": 6875,
-    "retours": 24931,
-    "deces": 8598
+    "retours": null,
+    "deces": null
   },
   {
     "date": "11/04/2020",
     "hospitalisations": 31159,
     "reanimations": 6752,
-    "retours": 26390,
-    "deces": 8943
+    "retours": null,
+    "deces": null
   },
   {
     "date": "12/04/2020",
     "hospitalisations": 31665,
     "reanimations": 6714,
-    "retours": 27185,
-    "deces": 9253
+    "retours": null,
+    "deces": null
   },
   {
     "date": "13/04/2020",
     "hospitalisations": 31952,
     "reanimations": 6690,
-    "retours": 27717,
-    "deces": 9588
+    "retours": null,
+    "deces": null
   },
   {
     "date": "14/04/2020",
     "hospitalisations": 32131,
     "reanimations": 6599,
-    "retours": 28804,
-    "deces": 10129
+    "retours": null,
+    "deces": null
   },
   {
     "date": "15/04/2020",
     "hospitalisations": 31623,
     "reanimations": 6331,
-    "retours": 30952,
-    "deces": 10643
+    "retours": null,
+    "deces": null
   },
   {
     "date": "16/04/2020",
     "hospitalisations": 31172,
     "reanimations": 6139,
-    "retours": 32806,
-    "deces": 11053
+    "retours": null,
+    "deces": null
   },
   {
     "date": "17/04/2020",
     "hospitalisations": 31061,
     "reanimations": 5922,
-    "retours": 34414,
-    "deces": 11470
+    "retours": null,
+    "deces": null
   },
   {
     "date": "18/04/2020",
     "hospitalisations": 30515,
     "reanimations": 5733,
-    "retours": 35977,
-    "deces": 11834
+    "retours": null,
+    "deces": null
   },
   {
     "date": "19/04/2020",
     "hospitalisations": 30486,
     "reanimations": 5644,
-    "retours": 36572,
-    "deces": 12061
+    "retours": null,
+    "deces": null
   },
   {
     "date": "20/04/2020",
     "hospitalisations": 30462,
     "reanimations": 5584,
-    "retours": 37403,
-    "deces": 12505
+    "retours": null,
+    "deces": null
   },
   {
     "date": "21/04/2020",
     "hospitalisations": 29984,
     "reanimations": 5334,
-    "retours": 39175,
-    "deces": 12892
+    "retours": null,
+    "deces": null
   },
   {
     "date": "22/04/2020",
     "hospitalisations": 29627,
     "reanimations": 5127,
-    "retours": 40651,
-    "deces": 13225
+    "retours": null,
+    "deces": null
   },
   {
     "date": "23/04/2020",
     "hospitalisations": 29113,
     "reanimations": 4967,
-    "retours": 42082,
-    "deces": 13536
+    "retours": null,
+    "deces": null
   },
   {
     "date": "24/04/2020",
     "hospitalisations": 28554,
     "reanimations": 4785,
-    "retours": 43486,
-    "deces": 13841
+    "retours": null,
+    "deces": null
   },
   {
     "date": "25/04/2020",
     "hospitalisations": 28119,
     "reanimations": 4641,
-    "retours": 44587,
-    "deces": 14039
+    "retours": null,
+    "deces": null
   },
   {
     "date": "26/04/2020",
     "hospitalisations": 28114,
     "reanimations": 4598,
-    "retours": 44896,
-    "deces": 14191
+    "retours": null,
+    "deces": null
   },
   {
     "date": "27/04/2020",
     "hospitalisations": 27954,
     "reanimations": 4526,
-    "retours": 45506,
-    "deces": 14486
+    "retours": null,
+    "deces": null
   },
   {
     "date": "28/04/2020",
     "hospitalisations": 27607,
     "reanimations": 4392,
-    "retours": 46322,
-    "deces": 14676
+    "retours": null,
+    "deces": null
   },
   {
     "date": "29/04/2020",
     "hospitalisations": 26736,
     "reanimations": 4128,
-    "retours": 48221,
-    "deces": 15041
+    "retours": null,
+    "deces": null
   },
   {
     "date": "30/04/2020",
     "hospitalisations": 26192,
     "reanimations": 3947,
-    "retours": 49469,
-    "deces": 15231
+    "retours": null,
+    "deces": null
   },
   {
     "date": "01/05/2020",
     "hospitalisations": 25809,
     "reanimations": 3819,
-    "retours": 50204,
-    "deces": 15350
+    "retours": null,
+    "deces": null
   },
   {
     "date": "02/05/2020",
     "hospitalisations": 25751,
     "reanimations": 3770,
-    "retours": 50554,
-    "deces": 15468
+    "retours": null,
+    "deces": null
   },
   {
     "date": "03/05/2020",
     "hospitalisations": 25739,
     "reanimations": 3762,
-    "retours": 50776,
-    "deces": 15564
+    "retours": null,
+    "deces": null
   },
   {
     "date": "04/05/2020",
     "hospitalisations": 25472,
     "reanimations": 3639,
-    "retours": 51363,
-    "deces": 15807
+    "retours": null,
+    "deces": null
   },
   {
     "date": "05/05/2020",
     "hospitalisations": 24701,
     "reanimations": 3375,
-    "retours": 52728,
-    "deces": 16041
+    "retours": null,
+    "deces": null
   },
   {
     "date": "06/05/2020",
     "hospitalisations": 23912,
     "reanimations": 3095,
-    "retours": 53963,
-    "deces": 16218
+    "retours": null,
+    "deces": null
   },
   {
     "date": "07/05/2020",
     "hospitalisations": 23139,
     "reanimations": 2911,
-    "retours": 55018,
-    "deces": 16367
+    "retours": null,
+    "deces": null
   },
   {
     "date": "08/05/2020",
     "hospitalisations": 22657,
     "reanimations": 2820,
-    "retours": 55773,
-    "deces": 16478
+    "retours": null,
+    "deces": null
   },
   {
     "date": "09/05/2020",
     "hospitalisations": 22547,
     "reanimations": 2764,
-    "retours": 56029,
-    "deces": 16554
+    "retours": null,
+    "deces": null
   },
   {
     "date": "10/05/2020",
     "hospitalisations": 22502,
     "reanimations": 2728,
-    "retours": 56208,
-    "deces": 16623
+    "retours": null,
+    "deces": null
   },
   {
     "date": "11/05/2020",
     "hospitalisations": 22219,
     "reanimations": 2666,
-    "retours": 56715,
-    "deces": 16801
+    "retours": null,
+    "deces": null
   },
   {
     "date": "12/05/2020",
     "hospitalisations": 21530,
     "reanimations": 2496,
-    "retours": 57776,
-    "deces": 16984
+    "retours": null,
+    "deces": null
   },
   {
     "date": "13/05/2020",
     "hospitalisations": 21009,
     "reanimations": 2385,
-    "retours": 58664,
-    "deces": 17082
+    "retours": null,
+    "deces": null
   },
   {
     "date": "14/05/2020",
     "hospitalisations": 20401,
     "reanimations": 2256,
-    "retours": 59596,
-    "deces": 17205
+    "retours": null,
+    "deces": null
   },
   {
     "date": "15/05/2020",
     "hospitalisations": 19801,
     "reanimations": 2162,
-    "retours": 60439,
-    "deces": 17323
+    "retours": null,
+    "deces": null
   },
   {
     "date": "16/05/2020",
     "hospitalisations": 19372,
     "reanimations": 2091,
-    "retours": 61057,
-    "deces": 17393
+    "retours": null,
+    "deces": null
   },
   {
     "date": "17/05/2020",
     "hospitalisations": 19302,
     "reanimations": 2047,
-    "retours": 61204,
-    "deces": 17447
+    "retours": null,
+    "deces": null
   },
   {
     "date": "18/05/2020",
     "hospitalisations": 18956,
     "reanimations": 1958,
-    "retours": 61719,
-    "deces": 17570
+    "retours": null,
+    "deces": null
   },
   {
     "date": "19/05/2020",
     "hospitalisations": 18409,
     "reanimations": 1854,
-    "retours": 62554,
-    "deces": 17695
+    "retours": null,
+    "deces": null
   },
   {
     "date": "20/05/2020",
     "hospitalisations": 17882,
     "reanimations": 1754,
-    "retours": 63345,
-    "deces": 17793
+    "retours": null,
+    "deces": null
   },
   {
     "date": "21/05/2020",
     "hospitalisations": 17527,
     "reanimations": 1708,
-    "retours": 63849,
-    "deces": 17851
+    "retours": null,
+    "deces": null
   },
   {
     "date": "22/05/2020",
     "hospitalisations": 17327,
     "reanimations": 1664,
-    "retours": 64200,
-    "deces": 17925
+    "retours": null,
+    "deces": null
   },
   {
     "date": "23/05/2020",
     "hospitalisations": 17122,
     "reanimations": 1628,
-    "retours": 64538,
-    "deces": 17968
+    "retours": null,
+    "deces": null
   },
   {
     "date": "24/05/2020",
     "hospitalisations": 17129,
     "reanimations": 1618,
-    "retours": 64608,
-    "deces": 18003
+    "retours": null,
+    "deces": null
   },
   {
     "date": "25/05/2020",
     "hospitalisations": 16742,
     "reanimations": 1572,
-    "retours": 65190,
-    "deces": 18093
+    "retours": null,
+    "deces": null
   },
   {
     "date": "26/05/2020",
     "hospitalisations": 16209,
     "reanimations": 1519,
-    "retours": 65870,
-    "deces": 18175
+    "retours": null,
+    "deces": null
   },
   {
     "date": "27/05/2020",
     "hospitalisations": 15627,
     "reanimations": 1467,
-    "retours": 66575,
-    "deces": 18240
+    "retours": null,
+    "deces": null
   },
   {
     "date": "28/05/2020",
     "hospitalisations": 15155,
     "reanimations": 1395,
-    "retours": 67182,
-    "deces": 18306
+    "retours": null,
+    "deces": null
   },
   {
     "date": "29/05/2020",
     "hospitalisations": 14643,
     "reanimations": 1328,
-    "retours": 67794,
-    "deces": 18367
+    "retours": null,
+    "deces": null
   },
   {
     "date": "30/05/2020",
     "hospitalisations": 14329,
     "reanimations": 1293,
-    "retours": 68259,
-    "deces": 18424
+    "retours": null,
+    "deces": null
   },
   {
     "date": "31/05/2020",
     "hospitalisations": 14271,
     "reanimations": 1287,
-    "retours": 68346,
-    "deces": 18455
+    "retours": null,
+    "deces": null
   },
   {
     "date": "01/06/2020",
     "hospitalisations": 14237,
     "reanimations": 1270,
-    "retours": 68431,
-    "deces": 18486
+    "retours": null,
+    "deces": null
   },
   {
     "date": "02/06/2020",
     "hospitalisations": 13978,
     "reanimations": 1221,
-    "retours": 68803,
-    "deces": 18570
+    "retours": null,
+    "deces": null
   },
   {
     "date": "03/06/2020",
     "hospitalisations": 13465,
     "reanimations": 1179,
-    "retours": 69446,
-    "deces": 18651
+    "retours": null,
+    "deces": null
   },
   {
     "date": "04/06/2020",
     "hospitalisations": 13054,
     "reanimations": 1133,
-    "retours": 69967,
-    "deces": 18695
+    "retours": null,
+    "deces": null
   },
   {
     "date": "05/06/2020",
     "hospitalisations": 12650,
     "reanimations": 1065,
-    "retours": 70494,
-    "deces": 18741
+    "retours": null,
+    "deces": null
   },
   {
     "date": "06/06/2020",
     "hospitalisations": 12433,
     "reanimations": 1030,
-    "retours": 70796,
-    "deces": 18772
+    "retours": null,
+    "deces": null
   },
   {
     "date": "07/06/2020",
     "hospitalisations": 12415,
     "reanimations": 1024,
-    "retours": 70832,
-    "deces": 18785
+    "retours": null,
+    "deces": null
   },
   {
     "date": "08/06/2020",
     "hospitalisations": 12269,
     "reanimations": 995,
-    "retours": 71052,
-    "deces": 18839
+    "retours": null,
+    "deces": null
   },
   {
     "date": "09/06/2020",
     "hospitalisations": 11915,
     "reanimations": 926,
-    "retours": 71496,
-    "deces": 18892
+    "retours": null,
+    "deces": null
   },
   {
     "date": "10/06/2020",
     "hospitalisations": 11632,
     "reanimations": 904,
-    "retours": 71822,
-    "deces": 18915
+    "retours": null,
+    "deces": null
   },
   {
     "date": "11/06/2020",
     "hospitalisations": 11420,
     "reanimations": 875,
-    "retours": 72139,
-    "deces": 18942
+    "retours": null,
+    "deces": null
   },
   {
     "date": "12/06/2020",
     "hospitalisations": 11079,
     "reanimations": 851,
-    "retours": 72562,
-    "deces": 18970
+    "retours": null,
+    "deces": null
   },
   {
     "date": "13/06/2020",
     "hospitalisations": 10864,
     "reanimations": 843,
-    "retours": 72798,
-    "deces": 18994
+    "retours": null,
+    "deces": null
   },
   {
     "date": "14/06/2020",
     "hospitalisations": 10836,
     "reanimations": 841,
-    "retours": 72849,
-    "deces": 19003
+    "retours": null,
+    "deces": null
   },
   {
     "date": "15/06/2020",
     "hospitalisations": 10707,
     "reanimations": 818,
-    "retours": 73034,
-    "deces": 19032
+    "retours": null,
+    "deces": null
   },
   {
     "date": "16/06/2020",
     "hospitalisations": 10490,
     "reanimations": 792,
-    "retours": 73325,
-    "deces": 19070
+    "retours": null,
+    "deces": null
   },
   {
     "date": "17/06/2020",
     "hospitalisations": 10222,
     "reanimations": 744,
-    "retours": 73657,
-    "deces": 19098
+    "retours": null,
+    "deces": null
   },
   {
     "date": "18/06/2020",
     "hospitalisations": 10080,
     "reanimations": 724,
-    "retours": 73877,
-    "deces": 19126
+    "retours": null,
+    "deces": null
   },
   {
     "date": "19/06/2020",
     "hospitalisations": 9925,
     "reanimations": 699,
-    "retours": 74107,
-    "deces": 19140
+    "retours": null,
+    "deces": null
   },
   {
     "date": "20/06/2020",
     "hospitalisations": 9792,
     "reanimations": 687,
-    "retours": 74302,
-    "deces": 19156
+    "retours": null,
+    "deces": null
   },
   {
     "date": "21/06/2020",
     "hospitalisations": 9778,
     "reanimations": 687,
-    "retours": 74362,
-    "deces": 19163
+    "retours": null,
+    "deces": null
   },
   {
     "date": "22/06/2020",
     "hospitalisations": 9648,
     "reanimations": 673,
-    "retours": 74602,
-    "deces": 19186
+    "retours": null,
+    "deces": null
   },
   {
     "date": "23/06/2020",
     "hospitalisations": 9446,
     "reanimations": 654,
-    "retours": 74861,
-    "deces": 19212
+    "retours": null,
+    "deces": null
   },
   {
     "date": "24/06/2020",
     "hospitalisations": 9254,
     "reanimations": 630,
-    "retours": 75117,
-    "deces": 19223
+    "retours": null,
+    "deces": null
   },
   {
     "date": "25/06/2020",
     "hospitalisations": 9096,
     "reanimations": 623,
-    "retours": 75341,
-    "deces": 19244
+    "retours": null,
+    "deces": null
   },
   {
     "date": "26/06/2020",
     "hospitalisations": 8841,
     "reanimations": 606,
-    "retours": 75639,
-    "deces": 19270
+    "retours": null,
+    "deces": null
   },
   {
     "date": "27/06/2020",
     "hospitalisations": 8715,
     "reanimations": 594,
-    "retours": 75803,
-    "deces": 19285
+    "retours": null,
+    "deces": null
   },
   {
     "date": "28/06/2020",
     "hospitalisations": 8727,
     "reanimations": 594,
-    "retours": 75833,
-    "deces": 19287
+    "retours": null,
+    "deces": null
   },
   {
     "date": "29/06/2020",
     "hospitalisations": 8643,
     "reanimations": 591,
-    "retours": 75989,
-    "deces": 19305
+    "retours": null,
+    "deces": null
   },
   {
     "date": "30/06/2020",
     "hospitalisations": 8491,
     "reanimations": 574,
-    "retours": 76264,
-    "deces": 19326
+    "retours": null,
+    "deces": null
   },
   {
     "date": "01/07/2020",
     "hospitalisations": 8291,
     "reanimations": 554,
-    "retours": 76539,
-    "deces": 19344
+    "retours": null,
+    "deces": null
   },
   {
     "date": "02/07/2020",
     "hospitalisations": 8103,
     "reanimations": 545,
-    "retours": 76792,
-    "deces": 19358
+    "retours": null,
+    "deces": null
   },
   {
     "date": "03/07/2020",
     "hospitalisations": 7946,
     "reanimations": 533,
-    "retours": 77049,
-    "deces": 19376
+    "retours": null,
+    "deces": null
   },
   {
     "date": "04/07/2020",
     "hospitalisations": 7863,
     "reanimations": 517,
-    "retours": 77160,
-    "deces": 19388
+    "retours": null,
+    "deces": null
   },
   {
     "date": "05/07/2020",
     "hospitalisations": 7863,
     "reanimations": 521,
-    "retours": 77179,
-    "deces": 19390
+    "retours": null,
+    "deces": null
   },
   {
     "date": "06/07/2020",
     "hospitalisations": 7806,
     "reanimations": 521,
-    "retours": 77308,
-    "deces": 19403
+    "retours": null,
+    "deces": null
   },
   {
     "date": "07/07/2020",
     "hospitalisations": 7550,
     "reanimations": 511,
-    "retours": 77644,
-    "deces": 19437
+    "retours": null,
+    "deces": null
   },
   {
     "date": "08/07/2020",
     "hospitalisations": 7254,
     "reanimations": 503,
-    "retours": 77985,
-    "deces": 19469
+    "retours": null,
+    "deces": null
   },
   {
     "date": "09/07/2020",
     "hospitalisations": 7134,
     "reanimations": 486,
-    "retours": 78159,
-    "deces": 19483
+    "retours": null,
+    "deces": null
   },
   {
     "date": "10/07/2020",
     "hospitalisations": 7020,
     "reanimations": 471,
-    "retours": 78377,
-    "deces": 19508
+    "retours": null,
+    "deces": null
   },
   {
     "date": "11/07/2020",
     "hospitalisations": 6995,
     "reanimations": 470,
-    "retours": 78454,
-    "deces": 19514
+    "retours": null,
+    "deces": null
   },
   {
     "date": "12/07/2020",
     "hospitalisations": 6991,
     "reanimations": 473,
-    "retours": 78486,
-    "deces": 19515
+    "retours": null,
+    "deces": null
   },
   {
     "date": "13/07/2020",
     "hospitalisations": 6941,
     "reanimations": 467,
-    "retours": 78586,
-    "deces": 19533
+    "retours": null,
+    "deces": null
   },
   {
     "date": "14/07/2020",
     "hospitalisations": 6907,
     "reanimations": 465,
-    "retours": 78670,
-    "deces": 19539
+    "retours": null,
+    "deces": null
   },
   {
     "date": "15/07/2020",
     "hospitalisations": 6873,
     "reanimations": 457,
-    "retours": 78809,
-    "deces": 19559
+    "retours": null,
+    "deces": null
   },
   {
     "date": "16/07/2020",
     "hospitalisations": 6754,
     "reanimations": 456,
-    "retours": 79025,
-    "deces": 19577
+    "retours": null,
+    "deces": null
   },
   {
     "date": "17/07/2020",
     "hospitalisations": 6646,
     "reanimations": 452,
-    "retours": 79233,
-    "deces": 19591
+    "retours": null,
+    "deces": null
   },
   {
     "date": "18/07/2020",
     "hospitalisations": 6614,
     "reanimations": 450,
-    "retours": 79322,
-    "deces": 19599
+    "retours": null,
+    "deces": null
   },
   {
     "date": "19/07/2020",
     "hospitalisations": 6583,
     "reanimations": 448,
-    "retours": 79384,
-    "deces": 19600
+    "retours": null,
+    "deces": null
   },
   {
     "date": "20/07/2020",
     "hospitalisations": 6547,
     "reanimations": 442,
-    "retours": 79530,
-    "deces": 19616
+    "retours": null,
+    "deces": null
   },
   {
     "date": "21/07/2020",
     "hospitalisations": 6440,
     "reanimations": 430,
-    "retours": 79723,
-    "deces": 19629
+    "retours": null,
+    "deces": null
   },
   {
     "date": "22/07/2020",
     "hospitalisations": 6324,
     "reanimations": 420,
-    "retours": 79946,
-    "deces": 19636
+    "retours": null,
+    "deces": null
   },
   {
     "date": "23/07/2020",
     "hospitalisations": 5915,
     "reanimations": 411,
-    "retours": 80461,
-    "deces": 19646
+    "retours": null,
+    "deces": null
   },
   {
     "date": "24/07/2020",
     "hospitalisations": 5678,
     "reanimations": 385,
-    "retours": 80804,
-    "deces": 19656
+    "retours": null,
+    "deces": null
   },
   {
     "date": "25/07/2020",
     "hospitalisations": 5634,
     "reanimations": 368,
-    "retours": 80915,
-    "deces": 19664
+    "retours": null,
+    "deces": null
   },
   {
     "date": "26/07/2020",
     "hospitalisations": 5640,
     "reanimations": 367,
-    "retours": 80947,
-    "deces": 19665
+    "retours": null,
+    "deces": null
   },
   {
     "date": "27/07/2020",
     "hospitalisations": 5614,
     "reanimations": 374,
-    "retours": 81071,
-    "deces": 19673
+    "retours": null,
+    "deces": null
   },
   {
     "date": "28/07/2020",
     "hospitalisations": 5510,
     "reanimations": 361,
-    "retours": 81300,
-    "deces": 19688
+    "retours": null,
+    "deces": null
   },
   {
     "date": "29/07/2020",
     "hospitalisations": 5409,
     "reanimations": 356,
-    "retours": 81489,
-    "deces": 19703
+    "retours": null,
+    "deces": null
   },
   {
     "date": "30/07/2020",
     "hospitalisations": 5334,
     "reanimations": 357,
-    "retours": 81656,
-    "deces": 19719
+    "retours": null,
+    "deces": null
   },
   {
     "date": "31/07/2020",
     "hospitalisations": 5257,
     "reanimations": 347,
-    "retours": 81870,
-    "deces": 19730
+    "retours": null,
+    "deces": null
   },
   {
     "date": "01/08/2020",
     "hospitalisations": 5177,
     "reanimations": 344,
-    "retours": 82016,
-    "deces": 19736
+    "retours": null,
+    "deces": null
   },
   {
     "date": "02/08/2020",
     "hospitalisations": 5188,
     "reanimations": 345,
-    "retours": 82029,
-    "deces": 19737
+    "retours": null,
+    "deces": null
   },
   {
     "date": "03/08/2020",
     "hospitalisations": 5157,
     "reanimations": 360,
-    "retours": 82155,
-    "deces": 19759
+    "retours": null,
+    "deces": null
   },
   {
     "date": "04/08/2020",
     "hospitalisations": 5121,
     "reanimations": 364,
-    "retours": 82307,
-    "deces": 19770
+    "retours": null,
+    "deces": null
   },
   {
     "date": "05/08/2020",
     "hospitalisations": 5107,
     "reanimations": 360,
-    "retours": 82449,
-    "deces": 19779
+    "retours": null,
+    "deces": null
   },
   {
     "date": "06/08/2020",
     "hospitalisations": 5019,
     "reanimations": 366,
-    "retours": 82659,
-    "deces": 19786
+    "retours": null,
+    "deces": null
   },
   {
     "date": "07/08/2020",
     "hospitalisations": 4970,
     "reanimations": 359,
-    "retours": 82825,
-    "deces": 19798
+    "retours": null,
+    "deces": null
   },
   {
     "date": "08/08/2020",
     "hospitalisations": 4981,
     "reanimations": 366,
-    "retours": 82881,
-    "deces": 19800
+    "retours": null,
+    "deces": null
   },
   {
     "date": "09/08/2020",
     "hospitalisations": 4992,
     "reanimations": 368,
-    "retours": 82886,
-    "deces": 19800
+    "retours": null,
+    "deces": null
   },
   {
     "date": "10/08/2020",
     "hospitalisations": 5004,
     "reanimations": 372,
-    "retours": 83036,
-    "deces": 19814
+    "retours": null,
+    "deces": null
   },
   {
     "date": "11/08/2020",
     "hospitalisations": 4971,
     "reanimations": 367,
-    "retours": 83226,
-    "deces": 19829
+    "retours": null,
+    "deces": null
   },
   {
     "date": "12/08/2020",
     "hospitalisations": 4850,
     "reanimations": 355,
-    "retours": 83461,
-    "deces": 19846
+    "retours": null,
+    "deces": null
   },
   {
     "date": "13/08/2020",
     "hospitalisations": 4824,
     "reanimations": 351,
-    "retours": 83651,
-    "deces": 19863
+    "retours": null,
+    "deces": null
   },
   {
     "date": "14/08/2020",
     "hospitalisations": 4788,
     "reanimations": 344,
-    "retours": 83836,
-    "deces": 19881
+    "retours": null,
+    "deces": null
   },
   {
     "date": "15/08/2020",
     "hospitalisations": 4817,
     "reanimations": 353,
-    "retours": 83880,
-    "deces": 19884
+    "retours": null,
+    "deces": null
   },
   {
     "date": "16/08/2020",
     "hospitalisations": 4820,
     "reanimations": 353,
-    "retours": 83909,
-    "deces": 19885
+    "retours": null,
+    "deces": null
   },
   {
     "date": "17/08/2020",
     "hospitalisations": 4885,
     "reanimations": 361,
-    "retours": 84053,
-    "deces": 19904
+    "retours": null,
+    "deces": null
   },
   {
     "date": "18/08/2020",
     "hospitalisations": 4783,
     "reanimations": 357,
-    "retours": 84297,
-    "deces": 19920
+    "retours": null,
+    "deces": null
   },
   {
     "date": "19/08/2020",
     "hospitalisations": 4781,
     "reanimations": 362,
-    "retours": 84440,
-    "deces": 19937
+    "retours": null,
+    "deces": null
   },
   {
     "date": "20/08/2020",
     "hospitalisations": 4723,
     "reanimations": 368,
-    "retours": 84615,
-    "deces": 19949
+    "retours": null,
+    "deces": null
   },
   {
     "date": "21/08/2020",
     "hospitalisations": 4720,
     "reanimations": 367,
-    "retours": 84802,
-    "deces": 19972
+    "retours": null,
+    "deces": null
   },
   {
     "date": "22/08/2020",
     "hospitalisations": 4685,
     "reanimations": 368,
-    "retours": 84923,
-    "deces": 19980
+    "retours": null,
+    "deces": null
   },
   {
     "date": "23/08/2020",
     "hospitalisations": 4683,
     "reanimations": 371,
-    "retours": 84946,
-    "deces": 19981
+    "retours": null,
+    "deces": null
   },
   {
     "date": "24/08/2020",
     "hospitalisations": 4664,
     "reanimations": 387,
-    "retours": 85172,
-    "deces": 19996
+    "retours": null,
+    "deces": null
   },
   {
     "date": "25/08/2020",
     "hospitalisations": 4578,
     "reanimations": 401,
-    "retours": 85494,
-    "deces": 20016
+    "retours": null,
+    "deces": null
   },
   {
     "date": "26/08/2020",
     "hospitalisations": 4535,
     "reanimations": 373,
-    "retours": 85731,
-    "deces": 20034
+    "retours": null,
+    "deces": null
   },
   {
     "date": "27/08/2020",
     "hospitalisations": 4517,
     "reanimations": 375,
-    "retours": 85954,
-    "deces": 20046
+    "retours": null,
+    "deces": null
   },
   {
     "date": "28/08/2020",
     "hospitalisations": 4517,
     "reanimations": 381,
-    "retours": 86147,
-    "deces": 20065
+    "retours": null,
+    "deces": null
   },
   {
     "date": "29/08/2020",
     "hospitalisations": 4512,
     "reanimations": 394,
-    "retours": 86268,
-    "deces": 20071
+    "retours": null,
+    "deces": null
   },
   {
     "date": "30/08/2020",
     "hospitalisations": 4517,
     "reanimations": 396,
-    "retours": 86280,
-    "deces": 20075
+    "retours": null,
+    "deces": null
   },
   {
     "date": "31/08/2020",
     "hospitalisations": 4564,
     "reanimations": 403,
-    "retours": 86439,
-    "deces": 20104
+    "retours": null,
+    "deces": null
   },
   {
     "date": "01/09/2020",
     "hospitalisations": 4586,
     "reanimations": 418,
-    "retours": 86682,
-    "deces": 20123
+    "retours": null,
+    "deces": null
   },
   {
     "date": "02/09/2020",
     "hospitalisations": 4614,
     "reanimations": 440,
-    "retours": 86933,
-    "deces": 20148
+    "retours": null,
+    "deces": null
   },
   {
     "date": "03/09/2020",
     "hospitalisations": 4625,
     "reanimations": 458,
-    "retours": 87176,
-    "deces": 20168
+    "retours": null,
+    "deces": null
   },
   {
     "date": "04/09/2020",
     "hospitalisations": 4653,
     "reanimations": 467,
-    "retours": 87417,
-    "deces": 20186
+    "retours": null,
+    "deces": null
   },
   {
     "date": "05/09/2020",
     "hospitalisations": 4667,
     "reanimations": 476,
-    "retours": 87549,
-    "deces": 20198
+    "retours": null,
+    "deces": null
   },
   {
     "date": "06/09/2020",
     "hospitalisations": 4697,
     "reanimations": 480,
-    "retours": 87578,
-    "deces": 20201
+    "retours": null,
+    "deces": null
   },
   {
     "date": "07/09/2020",
     "hospitalisations": 4889,
     "reanimations": 531,
-    "retours": 87806,
-    "deces": 20226
+    "retours": null,
+    "deces": null
   },
   {
     "date": "08/09/2020",
     "hospitalisations": 4942,
     "reanimations": 568,
-    "retours": 88196,
-    "deces": 20265
+    "retours": null,
+    "deces": null
   },
   {
     "date": "09/09/2020",
     "hospitalisations": 4985,
     "reanimations": 593,
-    "retours": 88494,
-    "deces": 20295
+    "retours": null,
+    "deces": null
   },
   {
     "date": "10/09/2020",
     "hospitalisations": 5077,
     "reanimations": 608,
-    "retours": 88712,
-    "deces": 20314
+    "retours": null,
+    "deces": null
   },
   {
     "date": "11/09/2020",
     "hospitalisations": 5136,
     "reanimations": 628,
-    "retours": 89029,
-    "deces": 20354
+    "retours": null,
+    "deces": null
   },
   {
     "date": "12/09/2020",
     "hospitalisations": 5176,
     "reanimations": 655,
-    "retours": 89201,
-    "deces": 20371
+    "retours": null,
+    "deces": null
   },
   {
     "date": "13/09/2020",
     "hospitalisations": 5228,
     "reanimations": 662,
-    "retours": 89240,
-    "deces": 20377
+    "retours": null,
+    "deces": null
   },
   {
     "date": "14/09/2020",
     "hospitalisations": 5479,
     "reanimations": 705,
-    "retours": 89477,
-    "deces": 20411
+    "retours": null,
+    "deces": null
   },
   {
     "date": "15/09/2020",
     "hospitalisations": 5660,
     "reanimations": 752,
-    "retours": 89861,
-    "deces": 20447
+    "retours": null,
+    "deces": null
   },
   {
     "date": "16/09/2020",
     "hospitalisations": 5800,
     "reanimations": 796,
-    "retours": 90305,
-    "deces": 20493
+    "retours": null,
+    "deces": null
   },
   {
     "date": "17/09/2020",
     "hospitalisations": 5825,
     "reanimations": 793,
-    "retours": 90810,
-    "deces": 20543
+    "retours": null,
+    "deces": null
   },
   {
     "date": "18/09/2020",
     "hospitalisations": 5800,
     "reanimations": 820,
-    "retours": 91544,
-    "deces": 20665
+    "retours": null,
+    "deces": null
   },
   {
     "date": "19/09/2020",
     "hospitalisations": 5493,
     "reanimations": 827,
-    "retours": 92289,
-    "deces": 20690
+    "retours": null,
+    "deces": null
   },
   {
     "date": "20/09/2020",
     "hospitalisations": 5356,
     "reanimations": 834,
-    "retours": 92552,
-    "deces": 20701
+    "retours": null,
+    "deces": null
   },
   {
     "date": "21/09/2020",
     "hospitalisations": 5597,
     "reanimations": 912,
-    "retours": 92978,
-    "deces": 20754
+    "retours": null,
+    "deces": null
   },
   {
     "date": "22/09/2020",
     "hospitalisations": 5777,
     "reanimations": 944,
-    "retours": 93508,
-    "deces": 20821
+    "retours": null,
+    "deces": null
   },
   {
     "date": "23/09/2020",
     "hospitalisations": 5913,
     "reanimations": 995,
-    "retours": 93952,
-    "deces": 20864
+    "retours": null,
+    "deces": null
   },
   {
     "date": "24/09/2020",
     "hospitalisations": 6012,
     "reanimations": 1041,
-    "retours": 94383,
-    "deces": 20916
+    "retours": null,
+    "deces": null
   },
   {
     "date": "25/09/2020",
     "hospitalisations": 6110,
     "reanimations": 1092,
-    "retours": 94860,
-    "deces": 20971
+    "retours": null,
+    "deces": null
   },
   {
     "date": "26/09/2020",
     "hospitalisations": 6154,
     "reanimations": 1105,
-    "retours": 95272,
-    "deces": 21010
+    "retours": null,
+    "deces": null
   },
   {
     "date": "27/09/2020",
     "hospitalisations": 6235,
     "reanimations": 1112,
-    "retours": 95395,
-    "deces": 21037
+    "retours": null,
+    "deces": null
   },
   {
     "date": "28/09/2020",
     "hospitalisations": 6397,
     "reanimations": 1158,
-    "retours": 95743,
-    "deces": 21118
+    "retours": null,
+    "deces": null
   },
   {
     "date": "29/09/2020",
     "hospitalisations": 6482,
     "reanimations": 1198,
-    "retours": 96296,
-    "deces": 21177
+    "retours": null,
+    "deces": null
   },
   {
     "date": "30/09/2020",
     "hospitalisations": 6572,
     "reanimations": 1232,
-    "retours": 96766,
-    "deces": 21240
+    "retours": null,
+    "deces": null
   },
   {
     "date": "01/10/2020",
     "hospitalisations": 6634,
     "reanimations": 1259,
-    "retours": 97240,
-    "deces": 21303
+    "retours": null,
+    "deces": null
   },
   {
     "date": "02/10/2020",
     "hospitalisations": 6740,
     "reanimations": 1270,
-    "retours": 97747,
-    "deces": 21350
+    "retours": null,
+    "deces": null
   },
   {
     "date": "03/10/2020",
     "hospitalisations": 6740,
     "reanimations": 1289,
-    "retours": 98199,
-    "deces": 21393
+    "retours": null,
+    "deces": null
   },
   {
     "date": "04/10/2020",
     "hospitalisations": 6964,
     "reanimations": 1335,
-    "retours": 98343,
-    "deces": 21425
+    "retours": null,
+    "deces": null
   },
   {
     "date": "05/10/2020",
     "hospitalisations": 7276,
     "reanimations": 1409,
-    "retours": 98649,
-    "deces": 21494
+    "retours": null,
+    "deces": null
   },
   {
     "date": "06/10/2020",
     "hospitalisations": 7377,
     "reanimations": 1417,
-    "retours": 99264,
-    "deces": 21556
+    "retours": null,
+    "deces": null
   },
   {
     "date": "07/10/2020",
     "hospitalisations": 7514,
     "reanimations": 1406,
-    "retours": 99762,
-    "deces": 21636
+    "retours": null,
+    "deces": null
   },
   {
     "date": "08/10/2020",
     "hospitalisations": 7603,
     "reanimations": 1418,
-    "retours": 100275,
-    "deces": 21712
+    "retours": null,
+    "deces": null
   },
   {
     "date": "09/10/2020",
     "hospitalisations": 7843,
     "reanimations": 1439,
-    "retours": 100797,
-    "deces": 21774
+    "retours": null,
+    "deces": null
   },
   {
     "date": "10/10/2020",
     "hospitalisations": 7976,
     "reanimations": 1456,
-    "retours": 101280,
-    "deces": 21828
+    "retours": null,
+    "deces": null
   },
   {
     "date": "11/10/2020",
     "hospitalisations": 8231,
     "reanimations": 1483,
-    "retours": 101460,
-    "deces": 21874
+    "retours": null,
+    "deces": null
   },
   {
     "date": "12/10/2020",
     "hospitalisations": 8671,
     "reanimations": 1539,
-    "retours": 101868,
-    "deces": 21969
+    "retours": null,
+    "deces": null
   },
   {
     "date": "13/10/2020",
     "hospitalisations": 8928,
     "reanimations": 1633,
-    "retours": 102649,
-    "deces": 22053
+    "retours": null,
+    "deces": null
   },
   {
     "date": "14/10/2020",
     "hospitalisations": 9173,
     "reanimations": 1664,
-    "retours": 103382,
-    "deces": 22157
+    "retours": null,
+    "deces": null
   },
   {
     "date": "15/10/2020",
     "hospitalisations": 9584,
     "reanimations": 1741,
-    "retours": 104051,
-    "deces": 22245
+    "retours": null,
+    "deces": null
   },
   {
     "date": "16/10/2020",
     "hospitalisations": 10021,
     "reanimations": 1791,
-    "retours": 104665,
-    "deces": 22367
+    "retours": null,
+    "deces": null
   },
   {
     "date": "17/10/2020",
     "hospitalisations": 10399,
     "reanimations": 1868,
-    "retours": 105163,
-    "deces": 22456
+    "retours": null,
+    "deces": null
   },
   {
     "date": "18/10/2020",
     "hospitalisations": 10897,
     "reanimations": 1939,
-    "retours": 105400,
-    "deces": 22541
+    "retours": null,
+    "deces": null
   },
   {
     "date": "19/10/2020",
     "hospitalisations": 11640,
     "reanimations": 2090,
-    "retours": 105904,
-    "deces": 22687
+    "retours": null,
+    "deces": null
   },
   {
     "date": "20/10/2020",
     "hospitalisations": 12435,
     "reanimations": 2168,
-    "retours": 106808,
-    "deces": 22849
+    "retours": null,
+    "deces": null
   },
   {
     "date": "21/10/2020",
     "hospitalisations": 13162,
     "reanimations": 2239,
-    "retours": 107621,
-    "deces": 23012
+    "retours": null,
+    "deces": null
   },
   {
     "date": "22/10/2020",
     "hospitalisations": 14009,
     "reanimations": 2310,
-    "retours": 108568,
-    "deces": 23174
+    "retours": null,
+    "deces": null
   },
   {
     "date": "23/10/2020",
     "hospitalisations": 14985,
     "reanimations": 2432,
-    "retours": 109455,
-    "deces": 23358
+    "retours": null,
+    "deces": null
   },
   {
     "date": "24/10/2020",
     "hospitalisations": 15637,
     "reanimations": 2491,
-    "retours": 110291,
-    "deces": 23495
+    "retours": null,
+    "deces": null
   },
   {
     "date": "25/10/2020",
     "hospitalisations": 16454,
     "reanimations": 2575,
-    "retours": 110629,
-    "deces": 23611
+    "retours": null,
+    "deces": null
   },
   {
     "date": "26/10/2020",
     "hospitalisations": 17761,
     "reanimations": 2761,
-    "retours": 111316,
-    "deces": 23868
+    "retours": null,
+    "deces": null
   },
   {
     "date": "27/10/2020",
     "hospitalisations": 18955,
     "reanimations": 2909,
-    "retours": 112685,
-    "deces": 24156
+    "retours": null,
+    "deces": null
   },
   {
     "date": "28/10/2020",
     "hospitalisations": 20184,
     "reanimations": 3036,
-    "retours": 113946,
-    "deces": 24400
+    "retours": null,
+    "deces": null
   },
   {
     "date": "29/10/2020",
     "hospitalisations": 21160,
     "reanimations": 3147,
-    "retours": 115256,
-    "deces": 24635
+    "retours": null,
+    "deces": null
   },
   {
     "date": "30/10/2020",
     "hospitalisations": 22153,
     "reanimations": 3368,
-    "retours": 116502,
-    "deces": 24890
+    "retours": null,
+    "deces": null
   },
   {
     "date": "31/10/2020",
     "hospitalisations": 23013,
     "reanimations": 3443,
-    "retours": 117563,
-    "deces": 25113
+    "retours": null,
+    "deces": null
   },
   {
     "date": "01/11/2020",
     "hospitalisations": 24008,
     "reanimations": 3569,
-    "retours": 118196,
-    "deces": 25344
+    "retours": null,
+    "deces": null
   },
   {
     "date": "02/11/2020",
     "hospitalisations": 25120,
     "reanimations": 3721,
-    "retours": 119073,
-    "deces": 25760
+    "retours": null,
+    "deces": null
   },
   {
     "date": "03/11/2020",
     "hospitalisations": 26242,
     "reanimations": 3869,
-    "retours": 120683,
-    "deces": 26186
+    "retours": null,
+    "deces": null
   },
   {
     "date": "04/11/2020",
     "hospitalisations": 27511,
     "reanimations": 4080,
-    "retours": 122631,
-    "deces": 26571
+    "retours": null,
+    "deces": null
   },
   {
     "date": "05/11/2020",
     "hospitalisations": 28403,
     "reanimations": 4221,
-    "retours": 124247,
-    "deces": 26934
+    "retours": null,
+    "deces": null
   },
   {
     "date": "06/11/2020",
     "hospitalisations": 28955,
     "reanimations": 4321,
-    "retours": 126298,
-    "deces": 27332
+    "retours": null,
+    "deces": null
   },
   {
     "date": "07/11/2020",
     "hospitalisations": 29396,
     "reanimations": 4410,
-    "retours": 127907,
-    "deces": 27636
+    "retours": null,
+    "deces": null
   },
   {
     "date": "08/11/2020",
     "hospitalisations": 30217,
     "reanimations": 4527,
-    "retours": 128583,
-    "deces": 27906
+    "retours": null,
+    "deces": null
   },
   {
     "date": "09/11/2020",
     "hospitalisations": 31098,
     "reanimations": 4677,
-    "retours": 129704,
-    "deces": 28454
+    "retours": null,
+    "deces": null
   },
   {
     "date": "10/11/2020",
     "hospitalisations": 31477,
     "reanimations": 4736,
-    "retours": 131889,
-    "deces": 28920
+    "retours": null,
+    "deces": null
   },
   {
     "date": "11/11/2020",
     "hospitalisations": 31918,
     "reanimations": 4789,
-    "retours": 133665,
-    "deces": 29248
+    "retours": null,
+    "deces": null
   },
   {
     "date": "12/11/2020",
     "hospitalisations": 32654,
     "reanimations": 4884,
-    "retours": 134923,
-    "deces": 29673
+    "retours": null,
+    "deces": null
   },
   {
     "date": "13/11/2020",
     "hospitalisations": 32676,
     "reanimations": 4887,
-    "retours": 137124,
-    "deces": 30129
+    "retours": null,
+    "deces": null
   },
   {
     "date": "14/11/2020",
     "hospitalisations": 32468,
     "reanimations": 4855,
-    "retours": 139110,
-    "deces": 30483
+    "retours": null,
+    "deces": null
   },
   {
     "date": "15/11/2020",
     "hospitalisations": 33050,
     "reanimations": 4880,
-    "retours": 139779,
-    "deces": 30785
+    "retours": null,
+    "deces": null
   },
   {
     "date": "16/11/2020",
     "hospitalisations": 33466,
     "reanimations": 4903,
-    "retours": 140849,
-    "deces": 31291
+    "retours": null,
+    "deces": null
   },
   {
     "date": "17/11/2020",
     "hospitalisations": 33139,
     "reanimations": 4838,
-    "retours": 143121,
-    "deces": 31719
+    "retours": null,
+    "deces": null
   },
   {
     "date": "18/11/2020",
     "hospitalisations": 32811,
     "reanimations": 4759,
-    "retours": 145360,
-    "deces": 32144
+    "retours": null,
+    "deces": null
   },
   {
     "date": "19/11/2020",
     "hospitalisations": 32314,
     "reanimations": 4637,
-    "retours": 147538,
-    "deces": 32573
+    "retours": null,
+    "deces": null
   },
   {
     "date": "20/11/2020",
     "hospitalisations": 31875,
     "reanimations": 4566,
-    "retours": 149490,
-    "deces": 32954
+    "retours": null,
+    "deces": null
   },
   {
     "date": "21/11/2020",
     "hospitalisations": 31365,
     "reanimations": 4493,
-    "retours": 151146,
-    "deces": 33207
+    "retours": null,
+    "deces": null
   },
   {
     "date": "22/11/2020",
     "hospitalisations": 31522,
     "reanimations": 4491,
-    "retours": 151650,
-    "deces": 33421
+    "retours": null,
+    "deces": null
   },
   {
     "date": "23/11/2020",
     "hospitalisations": 31449,
     "reanimations": 4438,
-    "retours": 152561,
-    "deces": 33921
+    "retours": null,
+    "deces": null
   },
   {
     "date": "24/11/2020",
     "hospitalisations": 30594,
     "reanimations": 4277,
-    "retours": 154648,
-    "deces": 34374
+    "retours": null,
+    "deces": null
   },
   {
     "date": "25/11/2020",
     "hospitalisations": 29944,
     "reanimations": 4136,
-    "retours": 156521,
-    "deces": 34755
+    "retours": null,
+    "deces": null
   },
   {
     "date": "26/11/2020",
     "hospitalisations": 29282,
     "reanimations": 4006,
-    "retours": 158205,
-    "deces": 35094
+    "retours": null,
+    "deces": null
   },
   {
     "date": "27/11/2020",
     "hospitalisations": 28620,
     "reanimations": 3871,
-    "retours": 159884,
-    "deces": 35487
+    "retours": null,
+    "deces": null
   },
   {
     "date": "28/11/2020",
     "hospitalisations": 28139,
     "reanimations": 3765,
-    "retours": 161106,
-    "deces": 35700
+    "retours": null,
+    "deces": null
   },
   {
     "date": "29/11/2020",
     "hospitalisations": 28284,
     "reanimations": 3744,
-    "retours": 161396,
-    "deces": 35898
+    "retours": null,
+    "deces": null
   },
   {
     "date": "30/11/2020",
     "hospitalisations": 28229,
     "reanimations": 3739,
-    "retours": 162250,
-    "deces": 36304
+    "retours": null,
+    "deces": null
   },
   {
     "date": "01/12/2020",
     "hospitalisations": 27611,
     "reanimations": 3594,
-    "retours": 163998,
-    "deces": 36667
+    "retours": null,
+    "deces": null
   },
   {
     "date": "02/12/2020",
     "hospitalisations": 26986,
     "reanimations": 3478,
-    "retours": 165532,
-    "deces": 36976
+    "retours": null,
+    "deces": null
   },
   {
     "date": "03/12/2020",
     "hospitalisations": 26675,
     "reanimations": 3415,
-    "retours": 166909,
-    "deces": 37300
+    "retours": null,
+    "deces": null
   },
   {
     "date": "04/12/2020",
     "hospitalisations": 26283,
     "reanimations": 3283,
-    "retours": 168321,
-    "deces": 37582
+    "retours": null,
+    "deces": null
   },
   {
     "date": "05/12/2020",
     "hospitalisations": 26040,
     "reanimations": 3220,
-    "retours": 169327,
-    "deces": 37796
+    "retours": null,
+    "deces": null
   },
   {
     "date": "06/12/2020",
     "hospitalisations": 26262,
     "reanimations": 3210,
-    "retours": 169555,
-    "deces": 37970
+    "retours": null,
+    "deces": null
   },
   {
     "date": "07/12/2020",
     "hospitalisations": 26333,
     "reanimations": 3188,
-    "retours": 170254,
-    "deces": 38336
+    "retours": null,
+    "deces": null
   },
   {
     "date": "08/12/2020",
     "hospitalisations": 25882,
     "reanimations": 3078,
-    "retours": 171837,
-    "deces": 38713
+    "retours": null,
+    "deces": null
   },
   {
     "date": "09/12/2020",
     "hospitalisations": 25526,
     "reanimations": 3031,
-    "retours": 173216,
-    "deces": 39009
+    "retours": null,
+    "deces": null
   },
   {
     "date": "10/12/2020",
     "hospitalisations": 25199,
     "reanimations": 2949,
-    "retours": 174627,
-    "deces": 39301
+    "retours": null,
+    "deces": null
   },
   {
     "date": "11/12/2020",
     "hospitalisations": 24943,
     "reanimations": 2874,
-    "retours": 175860,
-    "deces": 39605
+    "retours": null,
+    "deces": null
   },
   {
     "date": "12/12/2020",
     "hospitalisations": 24948,
     "reanimations": 2851,
-    "retours": 176712,
-    "deces": 39799
+    "retours": null,
+    "deces": null
   },
   {
     "date": "13/12/2020",
     "hospitalisations": 25207,
     "reanimations": 2861,
-    "retours": 176964,
-    "deces": 39949
+    "retours": null,
+    "deces": null
   },
   {
     "date": "14/12/2020",
     "hospitalisations": 25449,
     "reanimations": 2896,
-    "retours": 177616,
-    "deces": 40320
+    "retours": null,
+    "deces": null
   },
   {
     "date": "15/12/2020",
     "hospitalisations": 25207,
     "reanimations": 2871,
-    "retours": 179056,
-    "deces": 40627
+    "retours": null,
+    "deces": null
   },
   {
     "date": "16/12/2020",
     "hospitalisations": 25282,
     "reanimations": 2840,
-    "retours": 180280,
-    "deces": 40916
+    "retours": null,
+    "deces": null
   },
   {
     "date": "17/12/2020",
     "hospitalisations": 25149,
     "reanimations": 2798,
-    "retours": 181475,
-    "deces": 41174
+    "retours": null,
+    "deces": null
   },
   {
     "date": "18/12/2020",
     "hospitalisations": 24945,
     "reanimations": 2764,
-    "retours": 182634,
-    "deces": 41429
+    "retours": null,
+    "deces": null
   },
   {
     "date": "19/12/2020",
     "hospitalisations": 24819,
     "reanimations": 2718,
-    "retours": 183540,
-    "deces": 41618
+    "retours": null,
+    "deces": null
   },
   {
     "date": "20/12/2020",
     "hospitalisations": 24961,
     "reanimations": 2745,
-    "retours": 183775,
-    "deces": 41749
+    "retours": null,
+    "deces": null
   },
   {
     "date": "21/12/2020",
     "hospitalisations": 25201,
     "reanimations": 2737,
-    "retours": 184433,
-    "deces": 42100
+    "retours": null,
+    "deces": null
   },
   {
     "date": "22/12/2020",
     "hospitalisations": 24932,
     "reanimations": 2719,
-    "retours": 186027,
-    "deces": 42481
+    "retours": null,
+    "deces": null
   },
   {
     "date": "23/12/2020",
     "hospitalisations": 24852,
     "reanimations": 2701,
-    "retours": 187241,
-    "deces": 42757
+    "retours": null,
+    "deces": null
   },
   {
     "date": "24/12/2020",
     "hospitalisations": 24607,
     "reanimations": 2643,
-    "retours": 188608,
-    "deces": 43047
+    "retours": null,
+    "deces": null
   },
   {
     "date": "25/12/2020",
     "hospitalisations": 24359,
     "reanimations": 2616,
-    "retours": 189414,
-    "deces": 43206
+    "retours": null,
+    "deces": null
   },
   {
     "date": "26/12/2020",
     "hospitalisations": 24444,
     "reanimations": 2640,
-    "retours": 189687,
-    "deces": 43352
+    "retours": null,
+    "deces": null
   },
   {
     "date": "27/12/2020",
     "hospitalisations": 24620,
     "reanimations": 2650,
-    "retours": 189910,
-    "deces": 43525
+    "retours": null,
+    "deces": null
   },
   {
     "date": "28/12/2020",
     "hospitalisations": 24645,
     "reanimations": 2694,
-    "retours": 190691,
-    "deces": 43888
+    "retours": null,
+    "deces": null
   },
   {
     "date": "29/12/2020",
     "hospitalisations": 24743,
     "reanimations": 2666,
-    "retours": 191775,
-    "deces": 44272
+    "retours": null,
+    "deces": null
   },
   {
     "date": "30/12/2020",
     "hospitalisations": 24560,
     "reanimations": 2652,
-    "retours": 193014,
-    "deces": 44575
+    "retours": null,
+    "deces": null
   },
   {
     "date": "31/12/2020",
     "hospitalisations": 24407,
     "reanimations": 2625,
-    "retours": 194190,
-    "deces": 44826
+    "retours": null,
+    "deces": null
   },
   {
     "date": "01/01/2021",
     "hospitalisations": 24263,
     "reanimations": 2609,
-    "retours": 194870,
-    "deces": 44959
+    "retours": null,
+    "deces": null
   },
   {
     "date": "02/01/2021",
     "hospitalisations": 24458,
     "reanimations": 2632,
-    "retours": 195143,
-    "deces": 45115
+    "retours": null,
+    "deces": null
   },
   {
     "date": "03/01/2021",
     "hospitalisations": 24780,
     "reanimations": 2665,
-    "retours": 195355,
-    "deces": 45231
+    "retours": null,
+    "deces": null
   },
   {
     "date": "04/01/2021",
     "hospitalisations": 24962,
     "reanimations": 2657,
-    "retours": 196006,
-    "deces": 45609
+    "retours": null,
+    "deces": null
   },
   {
     "date": "05/01/2021",
     "hospitalisations": 24871,
     "reanimations": 2616,
-    "retours": 197472,
-    "deces": 45954
+    "retours": null,
+    "deces": null
   },
   {
     "date": "06/01/2021",
     "hospitalisations": 24708,
     "reanimations": 2607,
-    "retours": 198725,
-    "deces": 46237
+    "retours": null,
+    "deces": null
   },
   {
     "date": "07/01/2021",
     "hospitalisations": 24488,
     "reanimations": 2573,
-    "retours": 200048,
-    "deces": 46513
+    "retours": null,
+    "deces": null
   },
   {
     "date": "08/01/2021",
     "hospitalisations": 24377,
     "reanimations": 2606,
-    "retours": 201255,
-    "deces": 46789
+    "retours": null,
+    "deces": null
   },
   {
     "date": "09/01/2021",
     "hospitalisations": 24240,
     "reanimations": 2600,
-    "retours": 202134,
-    "deces": 46957
+    "retours": null,
+    "deces": null
   },
   {
     "date": "10/01/2021",
     "hospitalisations": 24526,
     "reanimations": 2620,
-    "retours": 202398,
-    "deces": 47108
+    "retours": null,
+    "deces": null
   },
   {
     "date": "11/01/2021",
     "hospitalisations": 24812,
     "reanimations": 2666,
-    "retours": 203041,
-    "deces": 47418
+    "retours": null,
+    "deces": null
   },
   {
     "date": "12/01/2021",
     "hospitalisations": 24703,
     "reanimations": 2678,
-    "retours": 204359,
-    "deces": 47773
+    "retours": null,
+    "deces": null
   },
   {
     "date": "13/01/2021",
     "hospitalisations": 24735,
     "reanimations": 2701,
-    "retours": 205641,
-    "deces": 48002
+    "retours": null,
+    "deces": null
   },
   {
     "date": "14/01/2021",
     "hospitalisations": 24983,
     "reanimations": 2716,
-    "retours": 206771,
-    "deces": 48284
+    "retours": null,
+    "deces": null
   },
   {
     "date": "15/01/2021",
     "hospitalisations": 25009,
     "reanimations": 2730,
-    "retours": 208040,
-    "deces": 48564
+    "retours": null,
+    "deces": null
   },
   {
     "date": "16/01/2021",
     "hospitalisations": 24985,
     "reanimations": 2731,
-    "retours": 209025,
-    "deces": 48757
+    "retours": null,
+    "deces": null
   },
   {
     "date": "17/01/2021",
     "hospitalisations": 25235,
     "reanimations": 2766,
-    "retours": 209312,
-    "deces": 48898
+    "retours": null,
+    "deces": null
   },
   {
     "date": "18/01/2021",
     "hospitalisations": 25584,
     "reanimations": 2803,
-    "retours": 210169,
-    "deces": 49301
+    "retours": null,
+    "deces": null
   },
   {
     "date": "19/01/2021",
     "hospitalisations": 25532,
     "reanimations": 2829,
-    "retours": 211785,
-    "deces": 49670
+    "retours": null,
+    "deces": null
   },
   {
     "date": "20/01/2021",
     "hospitalisations": 25650,
     "reanimations": 2842,
-    "retours": 213211,
-    "deces": 49980
+    "retours": null,
+    "deces": null
   },
   {
     "date": "21/01/2021",
     "hospitalisations": 25699,
     "reanimations": 2866,
-    "retours": 214507,
-    "deces": 50326
+    "retours": null,
+    "deces": null
   },
   {
     "date": "22/01/2021",
     "hospitalisations": 25872,
     "reanimations": 2902,
-    "retours": 215791,
-    "deces": 50645
+    "retours": null,
+    "deces": null
   },
   {
     "date": "23/01/2021",
     "hospitalisations": 25864,
     "reanimations": 2886,
-    "retours": 216694,
-    "deces": 50875
+    "retours": null,
+    "deces": null
   },
   {
     "date": "24/01/2021",
     "hospitalisations": 26357,
     "reanimations": 2955,
-    "retours": 216934,
-    "deces": 51047
+    "retours": null,
+    "deces": null
   },
   {
     "date": "25/01/2021",
     "hospitalisations": 26888,
     "reanimations": 3031,
-    "retours": 217677,
-    "deces": 51492
+    "retours": null,
+    "deces": null
   },
   {
     "date": "26/01/2021",
     "hospitalisations": 27005,
     "reanimations": 3071,
-    "retours": 219121,
-    "deces": 51842
+    "retours": null,
+    "deces": null
   },
   {
     "date": "27/01/2021",
     "hospitalisations": 27131,
     "reanimations": 3097,
-    "retours": 220539,
-    "deces": 52192
+    "retours": null,
+    "deces": null
   },
   {
     "date": "28/01/2021",
     "hospitalisations": 27128,
     "reanimations": 3101,
-    "retours": 221872,
-    "deces": 52536
+    "retours": null,
+    "deces": null
   },
   {
     "date": "29/01/2021",
     "hospitalisations": 27270,
     "reanimations": 3120,
-    "retours": 223143,
-    "deces": 52891
+    "retours": null,
+    "deces": null
   },
   {
     "date": "30/01/2021",
     "hospitalisations": 27242,
     "reanimations": 3103,
-    "retours": 224089,
-    "deces": 53133
+    "retours": null,
+    "deces": null
   },
   {
     "date": "31/01/2021",
     "hospitalisations": 27573,
     "reanimations": 3148,
-    "retours": 224375,
-    "deces": 53328
+    "retours": null,
+    "deces": null
   },
   {
     "date": "01/02/2021",
     "hospitalisations": 27874,
     "reanimations": 3218,
-    "retours": 225288,
-    "deces": 53783
+    "retours": null,
+    "deces": null
   },
   {
     "date": "02/02/2021",
     "hospitalisations": 28029,
     "reanimations": 3270,
-    "retours": 226865,
-    "deces": 54187
+    "retours": null,
+    "deces": null
   },
   {
     "date": "03/02/2021",
     "hospitalisations": 27953,
     "reanimations": 3267,
-    "retours": 228441,
-    "deces": 54544
+    "retours": null,
+    "deces": null
   },
   {
     "date": "04/02/2021",
     "hospitalisations": 27766,
     "reanimations": 3240,
-    "retours": 229944,
-    "deces": 54901
+    "retours": null,
+    "deces": null
   },
   {
     "date": "05/02/2021",
     "hospitalisations": 27572,
     "reanimations": 3235,
-    "retours": 231518,
-    "deces": 55194
+    "retours": null,
+    "deces": null
   },
   {
     "date": "06/02/2021",
     "hospitalisations": 27327,
     "reanimations": 3215,
-    "retours": 232662,
-    "deces": 55385
+    "retours": null,
+    "deces": null
   },
   {
     "date": "07/02/2021",
     "hospitalisations": 27652,
     "reanimations": 3262,
-    "retours": 232946,
-    "deces": 55556
+    "retours": null,
+    "deces": null
   },
   {
     "date": "08/02/2021",
     "hospitalisations": 27995,
     "reanimations": 3353,
-    "retours": 233962,
-    "deces": 56014
+    "retours": null,
+    "deces": null
   },
   {
     "date": "09/02/2021",
     "hospitalisations": 27634,
     "reanimations": 3332,
-    "retours": 235686,
-    "deces": 56450
+    "retours": null,
+    "deces": null
   },
   {
     "date": "10/02/2021",
     "hospitalisations": 27417,
     "reanimations": 3309,
-    "retours": 237082,
-    "deces": 56746
+    "retours": null,
+    "deces": null
   },
   {
     "date": "11/02/2021",
     "hospitalisations": 26963,
     "reanimations": 3327,
-    "retours": 238722,
-    "deces": 57106
+    "retours": null,
+    "deces": null
   },
   {
     "date": "12/02/2021",
     "hospitalisations": 26424,
     "reanimations": 3298,
-    "retours": 240259,
-    "deces": 57423
+    "retours": null,
+    "deces": null
   },
   {
     "date": "13/02/2021",
     "hospitalisations": 26196,
     "reanimations": 3294,
-    "retours": 241323,
-    "deces": 57622
+    "retours": null,
+    "deces": null
   },
   {
     "date": "14/02/2021",
     "hospitalisations": 26401,
     "reanimations": 3299,
-    "retours": 241597,
-    "deces": 57789
+    "retours": null,
+    "deces": null
   },
   {
     "date": "15/02/2021",
     "hospitalisations": 26478,
     "reanimations": 3371,
-    "retours": 242497,
-    "deces": 58201
+    "retours": null,
+    "deces": null
   },
   {
     "date": "16/02/2021",
     "hospitalisations": 26195,
     "reanimations": 3338,
-    "retours": 244207,
-    "deces": 58552
+    "retours": null,
+    "deces": null
   },
   {
     "date": "17/02/2021",
     "hospitalisations": 25929,
     "reanimations": 3340,
-    "retours": 245706,
-    "deces": 58862
+    "retours": null,
+    "deces": null
   },
   {
     "date": "18/02/2021",
     "hospitalisations": 25717,
     "reanimations": 3384,
-    "retours": 247096,
-    "deces": 59133
+    "retours": null,
+    "deces": null
   },
   {
     "date": "19/02/2021",
     "hospitalisations": 25506,
     "reanimations": 3380,
-    "retours": 248457,
-    "deces": 59458
+    "retours": null,
+    "deces": null
   },
   {
     "date": "20/02/2021",
     "hospitalisations": 25269,
     "reanimations": 3369,
-    "retours": 249520,
-    "deces": 59641
+    "retours": null,
+    "deces": null
   },
   {
     "date": "21/02/2021",
     "hospitalisations": 25464,
     "reanimations": 3392,
-    "retours": 249727,
-    "deces": 59800
+    "retours": null,
+    "deces": null
   },
   {
     "date": "22/02/2021",
     "hospitalisations": 25831,
     "reanimations": 3407,
-    "retours": 250532,
-    "deces": 60133
+    "retours": null,
+    "deces": null
   },
   {
     "date": "23/02/2021",
     "hospitalisations": 25660,
     "reanimations": 3435,
-    "retours": 252083,
-    "deces": 60443
+    "retours": null,
+    "deces": null
   },
   {
     "date": "24/02/2021",
     "hospitalisations": 25614,
     "reanimations": 3436,
-    "retours": 253450,
-    "deces": 60720
+    "retours": null,
+    "deces": null
   },
   {
     "date": "25/02/2021",
     "hospitalisations": 25317,
     "reanimations": 3430,
-    "retours": 254868,
-    "deces": 60981
+    "retours": null,
+    "deces": null
   },
   {
     "date": "26/02/2021",
     "hospitalisations": 25130,
     "reanimations": 3445,
-    "retours": 256326,
-    "deces": 61265
+    "retours": null,
+    "deces": null
   },
   {
     "date": "27/02/2021",
     "hospitalisations": 24989,
     "reanimations": 3453,
-    "retours": 257258,
-    "deces": 61450
+    "retours": null,
+    "deces": null
   },
   {
     "date": "28/02/2021",
     "hospitalisations": 25280,
     "reanimations": 3492,
-    "retours": 257555,
-    "deces": 61572
+    "retours": null,
+    "deces": null
   },
   {
     "date": "01/03/2021",
     "hospitalisations": 25430,
     "reanimations": 3544,
-    "retours": 258384,
-    "deces": 61947
+    "retours": null,
+    "deces": null
   },
   {
     "date": "02/03/2021",
     "hospitalisations": 25263,
     "reanimations": 3586,
-    "retours": 259893,
-    "deces": 62247
+    "retours": null,
+    "deces": null
   },
   {
     "date": "03/03/2021",
     "hospitalisations": 25111,
     "reanimations": 3637,
-    "retours": 261289,
-    "deces": 62569
+    "retours": null,
+    "deces": null
   },
   {
     "date": "04/03/2021",
     "hospitalisations": 24891,
     "reanimations": 3633,
-    "retours": 262690,
-    "deces": 62862
+    "retours": null,
+    "deces": null
   },
   {
     "date": "05/03/2021",
     "hospitalisations": 24765,
     "reanimations": 3680,
-    "retours": 263919,
-    "deces": 63100
+    "retours": null,
+    "deces": null
   },
   {
     "date": "06/03/2021",
     "hospitalisations": 24625,
     "reanimations": 3689,
-    "retours": 264909,
-    "deces": 63270
+    "retours": null,
+    "deces": null
   },
   {
     "date": "07/03/2021",
     "hospitalisations": 24818,
     "reanimations": 3743,
-    "retours": 265295,
-    "deces": 63400
+    "retours": null,
+    "deces": null
   },
   {
     "date": "08/03/2021",
     "hospitalisations": 25195,
     "reanimations": 3849,
-    "retours": 266096,
-    "deces": 63759
+    "retours": null,
+    "deces": null
   },
   {
     "date": "09/03/2021",
     "hospitalisations": 25201,
     "reanimations": 3918,
-    "retours": 267539,
-    "deces": 64057
+    "retours": null,
+    "deces": null
   },
   {
     "date": "10/03/2021",
     "hospitalisations": 24969,
     "reanimations": 3918,
-    "retours": 269019,
-    "deces": 64321
+    "retours": null,
+    "deces": null
   },
   {
     "date": "11/03/2021",
     "hospitalisations": 24858,
     "reanimations": 3992,
-    "retours": 270433,
-    "deces": 64586
+    "retours": null,
+    "deces": null
   },
   {
     "date": "12/03/2021",
     "hospitalisations": 24749,
     "reanimations": 4033,
-    "retours": 271678,
-    "deces": 64809
+    "retours": null,
+    "deces": null
   },
   {
     "date": "13/03/2021",
     "hospitalisations": 24671,
     "reanimations": 4070,
-    "retours": 272615,
-    "deces": 64978
+    "retours": null,
+    "deces": null
   },
   {
     "date": "14/03/2021",
     "hospitalisations": 24989,
     "reanimations": 4127,
-    "retours": 272960,
-    "deces": 65118
+    "retours": 13171,
+    "deces": 7381
   },
   {
     "date": "15/03/2021",
     "hospitalisations": 25469,
     "reanimations": 4219,
-    "retours": 273771,
-    "deces": 65451
+    "retours": 13581,
+    "deces": 7361
   },
   {
     "date": "16/03/2021",
     "hospitalisations": 25492,
     "reanimations": 4239,
-    "retours": 275360,
-    "deces": 65765
+    "retours": 13580,
+    "deces": 7352
   },
   {
     "date": "17/03/2021",
     "hospitalisations": 25314,
     "reanimations": 4219,
-    "retours": 276993,
-    "deces": 66006
+    "retours": 13514,
+    "deces": 7264
+  },
+  {
+    "date": "18/03/2021",
+    "hospitalisations": 25389,
+    "reanimations": 4246,
+    "retours": 13576,
+    "deces": 7247
   }
 ]
