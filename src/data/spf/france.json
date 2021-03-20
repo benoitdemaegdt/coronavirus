@@ -2560,5 +2560,19 @@
     "reanimations": 4246,
     "retours": 13576,
     "deces": 7247
+  },
+  {
+    "date": "19/03/2021",
+    "hospitalisations": 25339,
+    "reanimations": 4287,
+    "retours": 13545,
+    "deces": 7188
+  },
+  {
+    "date": "20/03/2021",
+    "hospitalisations": 25537,
+    "reanimations": 4353,
+    "retours": 13661,
+    "deces": 7208
   }
 ]
