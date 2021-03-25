@@ -2595,5 +2595,19 @@
     "reanimations": 4634,
     "retours": 14616,
     "deces": 7175
+  },
+  {
+    "date": "24/03/2021",
+    "hospitalisations": 26876,
+    "reanimations": 4651,
+    "retours": 14686,
+    "deces": 7204
+  },
+  {
+    "date": "25/03/2021",
+    "hospitalisations": 27036,
+    "reanimations": 4709,
+    "retours": 14793,
+    "deces": 7195
   }
 ]
