@@ -2742,5 +2742,12 @@
     "reanimations": 5952,
     "retours": 17463,
     "deces": 7476
+  },
+  {
+    "date": "14/04/2021",
+    "hospitalisations": 30868,
+    "reanimations": 5902,
+    "retours": 17201,
+    "deces": 7434
   }
 ]
