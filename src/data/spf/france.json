@@ -2805,5 +2805,12 @@
     "reanimations": 5981,
     "retours": 16693,
     "deces": 7629
+  },
+  {
+    "date": "23/04/2021",
+    "hospitalisations": 30438,
+    "reanimations": 5962,
+    "retours": 16506,
+    "deces": 7637
   }
 ]
