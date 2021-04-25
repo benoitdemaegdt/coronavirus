@@ -15,7 +15,7 @@
     "core-js": "^3.7.0",
     "vue": "^2.6.12",
     "vue-chartjs": "^3.5.1",
-    "vue-horizontal-timeline": "^0.6.0",
+    "vue-horizontal-timeline": "^0.8.0",
     "vue-router": "^3.4.9",
     "vuetify": "^2.3.18"
   },
