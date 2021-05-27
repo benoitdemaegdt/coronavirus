@@ -1,0 +1,26 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+
+</title><meta http-equiv="refresh" content="10; URL=/" /></head>
+<body>
+    <form method="post" action="/data/coronavirus/coronacsv.aspx?format=json" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="CLOWKq8NUoqkXGKXU6EGR8rBF7rDbZYaRU0IpzCVxh3eA8ZiPhejOgaUNTRBzYR3JgO4QSu8l3KkgEtu3p1lA29ZeMANmfThK+lv/EgYpHE=" />
+</div>
+
+<div class="aspNetHidden">
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="7ABC8D36" />
+</div>
+    <div>
+    <b>Ouille Ouille Ouille, t'as tout cassé le site politologue.com !<br />
+    Pas de panic, je répare et dans quelques secondes je te redirige à l'entrée du site !
+    </b>
+    </div>
+    </form>
+</body>
+</html>
