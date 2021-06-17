@@ -3183,5 +3183,19 @@
     "reanimations": 1952,
     "retours": 4730,
     "deces": 4977
+  },
+  {
+    "date": "16/06/2021",
+    "hospitalisations": 11519,
+    "reanimations": 1873,
+    "retours": 4573,
+    "deces": 4837
+  },
+  {
+    "date": "17/06/2021",
+    "hospitalisations": 11114,
+    "reanimations": 1799,
+    "retours": 4316,
+    "deces": 4768
   }
 ]
