@@ -1,36 +1,36 @@
 [
   {
-    "date": "21/06/2021",
+    "date": "22/06/2021",
     "countries": [
       {
         "country": "Allemagne",
-        "infections": 3730401,
-        "deces": 90407
+        "infections": 3730795,
+        "deces": 90499
       },
       {
         "country": "Espagne",
-        "infections": 3757442,
-        "deces": 80652
+        "infections": 3768691,
+        "deces": 80719
       },
       {
         "country": "France",
-        "infections": 5693467,
-        "deces": 109851
+        "infections": 5693439,
+        "deces": 109885
       },
       {
         "country": "Royaume-Uni",
-        "infections": 4652214,
-        "deces": 128151
+        "infections": 4663696,
+        "deces": 128178
       },
       {
         "country": "Italie",
-        "infections": 4253456,
-        "deces": 127291
+        "infections": 4254294,
+        "deces": 127322
       },
       {
         "country": "États-Unis",
-        "infections": 33545926,
-        "deces": 601903
+        "infections": 33557204,
+        "deces": 602241
       }
     ]
   }
