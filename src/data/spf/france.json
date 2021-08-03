@@ -3519,5 +3519,12 @@
     "reanimations": 1232,
     "retours": 3612,
     "deces": 2779
+  },
+  {
+    "date": "03/08/2021",
+    "hospitalisations": 7974,
+    "reanimations": 1331,
+    "retours": 3682,
+    "deces": 2733
   }
 ]
