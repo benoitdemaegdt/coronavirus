@@ -3666,5 +3666,12 @@
     "reanimations": 2215,
     "retours": 5964,
     "deces": 2584
+  },
+  {
+    "date": "24/08/2021",
+    "hospitalisations": 11066,
+    "reanimations": 2221,
+    "retours": 6021,
+    "deces": 2570
   }
 ]
