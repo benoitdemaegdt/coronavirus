@@ -1,11 +1,11 @@
 [
   {
-    "date": "28/01/2022",
+    "date": "29/01/2022",
     "countries": [
       {
         "country": "États-Unis",
-        "infections": 73535865,
-        "deces": 879435
+        "infections": 74068787,
+        "deces": 882886
       },
       {
         "country": "Italie",
@@ -14,23 +14,23 @@
       },
       {
         "country": "Royaume-Uni",
-        "infections": 16434142,
-        "deces": 155739
+        "infections": 16434753,
+        "deces": 155741
       },
       {
         "country": "France",
-        "infections": 17698089,
-        "deces": 127302
+        "infections": 18049894,
+        "deces": 127564
       },
       {
         "country": "Espagne",
-        "infections": 9660208,
-        "deces": 92767
+        "infections": 9779130,
+        "deces": 92966
       },
       {
         "country": "Allemagne",
-        "infections": 9461547,
-        "deces": 117538
+        "infections": 9672969,
+        "deces": 117673
       }
     ]
   }
