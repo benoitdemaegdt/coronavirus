@@ -18,14 +18,14 @@
         "deces": 134501
       },
       {
-        "country": "Italie",
-        "infections": 12603758,
-        "deces": 153764
-      },
-      {
         "country": "Royaume-Uni",
         "infections": 18851763,
         "deces": 161448
+      },
+      {
+        "country": "Italie",
+        "infections": 12603758,
+        "deces": 153764
       },
       {
         "country": "États-Unis",
