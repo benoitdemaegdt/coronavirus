@@ -1,4 +1,6 @@
 # coronavirus
+⚠️ ce dépôt n'est plus mis à jour ⚠️
+
 Visualisation des données officielles sur l'épidémie du coronavirus en france.
 
 Mise à jour automatique des ces données tous les jours à 20h via une Github Action.

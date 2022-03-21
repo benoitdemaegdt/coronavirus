@@ -1,35 +1,35 @@
-name: update data and build app
-on:
-  schedule:
-      - cron: '0 18 * * *'
-jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
-    runs-on: ubuntu-latest
+# name: update data and build app
+# on:
+#   schedule:
+#       - cron: '0 18 * * *'
+# jobs:
+#   # This workflow contains a single job called "build"
+#   build:
+#     # The type of runner that the job will run on
+#     runs-on: ubuntu-latest
 
-    steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
-    - uses: actions/setup-node@v1
-      with:
-        node-version: '12.x'
+#     steps:
+#     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+#     - uses: actions/checkout@v2
+#     - uses: actions/setup-node@v1
+#       with:
+#         node-version: '12.x'
 
-    # Update data from Santé Publique France
-    - name: Update
-      run: npm run preprocess
+#     # Update data from Santé Publique France
+#     - name: Update
+#       run: npm run preprocess
 
-    # Build VueJS app with new data 
-    - name: Build
-      run: |
-        npm install
-        npm run build
+#     # Build VueJS app with new data
+#     - name: Build
+#       run: |
+#         npm install
+#         npm run build
 
-    # Commit changes to keep track
-    - name: Commit
-      run: |
-        git config --global user.name 'benoitdemaegdt'
-        git config --global user.email 'benoit.demaegdt@gmail.com'
-        git add -A
-        git commit -m "update data"
-        git push
+#     # Commit changes to keep track
+#     - name: Commit
+#       run: |
+#         git config --global user.name 'benoitdemaegdt'
+#         git config --global user.email 'benoit.demaegdt@gmail.com'
+#         git add -A
+#         git commit -m "update data"
+#         git push
